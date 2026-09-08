@@ -1,0 +1,39 @@
+﻿name: Mirror to Private Repo
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'Assets/CasualtyPsychology/**'
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Public Repo
+        uses: actions/checkout@v4
+
+      - name: Checkout Private Repo
+        uses: actions/checkout@v4
+        with:
+          repository: 'IzaCarlos/cu-bepinex-workspace-psychology'
+          token: ${{ secrets.PRIVATE_SYNC_PAT }}
+          path: private-repo
+
+      - name: Copy Assets
+        run: |
+          mkdir -p private-repo/src/BepInExPlugin/Assets/CasualtyPsychology/
+          cp -r Assets/CasualtyPsychology/* private-repo/src/BepInExPlugin/Assets/CasualtyPsychology/
+
+      - name: Commit & Push to Private
+        run: |
+          cd private-repo
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add src/BepInExPlugin/Assets/CasualtyPsychology/
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "sync(assets): mirror community contributions from CUPsychology"
+            git push origin main
+          fi
