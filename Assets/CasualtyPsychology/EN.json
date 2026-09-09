@@ -295,6 +295,12 @@
         "At least they're out of it.",
         "..."
       ],
+      "psychology_corpse_nihilist": [
+        "...",
+        "...Meat.",
+        "...Doesn't matter.",
+        "..."
+      ],
       "psychology_near_animal_corpse": [
         "Whatever killed this might still be around.",
         "Dead beast... smells awful.",
@@ -1544,6 +1550,7 @@
     "psychology_dossier_assess_fatalist": "Resigned fatalistic outlook; blunted panic response coupled with diminished individual agency.",
     "psychology_dossier_assess_stoic_philo": "Suppressed sympathetic reactivity; sustains low baseline arousal and resists affective panic.",
     "psychology_dossier_assess_nihilist": "Existential detachment; immune to corpse horror and clone copy crises, with blunted intrinsic motivation.",
-    "psychology_dossier_assess_cynic": "Defensive interpersonal cynicism; impervious to trader deception shock and social betrayal."
+    "psychology_dossier_assess_cynic": "Defensive interpersonal cynicism; impervious to trader deception shock and social betrayal.",
+    "psychology_dossier_assess_attachment": "Socially dependent; relies heavily on companionship and suffers acute loneliness when isolated."
   }
 }
