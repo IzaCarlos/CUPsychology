@@ -614,14 +614,16 @@
         "...Can still see them lying there.",
         "Why did they have to die like that?",
         "...Can still smell the blood.",
-        "[PLACEHOLDER: Horror memory - single corpse]"
+        "That first body, it still sticks with me.",
+        "It was so much worse than when they just disappeared in the lab."
       ],
       "psychology_memory_horror_multiple": [
         "I keep seeing the bodies...",
         "...So many dead. Everywhere.",
         "Too many corpses down here.",
         "...Can still smell the rot.",
-        "[PLACEHOLDER: Horror memory - multiple corpses]"
+        "Am I just waiting for my turn to join the dead?",
+        "I think the word we learned for this kind of place is genocide..."
       ],
       "psychology_memory_horror": [
         "Why did they have to die like that?",
@@ -637,18 +639,20 @@
         "Hands won't stop shaking...",
         "Heart's pounding in my ears...",
         "Too fast... can't catch my breath.",
-        "...Chest is tight. Need to calm down."
+        "...Chest is tight. Need to calm down.",
+        "I'm getting really overstimulated."
       ],
       "psychology_somatic_hypothermia": [
         "...Can't stop shivering... so damn cold.",
         "...Teeth won't stop chattering.",
         "...Fingers are going numb.",
-        "...Freezing down here... need warmth."
+        "...Freezing down here... need warmth.",
+        "I'd l-love a human's c-c-coat right now... they looked warm."
       ],
       "psychology_somatic_sickness": [
         "...Stomach is churning. Fever's getting worse.",
         "...Feel like I'm gonna throw up.",
-        "...Infection is burning through me.",
+        "...My gut is burning through me.",
         "...Everything aches so badly."
       ],
       "psychology_somatic_hypovolemia": [
@@ -678,7 +682,8 @@
       "psychology_unchipped_inspection_low_agency": [
         "...I'm trapped. Nothing I can do.",
         "...Out of my hands. Completely out of my hands.",
-        "[PLACEHOLDER: Unchipped inspection - helpless]"
+        "What was I even supposed to do coming here?",
+        "Can the scientists hear me? I need some instructions...!"
       ],
       "psychology_unchipped_inspection_calm": [
         "...Breathing is steady. One step at a time.",
@@ -694,7 +699,7 @@
       "psychology_memory_craft_good": [
         "Put that together properly. Still useful.",
         "Made something that works. That's something.",
-        "Good craftsmanship."
+        "Good craftsawship."
       ],
       "psychology_memory_craft_bad": [
         "What a mess that craft was...",
@@ -705,19 +710,25 @@
         "Faint memory of the holding cell... humming softly.",
         "The light through the slit before the guards came by.",
         "I remember the count-off before lockup. Just a number.",
-        "The room smelled like cold concrete. Still and quiet."
+        "The room smelled like cold concrete. Still and quiet.",
+        "The laboratory was a strange place, they did so many tests.",
+        "I wonder how many of us were in the kennels, it was always changing.",
+        "Some of the humans were okay, I guess."
       ],
       "psychology_memory_lab_unsettling": [
         "Still remember the cold floor in that holding cell...",
         "They dragged me out before I could even stand on my own.",
         "The blinding flash of the neural scan... still burns behind my eyes.",
         "Someone was shouting through the cell door before they locked it.",
-        "Cold metal bench. Restraints clicking shut. I can't shake that feeling."
+        "Cold metal bench. Restraints clicking shut. I can't shake that feeling.",
+        "I hated how often the other sawians just vanished.",
+        "So many of the humans were just mean to us..."
       ],
       "psychology_memory_general_positive": [
         "Things could be worse. I've had worse days.",
         "Still breathing. That counts for something.",
-        "Held on this long."
+        "Held on this long.",
+        "It's just another test to pass."
       ],
       "psychology_memory_general_negative": [
         "...Why am I even trying?",
@@ -734,9 +745,10 @@
       ],
       "psychology_futile_refusal": [
         "...What's the point of making this?",
-        "...Why bother? It won't save us.",
-        "...I can't. I just can't do it.",
+        "Why bother? It won't save us.",
+        "I can't. I just can't do it.",
         "...Leave it. It doesn't matter.",
+        "When can I build something that lets me leave?",
         "[PLACEHOLDER: Futility crafting refusal line]"
       ],
       "psychology_medical_resigned_mild": [
@@ -753,7 +765,8 @@
         "...What are we even doing?",
         "...Just let me sleep.",
         "...Why won't you let this end?",
-        "[PLACEHOLDER: Profound medical treatment existential plea]"
+        "Get fixed so I can get hurt again, and again",
+        "Everything just hurts down here anyway..."
       ],
       "psychology_item_lost_normal": [
         "...Left it behind.",
@@ -959,27 +972,30 @@
         "...Smells like the damp air from the holding blocks.",
         "...Heard that hum through the heavy cell door once.",
         "...Sterile hiss. Reminds me of the pre-transfer prep.",
-        "...Cold air. Like stepping onto the cell block floor.",
+        "Cold air. Like stepping onto the cell block floor.",
         "...Smells like the disinfectant wash back then.",
         "[PLACEHOLDER: Ambiguous detached lab memory line]"
       ],
       "psychology_lab_sensory_dread": [
         "...That smell. That's the sterilant from the detention wing.",
         "...I know that frequency. The guards used that before the sweep.",
-        "...Don't lock me back in that cell. Please.",
+        "Whatever happens. Don't lock me back in that cell. Please.",
         "...Restraints clicking. Can still feel the straps.",
         "Ngh... Don't think about it.",
-        "[PLACEHOLDER: Antiseptic/needle sensory dread line]"
+        "I hope that stuff they poked me with is all worked out by now."
       ],
       "psychology_recovery_minor": [
-        "...Set.",
-        "...Stopped the bleeding.",
-        "[PLACEHOLDER: Minor medical stabilization line]"
+        "That's settled.",
+        "Stopped the bleeding.",
+        "I'll be good as new soon.",
+        "That wasn't too bad.",
+        "Just like training!"
       ],
       "psychology_recovery_major": [
-        "...Stabilized.",
+        "Stable, I think.",
         "...That'll hold.",
-        "[PLACEHOLDER: Major traumatic injury stabilization line]"
+        "As long as I don't get another of those.",
+        "I can barely believe I survived that."
       ],
       "psychology_suicide_defiant_rage": [
         "...NO!",
@@ -989,67 +1005,78 @@
       "psychology_suicide_aborted": [
         "...Can't.",
         "...Not yet.",
-        "[PLACEHOLDER: Survivor pulling back from the brink of suicide]"
+        "What am I doing, what am I doing...?",
+        "I'll give it one more...try"
       ],
       "psychology_item_lost_joyous": [
         "...Less weight to carry anyway.",
         "...Dropped it. Plenty more out here.",
         "...Whatever, I'll find another.",
-        "[PLACEHOLDER: Nonchalant or lighthearted item lost line]"
+        "Maybe I'll find something better below.",
+        "Maybe I'll find it down a bit further?"
       ],
       "psychology_item_lost_melancholic": [
-        "...Of course. Another thing lost.",
+        "Of fucking course. Another thing lost.",
         "...Everything slips through my fingers.",
-        "...Why do I even bother carrying anything.",
-        "[PLACEHOLDER: Depressed or defeated item lost line]"
+        "Why do I even bother carrying anything?",
+        "I probably needed that one too.",
+        "Just when it couldn't have gotten worse."
       ],
       "psychology_item_lost_paranoid": [
-        "...Where is it?! I had it right here!",
+        "Where is it?! I had it right here!",
         "...Did someone take it?!",
-        "...No, no, no... who kicked it away?!",
-        "[PLACEHOLDER: Paranoid or panicked item lost line]"
+        "No, no, no...! Who kicked it away?!",
+        "The humans made me drop it, I just know it",
+        "It had to have pulled itself away, they're testing me!"
       ],
       "psychology_item_lost_frustrated": [
-        "...Fucking butterfingers.",
-        "...Stupid piece of junk anyway.",
-        "...Dropped it. Dammit!",
-        "[PLACEHOLDER: Irritable or angry item lost line]"
+        "Fucking butterfingers.",
+        "Stupid piece of junk anyway.",
+        "Dropped it. Dammit!",
+        "How did I lose it!?",
+        "FUCK! Give me that back!"
       ],
       "psychology_craft_apathetic": [
-        "...Assembled. Doesn't change anything.",
-        "...Built. Still trapped in this hole.",
-        "...Whatever. It's together.",
-        "[PLACEHOLDER: Depressed or apathetic crafting completion line]"
+        "Assembled. Doesn't change anything.",
+        "Built. Still trapped in this hole.",
+        "Whatever. It's together.",
+        "Back to building like a drone.",
+        "Okay, now what?"
       ],
       "psychology_craft_frustrated": [
-        "...Finally snapped into place.",
-        "...Fucking took long enough.",
-        "...Stop jamming, damn it... there.",
-        "[PLACEHOLDER: Irritable or strained crafting completion line]"
+        "Finally snapped into place.",
+        "Fucking took long enough.",
+        "Stop jamming, damn it... there.",
+        "Why can't anything just be easy to get?",
+        "It might be fun to make all this if my LIFE didn't depend on it!"
       ],
       "psychology_craft_triumphant": [
-        "...Clean seam. That'll hold.",
-        "...Good craftsmanship.",
-        "...Solid. One less thing to worry about.",
-        "[PLACEHOLDER: Confident or satisfied crafting completion line]"
+        "Clean seam. That'll hold.",
+        "Good craftsawship.",
+        "Solid. One less thing to worry about.",
+        "Hey hey, I can make anything!",
+        "One step closer to surviving this cave."
       ],
       "psychology_craft_manic": [
-        "...Perfect. Look at that!",
-        "...Done. Onto the next one!",
-        "...Fast hands. Kept it together.",
-        "[PLACEHOLDER: Feverish or manic crafting completion line]"
+        "Perfect. Look at that!",
+        "Done. Onto the next one!",
+        "Kept it together, amazing.",
+        "I can't wait to make another!",
+        "Ooh, I'll be out of here in no time."
       ],
       "psychology_injury_defiant": [
-        "...Just flesh. Keep moving.",
-        "...I've bled worse than this.",
-        "...Bandage it later. Not done yet.",
-        "[PLACEHOLDER: High agency defiant injury reaction line]"
+        "Just flesh. Keep moving.",
+        "I've bled worse than this.",
+        "Bandage it later. Not done yet.",
+        "It'll take more than that to stop me.",
+        "I'll be fine, it's no worse than the training."
       ],
       "psychology_injury_resigned": [
-        "...Figures. More blood.",
-        "...Why bother wrapping it...",
-        "...Just tear me apart already.",
-        "[PLACEHOLDER: Low agency defeated injury reaction line]"
+        "Figures. More blood.",
+        "I guess I should bandage it up.",
+        "Just tear me apart already.",
+        "It's not like I can stop getting hurt.",
+        "This is just going to keep happening, isn't it?"
       ],
       "psychology_injury_spiteful": [
         "...Ngh! Jagged bastard...",
@@ -1061,30 +1088,33 @@
         "...Blood... too much blood...",
         "...N-no, my <limb>... it won't move...",
         "...Can't breathe... help...",
-        "[PLACEHOLDER: Panic shock injury reaction line]"
+        "Please, someone, I need help, fast.!",
+        "I need to do something before it gets worse!"
       ],
       "psychology_medical_pragmatic": [
-        "...Pressure holding. Good.",
-        "...Set straight. It'll knit.",
-        "...Stopped the seep.",
+        "Pressure holding. Good.",
+        "Set straight. It'll fix up okay.",
+        "Stopped the worst of it.",
         "[PLACEHOLDER: Calm focused medical treatment line]"
       ],
       "psychology_medical_relief": [
-        "...Ah... pain is finally dulling.",
-        "...Cold spreading through the <limb>... good.",
-        "...Breathe... it's easing.",
-        "[PLACEHOLDER: Soothing pain relief reaction line]"
+        "Ah... pain is finally dulling.",
+        "Cold spreading through the <limb>... good.",
+        "Breathe... it's easing.",
+        "At least I'm not panicking.",
+        "It feels...better."
       ],
       "psychology_weapon_jam_panic": [
-        "...Click?! No, please, not now!",
-        "...It jammed! It jammed!",
-        "...Clear it, clear it, come on!",
-        "[PLACEHOLDER: Panicked firearm jam reaction line]"
+        "Click?! No, please, not now!",
+        "It jammed! It jammed!",
+        "Clear it, clear it, come on!",
+        "Guns aren't supposed to do that!",
+        "Go bang again please, hurry!"
       ],
       "psychology_weapon_jam_rage": [
-        "...Fucking rusted bolt!",
-        "...Rack it clear, piece of shit!",
-        "...Feed, damn you!",
+        "Fucking rusted bolt!",
+        "Clear it, you piece of shit!",
+        "Feed it in, damn you!",
         "[PLACEHOLDER: Enraged firearm jam reaction line]"
       ],
       "psychology_weapon_empty_despair": [
@@ -1265,14 +1295,14 @@
       ],
       "psychology_crafting_success": [
         "...Put it together.",
-        "...Done. It will hold.",
-        "...Managed to assemble it.",
+        "There, done. It will hold.",
+        "Managed to assemble it.",
         "[PLACEHOLDER: Base crafting success line]"
       ],
       "psychology_craft_failure": [
-        "...Dammit, ruined it.",
-        "...Wasted the parts.",
-        "...Scrapped. Have to start over.",
+        "Dammit, ruined it.",
+        "Wasted the parts.",
+        "Well... guess I have to start over.",
         "[PLACEHOLDER: Generic crafting failure line]"
       ],
       "psychology_craft_botched": [
