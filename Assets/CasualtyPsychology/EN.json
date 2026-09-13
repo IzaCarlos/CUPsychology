@@ -741,6 +741,14 @@
         "...So tired. Just so tired.",
         "...What are you looking at?",
         "...Does any of this matter to you?",
+        "...Are you just watching me die?",
+        "...Is someone on the other side of this?",
+        "...Can you even hear me?",
+        "...Glass between us. Nothing else.",
+        "...Are you pulling the strings?",
+        "...It's all hollow.",
+        "...Stop staring.",
+        "...Just looking right through me.",
         "[PLACEHOLDER: Dissociative 4th-wall blank gaze line]"
       ],
       "psychology_futile_refusal": [
@@ -1340,6 +1348,164 @@
         "...Chest is pinned... wake up... please...",
         "...Shadow in the corner... move, damn it...",
         "[PLACEHOLDER: Base sleep paralysis dread line]"
+      ],
+      "mindclean_relief": [
+        "The screaming in my ears, fucking finally...",
+        "Ughhh... I can think clearly again.",
+        "Clean slate. Or clean enough to keep walking.",
+        "Why were my hands shaking so badly?... Oh well."
+      ],
+      "mindclean_sideeffect": [
+        "Wait... what was I trying to remember? Something good just slipped away.",
+        "I can't picture my friend's face anymore. Just static.",
+        "Forgot what... uhhh... I don't even know.",
+        "Head feels scraped out... fuzzy..."
+      ],
+      "psychology_wear_armwarmers": [
+        ""
+      ],
+      "psychology_wear_thighhighs": [
+        ""
+      ],
+      "psychology_wear_carapace": [
+        ""
+      ],
+      "psychology_wear_blindfold": [
+        ""
+      ],
+      "psychology_wear_helmet": [
+        ""
+      ],
+      "psychology_wear_collar": [
+        ""
+      ],
+      "psychology_wear_scarf": [
+        ""
+      ],
+      "psychology_wear_depression_deny": [
+        ""
+      ],
+      "minigame_lockpick_success": [
+        "Hell yeah.",
+        "Got it.",
+        "Open.",
+        "Unlocked."
+      ],
+      "minigame_lockpick_jam": [
+        "Pin won't catch.",
+        "Tumbler's jammed... Wrong angle.",
+        "Binding. Easing off...",
+        "Pins won't give."
+      ],
+      "minigame_lockpick_claw_damage": [
+        "Agh- Tore my claw!",
+        "Fuck- Nail splintered!",
+        "Bending backwards- Damn it!",
+        "Pinched the claw... Throbbing."
+      ],
+      "minigame_keypad_success": [
+        "Ka-ching.",
+        "There we go.",
+        "It's open.",
+        "Access granted."
+      ],
+      "minigame_keypad_fail": [
+        "Wrong sequence.",
+        "Resetting.",
+        "Try again.",
+        "Fuck- Wrong digit."
+      ],
+      "treatment_major_stabilized": [
+        "Wrapped- Tight...",
+        "Holding pressure... God, that was close.",
+        "Tied off. Bleeding's slowing down.",
+        "Hands shaking... It's holding.",
+        "Bandage is soaking through, but it stopped the worst of it.",
+        "Tight... Still breathing.",
+        "Not bleeding out today."
+      ],
+      "treatment_minor_scrape": [
+        "Just a scrape.",
+        "Hardly needed the wrap.",
+        "Stings, but it's fine.",
+        "Cleaned it up. Back to moving."
+      ],
+      "psychology_condition_catatonia": [
+        "...",
+        "...can't move.",
+        "...cold.",
+        "...",
+        "Nothing.",
+        "Leave it."
+      ],
+      "psychology_condition_depression": [
+        "...Can't feel the ground under my boots.",
+        "...Heavy. Everything is so heavy.",
+        "...Why even stand up.",
+        "...Just gray. Gray and cold.",
+        "...Nothing left to dig for.",
+        "...Tired down to the bone."
+      ],
+      "psychology_condition_learned_helplessness": [
+        "...Doesn't matter what I do.",
+        "...Every door leads to the same dirt.",
+        "...Why fight it? It always wins.",
+        "...Tried already. Never changes.",
+        "...No point struggling anymore.",
+        "...Just waiting for the end."
+      ],
+      "psychology_condition_anhedonia": [
+        "Doesn't matter.",
+        "Whatever.",
+        "Nothing feels like anything anymore.",
+        "Why bother.",
+        "..."
+      ],
+      "psychology_condition_paranoia": [
+        "They're watching.",
+        "Someone's behind me.",
+        "Don't turn your back.",
+        "Footsteps... I heard footsteps.",
+        "Can't trust anyone down here.",
+        "Who's there?"
+      ],
+      "psychology_condition_delirium": [
+        "Lights... buzzing...",
+        "Where... am I?",
+        "Shadows are bleeding together.",
+        "Nails under my skin...",
+        "Can't tell what's real."
+      ],
+      "psychology_condition_sensory_overload": [
+        "Too loud... too loud!",
+        "Stop screaming...",
+        "Everything hurts to look at.",
+        "Make it stop."
+      ],
+      "psychology_condition_flow": [
+        "One step at a time.",
+        "Steady rhythm.",
+        "Clean cuts. Smooth motions.",
+        "Locked in.",
+        "Got the pattern."
+      ],
+      "psychology_condition_grounded": [
+        "Deep breath. Feet on the ground.",
+        "I'm here. Still solid.",
+        "Slow pulse. Focus.",
+        "Clear head. Ready."
+      ],
+      "psychology_condition_catharsis": [
+        "Ha... made it.",
+        "Still standing, damn it.",
+        "Weight's off my chest.",
+        "Take that, you bastards."
+      ],
+      "psychology_condition_euphoria": [
+        "Can't stop now.",
+        "Never felt sharper.",
+        "Invincible.",
+        "Nothing can touch me."
       ]
     },
     {},
@@ -1468,6 +1634,32 @@
     "psychology_title_feverish_elevation": "Feverish Elevation",
     "psychology_title_manic_focus": "Manic Focus",
     "psychology_title_guarded_composure": "Guarded Composure",
+    "psychology_cond_depression": "Clinical Depression",
+    "psychology_cond_depression_desc": "Persistent affective collapse and paralyzed agency. Normal activities fail to provide relief.",
+    "psychology_cond_learned_helplessness": "Learned Helplessness",
+    "psychology_cond_learned_helplessness_desc": "Deep cognitive conditioning that struggle is futile. Requires deliberate successes to break.",
+    "psychology_cond_hypervigilance": "Hypervigilance",
+    "psychology_cond_hypervigilance_desc": "Continuous sympathetic overload and autonomic scan, draining nervous reserves.",
+    "psychology_cond_agitation": "Volatile Agitation",
+    "psychology_cond_agitation_desc": "Restless, explosive irritable drive fueled by high stress and obstructed goals.",
+    "psychology_cond_catatonia": "Catatonic Stupor",
+    "psychology_cond_catatonia_desc": "Severe vegetative freeze response; profound motor and vocal deceleration under overwhelming despair.",
+    "psychology_cond_anhedonia": "Anhedonic Numbing",
+    "psychology_cond_anhedonia_desc": "Complete blunting of positive affect; unable to derive satisfaction or warmth.",
+    "psychology_cond_paranoia": "Persecutory Paranoia",
+    "psychology_cond_paranoia_desc": "Feverish distrust and persecutory dread; every shadow and companion feels threatening.",
+    "psychology_cond_delirium": "Somatic Delirium",
+    "psychology_cond_delirium_desc": "Sensory dissociation and mental disorientation induced by agonizing pain and physical trauma.",
+    "psychology_cond_sensory_overload": "Sensory Overload",
+    "psychology_cond_sensory_overload_desc": "Auditory and visual hypersensitivity; sudden noises trigger painful startle responses.",
+    "psychology_cond_flow": "Flow State",
+    "psychology_cond_flow_desc": "Deep task immersion and steady motor rhythm born from skilled execution.",
+    "psychology_cond_grounded": "Grounded Composure",
+    "psychology_cond_grounded_desc": "Somatic anchor and autonomic equilibrium achieved through comfort, warmth, and rest.",
+    "psychology_cond_catharsis": "Cathartic Relief",
+    "psychology_cond_catharsis_desc": "Sudden visceral release of pent-up terror following survival or overcoming death.",
+    "psychology_cond_euphoria": "Euphoric High",
+    "psychology_cond_euphoria_desc": "Intense neuro-chemical surge blunting pain and elevating confidence to reckless heights.",
     "psychology_wv_desc_mindwipe": "The mind has been severed from its past. There is no joy, no terror, and no memory—only a hollow silence.",
     "psychology_wv_desc_valence_severe_neg": "• Drowning in profound, crushing misery.",
     "psychology_wv_desc_valence_neg": "• Weighted by persistent sorrow and gloom.",
@@ -1581,6 +1773,12 @@
     "psychology_dossier_assess_stoic_philo": "Suppressed sympathetic reactivity; sustains low baseline arousal and resists affective panic.",
     "psychology_dossier_assess_nihilist": "Existential detachment; immune to corpse horror and clone copy crises, with blunted intrinsic motivation.",
     "psychology_dossier_assess_cynic": "Defensive interpersonal cynicism; impervious to trader deception shock and social betrayal.",
-    "psychology_dossier_assess_attachment": "Socially dependent; relies heavily on companionship and suffers acute loneliness when isolated."
+    "psychology_dossier_assess_attachment": "Socially dependent; relies heavily on companionship and suffers acute loneliness when isolated.",
+    "mindclean": "Mindclean",
+    "mindcleandsc": "A 60ml pill bottle. Prepared with 45ml of mindclean and 15ml of opium to ease acute trauma and soothe distress.",
+    "mindclean_liquid": "Mindclean",
+    "mindclean_liquiddsc": "Specially synthesized palliative neuro-scrub engineered as a softer alternative to a total mindwipe. Selectively scrubs acute traumatic memory engrams and dampens hyper-aroused affective distress while preserving identity, motor faculties, and baseline survival conditioning. Warning: Due to incomplete receptor targeting, erratic side effects include transient retrograde amnesia of benign experiences, pleasant memory erasure, and disinhibition. Administer with caution.",
+    "mindclean_alert_calm": "Acute trauma eased... neuro-scrub settling.",
+    "mindclean_alert_sideeffect": "Brain fog intensifies... pleasant thoughts slip away."
   }
 }
