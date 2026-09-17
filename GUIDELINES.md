@@ -59,3 +59,12 @@ The other characters (Milky and Dune) are currently Work-In-Progress and will au
 2. Existing trigger keys only (do not invent new key names without mod engine support).
 3. At least 4 variations per dialogue key to keep survivor speech varied.
 4. Keep PRs focused on one language or theme so review stays quick.
+
+To quickly validate a Json you can use Python's `Json.tool` in the following way:
+```python
+python -m json.tool path/to/the.json
+```
+
+## 5. Useful resources
+
+### [Chicago Manual Of Style](https://www.chicagomanualofstyle.org/home.html)
