@@ -1362,28 +1362,85 @@
         "Head feels scraped out... fuzzy..."
       ],
       "psychology_wear_armwarmers": [
-        ""
+        "Stops the draft on my forearms. Good enough.",
+        "...It'll keep me warm that's for sure."
       ],
       "psychology_wear_thighhighs": [
-        ""
+        "Keeps the damp off my legs... Until I get to the next puddle.",
+        "...Not the most practical, but it'll do."
       ],
       "psychology_wear_carapace": [
-        ""
+        "Bit heavy... hope it stops whatever's out there.",
+        "It's... cluky... better than taking shrapnel to the ribs."
       ],
       "psychology_wear_blindfold": [
-        ""
+        "Can't see a damn thing... why did I put this on?",
+        "Mnh... fabric over my eyes. I'm blind."
       ],
       "psychology_wear_helmet": [
-        ""
-      ],
-      "psychology_wear_collar": [
-        ""
+        "Finally some protection for my head. Hope it holds.",
+        "Yeah... I'd like to see you try to crush this skull now."
       ],
       "psychology_wear_scarf": [
-        ""
+        "Nice and warm around my neck.",
+        "A bit scratchy, but it beats freezing.",
+        "Keeps the chill off."
       ],
       "psychology_wear_depression_deny": [
-        ""
+        "Don't care.",
+        "Why bother...",
+        "Leave me alone. I don't want to wear that.",
+        "Doesn't matter anyway."
+      ],
+      "psychology_wear_traumarig": [
+        "Rig fits snug. Pockets for everything.",
+        "Heavy, but it's got plenty of space."
+      ],
+      "psychology_wear_traumarig_corpse": [
+        "This feels like a badly timed joke.",
+        "Rig's got nothing that can fix that."
+      ],
+      "psychology_wear_bellyarmor": [
+        "Somewhat uncomfortablably stiff, but it'll stop me from getting gutted.",
+        "Quite heavy... But at least my guts are protected."
+      ],
+      "psychology_wear_balaclava": [
+        "A bit itchy, but it keeps my face warm.",
+        "Feels like a damn mask, but I guess it works."
+      ],
+      "psychology_wear_hoodie": [
+        "Way oversized, but it's cozy.",
+        "Nice and soft. Good pockets too- Oh nevermind that's just a hole."
+      ],
+      "psychology_wear_kneepads": [
+        "My knees will thank me on these rocks.",
+        "Plastic pads... Beats crawling on bare gravel."
+      ],
+      "psychology_wear_limbwraps": [
+        "I feel like a warrior with these on!",
+        "A bit rough, but it covers the scrapes."
+      ],
+      "psychology_wear_riothelmet": [
+        "Visor's scratched to hell, but my head's safe.",
+        "Heavy... a little hard to see, but solid protection."
+      ],
+      "psychology_wear_tacticalgloves": [
+        "Good grip on these.",
+        "Snug fit. Hands won't get as torn up now."
+      ],
+      "psychology_wear_tacticalboots": [
+        "Heavy boots. Won't stub my toes on the rubble.",
+        "Stiff soles, but good footing."
+      ],
+      "psychology_wear_tornshirt": [
+        "It's all ripped up, but it's something.",
+        "Breeze goes right through the holes... Better than nothing."
+      ],
+      "psychology_wear_annoyed": [
+        "Quit messing with my clothes!",
+        "Can you pick something already?",
+        "Stop tugging on me!",
+        "Make up your mind!"
       ],
       "minigame_lockpick_success": [
         "Hell yeah.",
@@ -1506,6 +1563,144 @@
         "Never felt sharper.",
         "Invincible.",
         "Nothing can touch me."
+      ],
+      "mindwipe_drink_onset": [
+        "Tastes... dead. Like cold copper and grease.",
+        "F-fuzzy... tongue feels completely numb."
+      ],
+      "mindwipe_pain_rising": [
+        "Ngh! My Head's throbbing!... It feels like it's going to explode!",
+        "Burning... something's tearing through my skull!"
+      ],
+      "mindwipe_agony_decay": [
+        "A-AGH! Stop... I can't... CAN'T THINK—!",
+        "M-my voice is slipping... who... WHO AM I—?!"
+      ],
+      "mindwipe_critical_fade": [
+        "Static... everything's... black...",
+        "..."
+      ],
+      "mindclean_drink_onset": [
+        "Bitter as hell... burns going down.",
+        "Ugh... what is thisvile wash...?"
+      ],
+      "mindclean_headache_vomit": [
+        "Hrk—! Splitting headache... ugh... can't keep it down...",
+        "Terrible... My skull's pounding like a hammer..."
+      ],
+      "mindclean_relief_settling": [
+        "My thoughts are finally... Well... quieter.",
+        "*Sigh of relief*"
+      ],
+      "mindclean_residual_complaint": [
+        "Head feels scraped clean... can't remember what I was thinking.",
+        "Fuzzy... like I lost something I needed."
+      ],
+      "psychology_dismemberment_first": [
+        "My <limb>... God, my <limb> is gone!",
+        "Where's my <limb>?! Where did it go?!",
+        "Aagh! My <limb>! Patch it, hurry!",
+        "No no no! Not my <limb>!"
+      ],
+      "psychology_dismemberment_later": [
+        "Another piece taken... Another <limb>.",
+        "Lost my <limb> too... How much more can I lose?",
+        "My <limb>... God damn this place.",
+        "There goes my <limb>..."
+      ],
+      "psychology_disfigured_mock_explosive": [
+        "Shut up! You think this is funny?! Look at my face!",
+        "I'm not doing a bit! My jaw is in pieces, you bastard!",
+        "Stop mocking me! Look at what happened to me!"
+      ],
+      "psychology_disfigured_mock_shame": [
+        "They think it's a joke... They can't even stand to look at me.",
+        "...Just don't look at me.",
+        "A freak... That's all I am now."
+      ],
+      "psychology_disfigured_mock_cynical": [
+        "Keep laughing. We're all dying down here anyway.",
+        "You think this is funny? I'd like to see you deal with this.",
+        "...Forget it. Just trade."
+      ],
+      "psychology_thornback_triumph": [
+        "It bled... It's actually dead.",
+        "We brought down that nightmare...",
+        "Holy shit... We survived that thing.",
+        "It's dead. It can't hurt us anymore."
+      ],
+      "psychology_blind_groping": [
+        "Can't see... just walls and cold stone.",
+        "Every step could be a drop...",
+        "Did something move out there? I can only hear it...",
+        "Where did the light go...?"
+      ],
+      "psychology_eye_lost": [
+        "My eye... everything's half-dark...",
+        "Fuck- the blood in my eye... can't see on this side!",
+        "Aagh! My eye! I can't see out of it!",
+        "Lost an eye... This is weird..."
+      ],
+      "psychology_both_eyes_lost": [
+        "No... it's completely dark! I can't see anything!",
+        "Where is the light?! My eyes... both of them?!",
+        "God, please, don't leave me in the dark!",
+        "I'm blind... I can't see! What's out there?!"
+      ],
+      "psychology_scar_trader_shame": [
+        "Don't stare at my arms...",
+        "I should have covered these up...",
+        "Just tell me about the goods, not about me...",
+        "...I know what it looks like."
+      ],
+      "psychology_vision_restored": [
+        "I can see... the light is back.",
+        "My eyes... God, I can actually see again.",
+        "I can see! I can see!"
+      ],
+      "psychology_limb_restored": [
+        "Can move it again... It actually works.",
+        "Got my footing back. What a relief.",
+        "Feels strange, but I can use it.",
+        "It's back... Don't take this one from me."
+      ],
+      "psychology_amputation_infected": [
+        "Better the limb than my life.",
+        "It was rotting anyway...",
+        "Had to cut the rot out before it reached deeper.",
+        "It's done. It won't spread now.",
+        "Hurts like hell, but at least I won't die of sepsis.",
+        "I had no choice. It was the saw or the grave.",
+        "It fucking burns so badly... better than the alternative, I guess."
+      ],
+      "psychology_streamer_paranoid": [
+        "Why do I feel eyes on us? Not the critters... something else.",
+        "Someone's watching. Right through the glass.",
+        "Stop staring at me like I'm a specimen.",
+        "There are eyes on us. I can feel them in the static.",
+        "Are we being watched right now? Tell me you feel that too.",
+        "Don't embarrass us."
+      ],
+      "psychology_streamer_depressed": [
+        "Hope whoever is watching is enjoying this tragedy.",
+        "Morbid entertainment, isn't it?",
+        "Morbid curiosity is a hell of a market.",
+        "Are they keeping score of every bad mistake we make?",
+        "Don't look too closely. There's nothing poetic about this.",
+        "Must be nice, watching from somewhere warm and safe."
+      ],
+      "psychology_streamer_confident": [
+        "Make sure you catch my good side.",
+        "Smile for the unseen audience. We're putting on quite a show.",
+        "If someone's recording this, make sure they know I carried us.",
+        "Hope the people watching are taking notes."
+      ],
+      "psychology_streamer_neutral": [
+        "Do you ever get that eerie feeling... like somebody else is holding the controller?",
+        "Feels like a lens is focused right on us.",
+        "*shudder*",
+        "I feel like an exhibit behind two-way glass.",
+        "Ever feel like our thoughts aren't entirely our own?"
       ]
     },
     {},
@@ -1779,6 +1974,20 @@
     "mindclean_liquid": "Mindclean",
     "mindclean_liquiddsc": "Specially synthesized palliative neuro-scrub engineered as a softer alternative to a total mindwipe. Selectively scrubs acute traumatic memory engrams and dampens hyper-aroused affective distress while preserving identity, motor faculties, and baseline survival conditioning. Warning: Due to incomplete receptor targeting, erratic side effects include transient retrograde amnesia of benign experiences, pleasant memory erasure, and disinhibition. Administer with caution.",
     "mindclean_alert_calm": "Acute trauma eased... neuro-scrub settling.",
-    "mindclean_alert_sideeffect": "Brain fog intensifies... pleasant thoughts slip away."
+    "mindclean_alert_sideeffect": "Brain fog intensifies... pleasant thoughts slip away.",
+    "mindwipe_moodle_stage0_name": "Hollow",
+    "mindwipe_moodle_stage0_desc": "Numbness spreading. Thoughts are slipping away.",
+    "mindwipe_moodle_stage1_name": "Hollow",
+    "mindwipe_moodle_stage1_desc": "Severe neural spasms. Thoughts are fragmenting.",
+    "mindwipe_moodle_stage2_name": "Hollow",
+    "mindwipe_moodle_stage2_desc": "reality  ..  stops   making   sense",
+    "mindwipe_moodle_stage3_name": "Hollow",
+    "mindwipe_moodle_stage3_desc": "...",
+    "mindwipe_moodle_vessel_early": "An empty vessel.",
+    "mindwipe_moodle_vessel_late": "An empty vessel...",
+    "mindwipe_moodle_rekindled_severe": "Not an empty vessel...",
+    "mindwipe_moodle_rekindled_mild": "It hurts",
+    "mindwipe_moodle_rekindled_name": "Empty",
+    "psychology_title_mindwiped_rekindled": "Empty (Rekindled Dread)"
   }
 }
