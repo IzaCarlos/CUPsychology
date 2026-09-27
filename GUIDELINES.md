@@ -6,7 +6,8 @@ Casualty Psychology is about desperate underground survival and cognitive collap
 
 - **Short & punchy**: In-game speech bubbles display for 2.5-4.5s. Aim for 4 to 12 words per line.
 - **Gritty and restrained**: Speak like an exhausted survivor in a hostile pit. No anime tropes, action-hero quips, or memes.
-- **Punctuation**: Use ellipses (`...`) for breathing pauses, fading thoughts, or pain. Exclamation marks are for acute agony, weapon jams, or sheer panic.
+- **Punctuation**: Use ellipses (`...`) sparingly for breathing pauses or trailing thoughts. Exclamation marks are for acute agony, weapon jams, or sheer panic.
+- **Automated Pain Stuttering**: Do not manually hardcode stutters (`"H-help..."`, `"T-tight..."`) or excessive hyphens into lines. When average pain is over 70% or emotional valence drops below -50, the mod engine automatically breaks up speech with dynamic hyphenated stutters and trailing gasps.
 
 ## 2. Dynamic Placeholders
 
@@ -67,4 +68,7 @@ python -m json.tool path/to/the.json
 
 ## 5. Useful resources
 
-### [Chicago Manual Of Style](https://www.chicagomanualofstyle.org/home.html)
+- [Chicago Manual Of Style](https://www.chicagomanualofstyle.org/home.html) - Style, mechanics, and dialogue punctuation standard.
+- [Purdue OWL: Quotation Marks & Dialogue](https://owl.purdue.edu/owl/general_writing/punctuation/quotation_marks/index.html) - Spoken lines, speech tags, and punctuation placement.
+- [Hemingway Editor](https://hemingwayapp.com/) - Quick readability checker to cut filler and keep speech short.
+- [TV Tropes: Dialogue Subtext](https://tvtropes.org/pmwiki/pmwiki.php/Main/Subtext) - Writing unspoken tension and indirect communication under stress.
