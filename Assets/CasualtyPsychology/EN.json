@@ -1603,7 +1603,7 @@
       ],
       "psychology_craft_mutilation_panic": [
         "...Ah! My <limb>! It chewed right through!",
-        "...Blood everywhere—stop the bleeding!",
+        "...Blood...- stop the bleeding!",
         "...Torn open! Oh God, my <limb>!",
         "IT TOOK A CHUNK OUT! OH GOD!",
         "MY <limb>! SHUT IT OFF, SHUT IT OFF!",
@@ -1715,8 +1715,8 @@
       "psychology_weapon_empty_panic": [
         "Empty?! No no no!",
         "Nothing left?! Where did it all go?!",
-        "Click?! Nonononono—",
-        "Dry chamber! Oh god, oh god—"
+        "Click?! Nonononono-",
+        "Dry chamber! Oh god, oh god-"
       ],
       "psychology_weapon_empty_rage": [
         "Dammit, feed! Out?!",
@@ -1743,8 +1743,8 @@
         "...Safety on. Thumb it down."
       ],
       "psychology_weapon_safety_panic": [
-        "...Safety?! Dammit, flip it—!",
-        "...Safety's locked! No no no—!",
+        "...Safety?! Dammit, flip it-!",
+        "...Safety's locked! No no no-!",
         "...Switch is on safe! Ff-fuck!",
         "THE DAMN SAFETY! FLIP IT!",
         "OFF, GET IT OFF! WHY WON'T IT CLICK?!",
@@ -2241,8 +2241,8 @@
         "Burning... something's tearing through my skull!"
       ],
       "mindwipe_agony_decay": [
-        "A-AGH! Stop... I can't... CAN'T THINK—!",
-        "M-my voice is slipping... who... WHO AM I—?!"
+        "A-AGH! Stop... I can't... CAN'T THINK-!",
+        "M-my voice is slipping... who... WHO AM I-?!"
       ],
       "mindwipe_critical_fade": [
         "Static... everything's... black...",
@@ -2250,10 +2250,10 @@
       ],
       "mindclean_drink_onset": [
         "Bitter as hell... burns going down.",
-        "Ugh... what is thisvile wash...?"
+        "Ugh... what is this vile wash...?"
       ],
       "mindclean_headache_vomit": [
-        "Hrk—! Splitting headache... ugh... can't keep it down...",
+        "Hrk-! Splitting headache... ugh... can't keep it down...",
         "Terrible... My skull's pounding like a hammer..."
       ],
       "mindclean_relief_settling": [
@@ -2332,14 +2332,75 @@
         "Feels strange, but I can use it.",
         "It's back... Don't take this one from me."
       ],
+      "psychology_amputation_aversion": [
+        "No no no... I can't.",
+        "I can't do this... I can't do this to myself...",
+        "Please... no... don't make me...",
+        "*gag* ...No, no...",
+        "I can't. I just can't.",
+        "God... oh god, please no...",
+        "Wait... wait, give me a second...",
+        "I can't... I really can't...",
+        "*shudder* ...No...",
+        "N-not this... anything but this..."
+      ],
+      "psychology_amputation_aversion_stoic": [
+        "...Wait. Need to be sure.",
+        "...Steady. Hands, stay steady.",
+        "...One breath. Give me one breath.",
+        "...Grit down. Don't flinch.",
+        "...Hold still. Just... wait."
+      ],
+      "psychology_amputation_aversion_depressed": [
+        "...I can't. Just let it take me.",
+        "...Too tired for this. Just leave me alone.",
+        "...Hands are shaking too much. What's the point.",
+        "...Why bother. It's over anyway.",
+        "...Can't do it. Just let me lie here.",
+        "...No. I don't care anymore. Just leave it."
+      ],
       "psychology_amputation_infected": [
-        "Better the limb than my life.",
-        "It was rotting anyway...",
-        "Had to cut the rot out before it reached deeper.",
-        "It's done. It won't spread now.",
-        "Hurts like hell, but at least I won't die of sepsis.",
-        "I had no choice. It was the saw or the grave.",
-        "It fucking burns so badly... better than the alternative, I guess."
+        "*retching* ...God, the smell... I'm gonna throw up...",
+        "Get it away from me... just throw it away, please...",
+        "Holy shit... *shudder* ...it was completely black inside...",
+        "*gagging* ...Oh god... smells like death...",
+        "Fucking foul... *heave* ...bandage, where's the bandage?!",
+        "I'm sick... holy shit, I'm gonna be sick...",
+        "*coughing* ...Had to... it was crawling up my skin... *gag*"
+      ],
+      "psychology_amputation_depressed": [
+        "...There. Just... wrap it.",
+        "Why did I do that. Why am I even bothering.",
+        "...Look at me. What a fucking mess- I should've just let it rot away.",
+        "Just meat on the floor now. Don't... even look at it.",
+        "Didn't even hurt that much... Just... Hah...",
+        "...Whatever. If I bleed out, I bleed out.",
+        "Just... patch it up. Or don't."
+      ],
+      "psychology_amputation_raw": [
+        "HOLY SHIT... I actually... oh god, oh god...",
+        "AAGH! FUCK! Blood!- Where's the dressing?!",
+        "Oh god... I'm gonna pass out... everything is spinning...",
+        "FUCK! Don't look at it... don't look at it!",
+        "Can't breathe... holy shit, it burns, IT FUCKING BURNS!",
+        "*hyperventilating* ...wrap it, wrap it, fast!",
+        "It's off... holy fuck, it's actually off..."
+      ],
+      "psychology_amputation_anesthetized": [
+        "Ough... my head is spinning... god, hearing that saw...",
+        "Didn't hurt that much- but... *gag* ...watching it come off...",
+        "...I felt that crunch... oh man, I'm gonna puke...",
+        "...Wait, is it off? ...Where's... need to tie it off...",
+        "...Uhh... everything feels numb... tie it tight...",
+        "...Dull... just dull... *shudder* ...stop looking at it...",
+        "...Can't feel my <limb>... right, because they're... ugh..."
+      ],
+      "psychology_amputation_stoic": [
+        "...Ghhk. It's off. Tourniquet. Fast.",
+        "...Fffhh... stop the bleeding before I drop.",
+        "...Hrrg... tie it tight. Don't look at it.",
+        "...Breathe. Just breathe. Wrap the stump.",
+        "...Done. Bandage it, now."
       ],
       "psychology_streamer_paranoid": [
         "Why do I feel eyes on us? Not the critters... something else.",
@@ -2377,15 +2438,49 @@
         "Nghaaah! It's hitting me now... fuck!"
       ],
       "minigame_amputation_cutting": [
-        "Ngh... don't look... just keep sawing...",
-        "God, the teeth grating against the bone...",
-        "Ugh... the sound... I'm gonna throw up...",
-        "Keep going... keep going, you have to!"
+        "FUCK! FUCK! AAGH!",
+        "Oh god, oh god, oh god...",
+        "Hrrgk... *gag* ...fuck...",
+        "Don't stop... don't fucking stop...",
+        "SWEET JESUS FUCK!",
+        "Just snap... just fucking snap already!",
+        "Nggghhh... please... please...",
+        "I'm gonna pass out... ghkkk...",
+        "AAAGHH! GOD DAMN IT!",
+        "Just come off... come OFF!",
+        "Fuuuck... fuck... breathe...",
+        "*choking* ...getting through... fuck..."
+      ],
+      "minigame_amputation_cutting_stoic": [
+        "...Grhh... teeth together...",
+        "Hrrgh... keep going...",
+        "...Focus. Just... cut.",
+        "...Bite down... bite down!",
+        "...Nnngh... getting through...",
+        "...Don't stop now... god damn it...",
+        "...Fffhh... steady... steady...",
+        "...Grk! Don't flinch..."
+      ],
+      "minigame_amputation_cutting_depressed": [
+        "...Just get through it.",
+        "...Hardly even matters.",
+        "...Agh... hurry up and snap.",
+        "...Nothing left to lose anyway.",
+        "...Ngh... whatever. Just keep sawing.",
+        "...Cold. Cold...",
+        "...Just finish it already."
+      ],
+      "minigame_amputation_cutting_masochist": [
+        "...Ghh... white heat...",
+        "...Sharp... so sharp...",
+        "...Tearing right through...",
+        "...Ngh... burn it out...",
+        "...Bite deeper..."
       ],
       "minigame_amputation_complete": [
         "It's off... holy fuck, it's finally off.",
         "Done... it's done. Now tourniquet it, fast!",
-        "Ghh... it fell away. I actually did it.",
+        "Ghh... Hnng... ...it's off...",
         "It's over... breathe... just breathe."
       ],
       "minigame_dislocation_success": [
@@ -2523,7 +2618,7 @@
     "psychology_title_depressive_lethargy": "Exhausted",
     "psychology_title_isolation_numbness": "Numb & Alone",
     "psychology_title_guarded_respite": "Breathing Room",
-    "psychology_title_somatic_respite": "Catching Breath",
+    "psychology_title_somatic_respite": "Resting Easy",
     "psychology_title_feverish_elevation": "Hyped Up",
     "psychology_title_manic_focus": "Laser-Focused",
     "psychology_title_guarded_composure": "Composed",
