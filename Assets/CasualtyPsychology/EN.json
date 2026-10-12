@@ -2332,6 +2332,33 @@
         "Feels strange, but I can use it.",
         "It's back... Don't take this one from me."
       ],
+      "psychology_amputation_aversion": [
+        "No no no... I can't.",
+        "I can't do this... I can't do this to myself...",
+        "Please... no... don't make me...",
+        "*gag* ...No, no...",
+        "I can't. I just can't.",
+        "God... oh god, please no...",
+        "Wait... wait, give me a second...",
+        "I can't... I really can't...",
+        "*shudder* ...No...",
+        "N-not this... anything but this..."
+      ],
+      "psychology_amputation_aversion_stoic": [
+        "...Wait. Need to be sure.",
+        "...Steady. Hands, stay steady.",
+        "...One breath. Give me one breath.",
+        "...Grit down. Don't flinch.",
+        "...Hold still. Just... wait."
+      ],
+      "psychology_amputation_aversion_depressed": [
+        "...I can't. Just let it take me.",
+        "...Too tired for this. Just leave me alone.",
+        "...Hands are shaking too much. What's the point.",
+        "...Why bother. It's over anyway.",
+        "...Can't do it. Just let me lie here.",
+        "...No. I don't care anymore. Just leave it."
+      ],
       "psychology_amputation_infected": [
         "*retching* ...God, the smell... I'm gonna throw up...",
         "Get it away from me... just throw it away, please...",
@@ -2340,6 +2367,40 @@
         "Fucking foul... *heave* ...bandage, where's the bandage?!",
         "I'm sick... holy shit, I'm gonna be sick...",
         "*coughing* ...Had to... it was crawling up my skin... *gag*"
+      ],
+      "psychology_amputation_depressed": [
+        "...There. Just... wrap it.",
+        "Why did I do that. Why am I even bothering.",
+        "...Look at me. What a fucking mess- I should've just let it rot away.",
+        "Just meat on the floor now. Don't... even look at it.",
+        "Didn't even hurt that much... Just... Hah...",
+        "...Whatever. If I bleed out, I bleed out.",
+        "Just... patch it up. Or don't."
+      ],
+      "psychology_amputation_raw": [
+        "HOLY SHIT... I actually... oh god, oh god...",
+        "AAGH! FUCK! Blood!- Where's the dressing?!",
+        "Oh god... I'm gonna pass out... everything is spinning...",
+        "FUCK! Don't look at it... don't look at it!",
+        "Can't breathe... holy shit, it burns, IT FUCKING BURNS!",
+        "*hyperventilating* ...wrap it, wrap it, fast!",
+        "It's off... holy fuck, it's actually off..."
+      ],
+      "psychology_amputation_anesthetized": [
+        "Ough... my head is spinning... god, hearing that saw...",
+        "Didn't hurt that much- but... *gag* ...watching it come off...",
+        "...I felt that crunch... oh man, I'm gonna puke...",
+        "...Wait, is it off? ...Where's... need to tie it off...",
+        "...Uhh... everything feels numb... tie it tight...",
+        "...Dull... just dull... *shudder* ...stop looking at it...",
+        "...Can't feel my <limb>... right, because they're... ugh..."
+      ],
+      "psychology_amputation_stoic": [
+        "...Ghhk. It's off. Tourniquet. Fast.",
+        "...Fffhh... stop the bleeding before I drop.",
+        "...Hrrg... tie it tight. Don't look at it.",
+        "...Breathe. Just breathe. Wrap the stump.",
+        "...Done. Bandage it, now."
       ],
       "psychology_streamer_paranoid": [
         "Why do I feel eyes on us? Not the critters... something else.",
@@ -2377,15 +2438,49 @@
         "Nghaaah! It's hitting me now... fuck!"
       ],
       "minigame_amputation_cutting": [
-        "Ngh... don't look... just keep sawing...",
-        "God, the teeth grating against the bone...",
-        "Ugh... the sound... I'm gonna throw up...",
-        "Keep going... keep going, you have to!"
+        "FUCK! FUCK! AAGH!",
+        "Oh god, oh god, oh god...",
+        "Hrrgk... *gag* ...fuck...",
+        "Don't stop... don't fucking stop...",
+        "SWEET JESUS FUCK!",
+        "Just snap... just fucking snap already!",
+        "Nggghhh... please... please...",
+        "I'm gonna pass out... ghkkk...",
+        "AAAGHH! GOD DAMN IT!",
+        "Just come off... come OFF!",
+        "Fuuuck... fuck... breathe...",
+        "*choking* ...getting through... fuck..."
+      ],
+      "minigame_amputation_cutting_stoic": [
+        "...Grhh... teeth together...",
+        "Hrrgh... keep going...",
+        "...Focus. Just... cut.",
+        "...Bite down... bite down!",
+        "...Nnngh... getting through...",
+        "...Don't stop now... god damn it...",
+        "...Fffhh... steady... steady...",
+        "...Grk! Don't flinch..."
+      ],
+      "minigame_amputation_cutting_depressed": [
+        "...Just get through it.",
+        "...Hardly even matters.",
+        "...Agh... hurry up and snap.",
+        "...Nothing left to lose anyway.",
+        "...Ngh... whatever. Just keep sawing.",
+        "...Cold. Cold...",
+        "...Just finish it already."
+      ],
+      "minigame_amputation_cutting_masochist": [
+        "...Ghh... white heat...",
+        "...Sharp... so sharp...",
+        "...Tearing right through...",
+        "...Ngh... burn it out...",
+        "...Bite deeper..."
       ],
       "minigame_amputation_complete": [
         "It's off... holy fuck, it's finally off.",
         "Done... it's done. Now tourniquet it, fast!",
-        "Ghh... it fell away. I actually did it.",
+        "Ghh... Hnng... ...it's off...",
         "It's over... breathe... just breathe."
       ],
       "minigame_dislocation_success": [
@@ -4271,6 +4366,28 @@
         "Feels slightly foreign, but fully operational.",
         "Restored at last. I will not lose it a second time."
       ],
+      "psychology_amputation_aversion": [
+        "No... I cannot do this. I cannot sever my own flesh.",
+        "Stay your hand... please, there must be an alternative...",
+        "*gag* No... I refuse this butchery...",
+        "I cannot. The mere contemplation is sickening.",
+        "Wait... grant me a moment to compose myself...",
+        "Not this... anything but self-mutilation..."
+      ],
+      "psychology_amputation_aversion_stoic": [
+        "...Steady. Maintain diagnostic focus.",
+        "...Hands, cease trembling. Precision is required.",
+        "...One deep inhalation. Do not flinch.",
+        "...Lock your jaw. Endure the necessity.",
+        "...Hold position. Steel your resolve."
+      ],
+      "psychology_amputation_aversion_depressed": [
+        "...What is the point. Let the sepsis take me.",
+        "...Exhausted beyond endurance. Leave me be.",
+        "...Trembling excessively. Why even prolong this miserable existence.",
+        "...Futile. It is finished regardless.",
+        "...I have no will left to butcher myself."
+      ],
       "psychology_amputation_infected": [
         "*gagging* ...Ugh, the stench of necrosis... repulsive...",
         "Discard it immediately! Get it out of my sight!",
@@ -4279,6 +4396,37 @@
         "Foul rot... *coughs* ...bandage! Wrap the stump quickly!",
         "Nauseating... I am going to be sick...",
         "It had to be severed... the decay was spreading up my flesh... *heaves*"
+      ],
+      "psychology_amputation_depressed": [
+        "...It is done. Simply wrap the stump, or don't.",
+        "Why did I bother? Just to delay the inevitable.",
+        "...A ruined shell. I should have let it rot.",
+        "Severed flesh on the deck. Do not look upon it.",
+        "...Hardly registered the pain. How utterly hollow.",
+        "...Bleed out, survive... it makes little difference now."
+      ],
+      "psychology_amputation_raw": [
+        "GOD! Yellow blood pouring everywhere- the tourniquet, immediately!",
+        "AGONY! Pure searing torment- where is the dressing?!",
+        "Blacking out... equilibrium failing... hold on...!",
+        "Severed... God, I actually cut through the joint!",
+        "Can't breathe... pure white fire through every damn nerve!",
+        "*gasping violently* Cinch it! Cinch it now!"
+      ],
+      "psychology_amputation_anesthetized": [
+        "Consciousness wavering... the grating vibrations in my skull...",
+        "Dull sensations... but the visual spectacle is nauseating...",
+        "...I felt the bone part... bile rising in my throat...",
+        "...Is the procedure finished? Fasten it, stat...",
+        "...Limbs feel like lead... wrap the extremity tightly...",
+        "...Sensory feedback severed... strange phantom tingling..."
+      ],
+      "psychology_amputation_stoic": [
+        "...Ghhk. Detached. Tourniquet, immediately.",
+        "...Fffhh... stem the yellow flow before syncope sets in.",
+        "...Hrrg... cinch it tight. Focus forward.",
+        "...Deep breath. Dress the stump, stat.",
+        "...Procedure concluded. Sterile wrap, now."
       ],
       "psychology_streamer_paranoid": [
         "I sense observation. Not the subterranean fauna... something distant.",
@@ -4320,6 +4468,29 @@
         "The teeth of the blade grating against bone... horrific...",
         "Ugh... the acoustic vibrations... sickening...",
         "Keep cutting... do not hesitate, you must finish!"
+      ],
+      "minigame_amputation_cutting_stoic": [
+        "...Grhh... teeth clamped tight...",
+        "Hrrgh... maintain the rhythm... keep sawing...",
+        "...Diagnostic focus. Sever the bone.",
+        "...Bite down. Do not falter.",
+        "...Nnngh... nearly through the cortical layer...",
+        "...Steady... suppress the somatic reflex...",
+        "...Grk! Steady the blade..."
+      ],
+      "minigame_amputation_cutting_depressed": [
+        "...Just complete it. What remains to lose.",
+        "...Hardly registers anyway.",
+        "...Agh... part already, damn you.",
+        "...Ngh... saw through the ruin.",
+        "...Cold numbness spreading... whatever.",
+        "...Just finish the butchery."
+      ],
+      "minigame_amputation_cutting_masochist": [
+        "...Ghh... brilliant searing white agony...",
+        "...The exquisite sharpness... tearing through...",
+        "...Ngh... cauterize the senses in fire...",
+        "...Bite into the torment... deeper..."
       ],
       "minigame_amputation_complete": [
         "It is severed... finally free of it.",
@@ -6104,6 +6275,28 @@
         "Feel funny, but can use it!",
         "Limb back! Don't bite it off, bad bugs!"
       ],
+      "psychology_amputation_aversion": [
+        "No no no... Du-ne can't do it! Can't cut ow-n body!",
+        "Please... no... don't make Du-ne saw own li-mb!",
+        "*gag* No! Smells bad... Dune sca-red!",
+        "Du-ne can't... hands shak-ing too hard!",
+        "Wait... wait... give Du-ne one second... ple-ase...",
+        "No no! Anything but cutt-ing Dune own me-at!"
+      ],
+      "psychology_amputation_aversion_stoic": [
+        "...Wait. Du-ne be brave. Must be sure.",
+        "...Steady claws. Stop trembl-ing, hands.",
+        "...Big breath. Don't sque-ak. Be strong.",
+        "...Bite on stone...",
+        "...Hold st-ill. Just... wait."
+      ],
+      "psychology_amputation_aversion_depressed": [
+        "...Du-ne tired. Just let it ea-t Du-ne.",
+        "...What point? Du-ne hurt too mu-ch any-way.",
+        "...Claws shake... no stren-gth left... why try.",
+        "...Can't do it. Just lea-ve Du-ne on dirt.",
+        "...No care anymore. Let bad win."
+      ],
       "psychology_amputation_infected": [
         "*gags loudly* Stink so bad! Smell like rotten meat!",
         "Throw it away! Get black meat away from Dune!",
@@ -6112,6 +6305,38 @@
         "Gross rot... *chokes* ...tie rag on stump fast!",
         "Du-ne gonna throw up... belly sick...",
         "Had to cut... poison was crawling up skin! Blegh!"
+      ],
+      "psychology_amputation_depressed": [
+        "...There. Tie it... Or no...",
+        "Why Dune even try? Just bro-ken bug anyway.",
+        "...Look at Dune... what a me-ss. Should let it rot.",
+        "Meat on dirt now. Dune not lo-ok at it.",
+        "No hu-rt much... just... empty...",
+        "...If Du-ne bleed out... Dune sleep for-ever."
+      ],
+      "psychology_amputation_raw": [
+        "AAGH! HURTS! BLOOD EVERYWHERE- TIE FAST!",
+        "OW OW OW! FIRE! DUNE SKIN ON FIRE!",
+        "Dune gonna faint... cave spinning around...!",
+        "NOOO! Don't look at me-at on dirt!",
+        "Can't bre-athe... burns so bad... BURNS BURNS!",
+        "*crying* Tie it! Tie it tight around stump!",
+        "It off... *hissing*... AAGHH!"
+      ],
+      "psychology_amputation_anesthetized": [
+        "Ough... head heavy... saw sounded so weird...",
+        "Didn't hurt big... but... *gag* ...saw it come off...",
+        "...Dune felt loud cru-nch... tum-my feel sick...",
+        "...Wait, it off? Where rag... tie stump...",
+        "...Uhh... everything soft and numb... tie tight...",
+        "...Can't fee-l claws... because th-ey gone... ugh..."
+      ],
+      "psychology_amputation_stoic": [
+        "...Ghhk. Off. Tie rag. Super fast.",
+        "...Fffhh... stop leak-ing before Du-ne fall over.",
+        "...Hrrg... pull knot tight! No cry!",
+        "...Bre-athe. Just bre-athe. Wrap tight...",
+        "...Done. Put clean band-age on now."
       ],
       "psychology_streamer_paranoid": [
         "Feel weird eyes... not monsters... sky watchers?",
@@ -6153,6 +6378,32 @@
         "Blade scraping on hard bone... *shudders*",
         "Ugh... horrible screech sound... gonna puke...",
         "Keep going claws... must cut off... hurry!"
+      ],
+      "minigame_amputation_cutting_stoic": [
+        "...Grhh... teeth clamp together...",
+        "Hrrgh... keep claws sawing...",
+        "...Focus eyes. Just... cut meat.",
+        "...Bite hard! Bite down!",
+        "...Nnngh... sawing through hard bone...",
+        "...Don't stop now... Dune can do it...",
+        "...Fffhh... steady claws... steady...",
+        "...Grk! Don't jump!"
+      ],
+      "minigame_amputation_cutting_depressed": [
+        "...Just finish cut. Nothing matters.",
+        "...Barely fee-l it anyway.",
+        "...Agh... hurry snap off.",
+        "...Nothing left to save anyway.",
+        "...Ngh... whatever. Just keep pulling blade.",
+        "...Cold. Getting so cold...",
+        "...Just let limb drop already."
+      ],
+      "minigame_amputation_cutting_masochist": [
+        "...Ghh... hot white spark inside...",
+        "...Biting teeth... so sharp...",
+        "...Tearing through meat... *shivers*...",
+        "...Ngh... burn all bad feelings out...",
+        "...Bite down deeper..."
       ],
       "minigame_amputation_complete": [
         "It off! Limb fell on dirt!",
