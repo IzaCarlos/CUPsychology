@@ -1,6 +1,6 @@
 {
   "name": "English",
-  "description": "Casualty Psychology Gritty & Grounded English Dialogue",
+  "description": "Casualty Psychology Full English Dialogue (Experiment/Milky/Dune), EN",
   "character": [
     {
       "psychology_frustration": [
@@ -39,8 +39,8 @@
         "Why is it always like this?",
         "Just work!",
         "I'm so sick of this.",
-	      "Of course. Yep. Yeah. This might as well happen.",
-	      "...My fault for expecting anything better."
+        "Of course. Yep. Yeah. This might as well happen.",
+        "...My fault for expecting anything better."
       ],
       "psychology_anger": [
         "Back off!",
@@ -73,8 +73,8 @@
         "Die. Just die already.",
         "Gah!",
         "I hate everything about this place.",
-	      "FUCK!!! OFF!!!",
-	      "I swear..."
+        "FUCK!!! OFF!!!",
+        "I swear..."
       ],
       "psychology_fear": [
         "...",
@@ -108,8 +108,8 @@
         "It's watching me.",
         "Keep low... keep low...",
         "Uh huh.",
-	      "Dead thing.",
-	      "Dead."
+        "Dead thing.",
+        "Dead."
       ],
       "psychology_panic": [
         "Can't breathe...",
@@ -369,10 +369,10 @@
         "Poor creature didn't stand a chance.",
         "Carcass is all bloated.",
         "Must have bled out here.",
-	      "Oh, ew...",
-	      "Ugh. Ew. No thanks.",
-	      "Maybe there's still some good meat left on it..?",
-	      "Bugs already picked at this one. Yeesh..."
+        "Oh, ew...",
+        "Ugh. Ew. No thanks.",
+        "Maybe there's still some good meat left on it..?",
+        "Bugs already picked at this one. Yeesh..."
       ],
       "psychology_corpse_and_trap": [
         "Did the trap get him? Or was he already down?",
@@ -387,7 +387,7 @@
         "...Keep walking. Eyes down. Step wide.",
         "...Gross...",
         "Yeah, pay better attention next time. Idiot.",
-	      "Oh, that's REAL nice. I try to distract myself for FIVE fucking seconds..."
+        "Oh, that's REAL nice. I try to distract myself for FIVE fucking seconds..."
       ],
       "psychology_near_corpse_aggressive": [
         "...Damn it. Not like this.",
@@ -416,8 +416,8 @@
         "...Could've been me.",
         "...Rest easy. Please.",
         "...Don't look at them.",
-	      "I'm sorry. I should've been there.",
-	      "No, no no no no... Oh gosh...",
+        "I'm sorry. I should've been there.",
+        "No, no no no no... Oh gosh...",
         "I wish I could've saved you bud..."
       ],
       "psychology_corpse_suicidal": [
@@ -480,7 +480,7 @@
         "Watch it...",
         "...",
         "GAH! Watch out!",
-	      "Eeeeasy..."
+        "Eeeeasy..."
       ],
       "psychology_flashback_onset": [
         "Wait...",
@@ -496,9 +496,9 @@
         "It's all around me!",
         "Get it off me!",
         "Wait. WAIT! No! G-get away-!",
-	      "AWAY FROM ME!",
-	      "What's-? What are you-?",
-	      "T-this is like... Like when... No, no please-"
+        "AWAY FROM ME!",
+        "What's-? What are you-?",
+        "T-this is like... Like when... No, no please-"
       ],
       "psychology_flashback_coping": [
         "Look at the floor. Just stone. Just gray stone.",
@@ -517,7 +517,7 @@
         "...",
         "It's not happening. It's not happening.",
         "...Not there. Okay. You're okay.",
-	      "F-four things you can see... Three things you can touch..."
+        "F-four things you can see... Three things you can touch..."
       ],
       "psychology_flashback_panic": [
         "THEY'RE RIGHT HERE!",
@@ -536,12 +536,12 @@
         "I CAN'T ESCAPE!",
         "GET IT! IT'S COMING FOR ME!",
         "Nononono... Not again, notagainnotagainnotagain...",
-	      "I can't do this again, I can't I can't Ican'tIcan'tIcan't-",
-	      "PLEASE! I'M SORRY! I WON'T DO IT AGAIN!",
-	      "I'm sorry, I'm sorry, I'm sorry, I'm sorry!",
-	      "AAHHHH!!! I CAN'T DO THIS AGAIN!",
-	      "I won't be bad anymore! Please! Just leave me alone!",
-	      "Leave me alone, leave me alone, please..."
+        "I can't do this again, I can't I can't Ican'tIcan'tIcan't-",
+        "PLEASE! I'M SORRY! I WON'T DO IT AGAIN!",
+        "I'm sorry, I'm sorry, I'm sorry, I'm sorry!",
+        "AAHHHH!!! I CAN'T DO THIS AGAIN!",
+        "I won't be bad anymore! Please! Just leave me alone!",
+        "Leave me alone, leave me alone, please..."
       ],
       "psychology_flashback_aftermath": [
         "...Just echoes.",
@@ -557,7 +557,7 @@
         "Hnnnfff...",
         "Ughhh...",
         "I'm sorry... Please, please...",
-	      "Not the taser, I'm sorry..."
+        "Not the taser, I'm sorry..."
       ],
       "psychology_flashback_fleeting": [
         "...What was that? No, just... shadows.",
@@ -595,14 +595,14 @@
         "...",
         "What are you staring at?!",
         "Don't fucking touch me!",
-	      "I have FUCKING HAD IT!",
-	      "I've had it UP TO HERE WITH THIS SHIT!",
-	      "Oh, don't act like you know me! Fuck off!",
-	      "DON'T TOUCH ME!",
-	      "Fuck would YOU know?!",
-	      "Honest to God... Kill yourself!!",
-	      "Can you SHUT THE HELL UP?! GOD!",
-	      "Oh, you are DONE!"
+        "I have FUCKING HAD IT!",
+        "I've had it UP TO HERE WITH THIS SHIT!",
+        "Oh, don't act like you know me! Fuck off!",
+        "DON'T TOUCH ME!",
+        "Fuck would YOU know?!",
+        "Honest to God... Kill yourself!!",
+        "Can you SHUT THE HELL UP?! GOD!",
+        "Oh, you are DONE!"
       ],
       "psychology_crisis_withdrawal": [
         "...",
@@ -677,11 +677,11 @@
         "MAKE WAY! I CAN'T LOSE NOW!",
         "ahAhAHAH! I'M STILL HERE!",
         "GO! GO! GO!",
-	      "YEEESSSS!! HAHA!! KEEP GOING!",
-	      "More. MORE!!",
-	      "Is that all you got?!",
-	      "Is that all?! COME ON!",
-	      "COME ON! I know you're better than this!"
+        "YEEESSSS!! HAHA!! KEEP GOING!",
+        "More. MORE!!",
+        "Is that all you got?!",
+        "Is that all?! COME ON!",
+        "COME ON! I know you're better than this!"
       ],
       "psychology_combo_fear_anger": [
         "Come on then! SHOW YOURSELF!",
@@ -739,19 +739,19 @@
         "Hnnn...",
         "Hrmm...",
         "Everything feels... Far away.",
-	      "Am I dreaming..?",
-	      "I don't know... What's..?",
-	      "I don't remember..?",
-	      "Who's THAT?",
-	      "Haha. What was I doing.",
-	      "Where is this?",
-	      "Where am I?",
-	      "I was... Um. I don't... I don't know...",
-	      "It's all like... Glass. Everything's behind glass.",
-	      "Too many colors.",
-	      "Too much noise.",
-	      "Since when did I look like this-?",
-	      "Is this really what I sound like?"
+        "Am I dreaming..?",
+        "I don't know... What's..?",
+        "I don't remember..?",
+        "Who's THAT?",
+        "Haha. What was I doing.",
+        "Where is this?",
+        "Where am I?",
+        "I was... Um. I don't... I don't know...",
+        "It's all like... Glass. Everything's behind glass.",
+        "Too many colors.",
+        "Too much noise.",
+        "Since when did I look like this-?",
+        "Is this really what I sound like?"
       ],
       "psychology_dissociation_breakdown": [
         "Oh God... oh God, I almost died back there.",
@@ -765,8 +765,8 @@
         "What the fuck is going on down here!?",
         "Hahhnnn... hnnn...",
         "What the fuck?! Why did I do that?!",
-	      "What was I thinking-??",
-	      "What happened? Where am I?"
+        "What was I thinking-??",
+        "What happened? Where am I?"
       ],
       "psychology_trio_doom": [
         "Nothing works, I'm freezing, and they're hunting us.",
@@ -828,9 +828,9 @@
         "Phew...",
         "Mmmm... Nice.",
         "Ohhh boy. Yep. Yeah. Thaaaat's better...",
-	      "That should fix it.",
-	      "Back in working order.",
-	      "Back to normal."
+        "That should fix it.",
+        "Back in working order.",
+        "Back to normal."
       ],
       "psychology_memory_meal": [
         "I remember having that food... that was really nice.",
@@ -1029,15 +1029,15 @@
         "Good to speak with someone who didn't try to kill me.",
         "...At least someone else is alive down here.",
         "Felt nice doing a bit of business.",
-	      "That guy was nice.",
-	      "Wonder how that person back there is doing?"
+        "That guy was nice.",
+        "Wonder how that person back there is doing?"
       ],
       "psychology_memory_craft_good": [
         "Put that together properly. Still useful.",
         "Made something that works. That's something.",
         "Good craftsawship.",
         "Making stuff is kinda fun.",
-	      "I'm kinda proud of that."
+        "I'm kinda proud of that."
       ],
       "psychology_memory_craft_bad": [
         "What a mess that craft was...",
@@ -1053,8 +1053,8 @@
         "I wonder how many of us were in the kennels, it was always changing.",
         "Some of the humans were okay, I guess.",
         "I wonder how my friends are doing.",
-	      "Wish they let me keep my things.",
-	      "The humans were so weird. Why did they look like that?"
+        "Wish they let me keep my things.",
+        "The humans were so weird. Why did they look like that?"
       ],
       "psychology_memory_lab_unsettling": [
         "Still remember the cold floor in that holding cell...",
@@ -1092,15 +1092,15 @@
         "...Just looking right through me.",
         "Haven't you had enough?",
         "What are you?",
-	      "You. Looking at me. Watching me. What are you?",
-	      "Don't you have anything better to do?",
-	      "What about you? What are you hiding from?",
-	      "You know this won't make any of your problems go away.",
-	      "How many times have we been here before?",
-	      "Is this how you treat everyone you watch over?",
-	      "Just a bunch of shapes and noise on a flat piece of plastic.",
-	      "No. It's okay. I understand. I would do the same to you.",
-	      "Sooner or later you have to get back to your life. You're just like me."
+        "You. Looking at me. Watching me. What are you?",
+        "Don't you have anything better to do?",
+        "What about you? What are you hiding from?",
+        "You know this won't make any of your problems go away.",
+        "How many times have we been here before?",
+        "Is this how you treat everyone you watch over?",
+        "Just a bunch of shapes and noise on a flat piece of plastic.",
+        "No. It's okay. I understand. I would do the same to you.",
+        "Sooner or later you have to get back to your life. You're just like me."
       ],
       "psychology_futile_refusal": [
         "...What's the point of making this?",
@@ -1132,8 +1132,8 @@
         "...Left it behind.",
         "...Can't reach it now.",
         "Man... Oh well.",
-	      "Oh- whoop. Okay.",
-	      "There it goes..."
+        "Oh- whoop. Okay.",
+        "There it goes..."
       ],
       "psychology_item_lost_traded": [
         "...Traded so much for that.",
@@ -1147,31 +1147,31 @@
         "...Still in one piece.",
         "...Found it.",
         "Got it!",
-	      "Still works!",
-	      "Got some dirt on it, but it's fine.",
-	      "Oh hey! There it is.",
-	      "Hey, I think that's mine.",
-	      "Thought it was gone for good."
+        "Still works!",
+        "Got some dirt on it, but it's fine.",
+        "Oh hey! There it is.",
+        "Hey, I think that's mine.",
+        "Thought it was gone for good."
       ],
       "psychology_item_recovered_damaged": [
         "...Battered, but usable.",
         "...Dented up.",
         "Agh. Busted up.",
-	      "What is this shit all over it?",
-	      "I really gotta fix this.",
-	      "I can... Probably salvage it. Maybe.",
-	      "Rghh... It's fine. Probably. Hopefully."
+        "What is this shit all over it?",
+        "I really gotta fix this.",
+        "I can... Probably salvage it. Maybe.",
+        "Rghh... It's fine. Probably. Hopefully."
       ],
       "psychology_hostile_killed": [
         "...Down.",
         "...Clear.",
         "Hate those things.",
-	      "Eugh... Gross. It's all over me now.",
-	      "Nasty little bugger.",
-	      "Nice try.",
-	      "Gonna have to do more than that.",
-	      "Little fucker.",
-	      "Ew ew ew ew. Never again."
+        "Eugh... Gross. It's all over me now.",
+        "Nasty little bugger.",
+        "Nice try.",
+        "Gonna have to do more than that.",
+        "Little fucker.",
+        "Ew ew ew ew. Never again."
       ],
       "psychology_clone_killed": [
         "...What did I just do...?",
@@ -1186,12 +1186,12 @@
         "...Didn't have to be like this.",
         "...No going back now.",
         "Why did I do that? Why?",
-	      "It's not my fault... It's... Oh god...",
-	      "What have I done? Oh god, no, please...",
-	      "I'm... Wait. No, no no no, I'm sorry...",
-	      "N-no, wait, no, please wake up-!",
-	      "Are you okay-? Oh god, no, what did I just do?",
-	      "Wait... No! Wake up, wake up, please, say something-!"
+        "It's not my fault... It's... Oh god...",
+        "What have I done? Oh god, no, please...",
+        "I'm... Wait. No, no no no, I'm sorry...",
+        "N-no, wait, no, please wake up-!",
+        "Are you okay-? Oh god, no, what did I just do?",
+        "Wait... No! Wake up, wake up, please, say something-!"
       ],
       "psychology_corpse_smashed": [
         "...Ugh, god.",
@@ -1236,7 +1236,7 @@
         "...Focus on what's ahead. Don't drift.",
         "Steady now...",
         "Keep a move on...",
-      "Just keep focused."
+        "Just keep focused."
       ],
       "psychology_solitary_schizoid": [
         "Did you hear that? Shh. Don't answer.",
@@ -1311,7 +1311,7 @@
         "Agh! Rattled my teeth, you bastard!",
         "Cheap sonic wave! Try harder next time!",
         "Ear-piercing piece of shit! I'll dismantle you!",
-	      "AAAAOWWWW!!! FUCK! FUCK YOU TOO, ASSHOLE!",
+        "AAAAOWWWW!!! FUCK! FUCK YOU TOO, ASSHOLE!",
         "I CAN SCREAM LOUDER THAN YOU CAN!"
       ],
       "psychology_trap_sonar_joyous_hit": [
@@ -1603,7 +1603,7 @@
       ],
       "psychology_craft_mutilation_panic": [
         "...Ah! My <limb>! It chewed right through!",
-        "...Blood...- stop the bleeding!",
+        "...Blood...- the bleeding!",
         "...Torn open! Oh God, my <limb>!",
         "IT TOOK A CHUNK OUT! OH GOD!",
         "MY <limb>! SHUT IT OFF, SHUT IT OFF!",
@@ -2332,33 +2332,6 @@
         "Feels strange, but I can use it.",
         "It's back... Don't take this one from me."
       ],
-      "psychology_amputation_aversion": [
-        "No no no... I can't.",
-        "I can't do this... I can't do this to myself...",
-        "Please... no... don't make me...",
-        "*gag* ...No, no...",
-        "I can't. I just can't.",
-        "God... oh god, please no...",
-        "Wait... wait, give me a second...",
-        "I can't... I really can't...",
-        "*shudder* ...No...",
-        "N-not this... anything but this..."
-      ],
-      "psychology_amputation_aversion_stoic": [
-        "...Wait. Need to be sure.",
-        "...Steady. Hands, stay steady.",
-        "...One breath. Give me one breath.",
-        "...Grit down. Don't flinch.",
-        "...Hold still. Just... wait."
-      ],
-      "psychology_amputation_aversion_depressed": [
-        "...I can't. Just let it take me.",
-        "...Too tired for this. Just leave me alone.",
-        "...Hands are shaking too much. What's the point.",
-        "...Why bother. It's over anyway.",
-        "...Can't do it. Just let me lie here.",
-        "...No. I don't care anymore. Just leave it."
-      ],
       "psychology_amputation_infected": [
         "*retching* ...God, the smell... I'm gonna throw up...",
         "Get it away from me... just throw it away, please...",
@@ -2367,40 +2340,6 @@
         "Fucking foul... *heave* ...bandage, where's the bandage?!",
         "I'm sick... holy shit, I'm gonna be sick...",
         "*coughing* ...Had to... it was crawling up my skin... *gag*"
-      ],
-      "psychology_amputation_depressed": [
-        "...There. Just... wrap it.",
-        "Why did I do that. Why am I even bothering.",
-        "...Look at me. What a fucking mess- I should've just let it rot away.",
-        "Just meat on the floor now. Don't... even look at it.",
-        "Didn't even hurt that much... Just... Hah...",
-        "...Whatever. If I bleed out, I bleed out.",
-        "Just... patch it up. Or don't."
-      ],
-      "psychology_amputation_raw": [
-        "HOLY SHIT... I actually... oh god, oh god...",
-        "AAGH! FUCK! Blood!- Where's the dressing?!",
-        "Oh god... I'm gonna pass out... everything is spinning...",
-        "FUCK! Don't look at it... don't look at it!",
-        "Can't breathe... holy shit, it burns, IT FUCKING BURNS!",
-        "*hyperventilating* ...wrap it, wrap it, fast!",
-        "It's off... holy fuck, it's actually off..."
-      ],
-      "psychology_amputation_anesthetized": [
-        "Ough... my head is spinning... god, hearing that saw...",
-        "Didn't hurt that much- but... *gag* ...watching it come off...",
-        "...I felt that crunch... oh man, I'm gonna puke...",
-        "...Wait, is it off? ...Where's... need to tie it off...",
-        "...Uhh... everything feels numb... tie it tight...",
-        "...Dull... just dull... *shudder* ...stop looking at it...",
-        "...Can't feel my <limb>... right, because they're... ugh..."
-      ],
-      "psychology_amputation_stoic": [
-        "...Ghhk. It's off. Tourniquet. Fast.",
-        "...Fffhh... stop the bleeding before I drop.",
-        "...Hrrg... tie it tight. Don't look at it.",
-        "...Breathe. Just breathe. Wrap the stump.",
-        "...Done. Bandage it, now."
       ],
       "psychology_streamer_paranoid": [
         "Why do I feel eyes on us? Not the critters... something else.",
@@ -2438,49 +2377,15 @@
         "Nghaaah! It's hitting me now... fuck!"
       ],
       "minigame_amputation_cutting": [
-        "FUCK! FUCK! AAGH!",
-        "Oh god, oh god, oh god...",
-        "Hrrgk... *gag* ...fuck...",
-        "Don't stop... don't fucking stop...",
-        "SWEET JESUS FUCK!",
-        "Just snap... just fucking snap already!",
-        "Nggghhh... please... please...",
-        "I'm gonna pass out... ghkkk...",
-        "AAAGHH! GOD DAMN IT!",
-        "Just come off... come OFF!",
-        "Fuuuck... fuck... breathe...",
-        "*choking* ...getting through... fuck..."
-      ],
-      "minigame_amputation_cutting_stoic": [
-        "...Grhh... teeth together...",
-        "Hrrgh... keep going...",
-        "...Focus. Just... cut.",
-        "...Bite down... bite down!",
-        "...Nnngh... getting through...",
-        "...Don't stop now... god damn it...",
-        "...Fffhh... steady... steady...",
-        "...Grk! Don't flinch..."
-      ],
-      "minigame_amputation_cutting_depressed": [
-        "...Just get through it.",
-        "...Hardly even matters.",
-        "...Agh... hurry up and snap.",
-        "...Nothing left to lose anyway.",
-        "...Ngh... whatever. Just keep sawing.",
-        "...Cold. Cold...",
-        "...Just finish it already."
-      ],
-      "minigame_amputation_cutting_masochist": [
-        "...Ghh... white heat...",
-        "...Sharp... so sharp...",
-        "...Tearing right through...",
-        "...Ngh... burn it out...",
-        "...Bite deeper..."
+        "Ngh... don't look... just keep sawing...",
+        "God, the teeth grating against the bone...",
+        "Ugh... the sound... I'm gonna throw up...",
+        "Keep going... keep going, you have to!"
       ],
       "minigame_amputation_complete": [
         "It's off... holy fuck, it's finally off.",
         "Done... it's done. Now tourniquet it, fast!",
-        "Ghh... Hnng... ...it's off...",
+        "Ghh... it fell away. I actually did it.",
         "It's over... breathe... just breathe."
       ],
       "minigame_dislocation_success": [
@@ -2496,8 +2401,3826 @@
         "Can barely limp like this... need a splint."
       ]
     },
-    {},
-    {}
+    {
+      "psychology_frustration": [
+        "...",
+        "Tch.",
+        "Inefficient.",
+        "Come on, work.",
+        "Infuriating.",
+        "How tedious.",
+        "A waste of time.",
+        "Why does this keep happening?",
+        "Damn it.",
+        "Defective piece of junk.",
+        "I do not have the patience for this.",
+        "Flawed design.",
+        "Nonsense.",
+        "*frown*",
+        "Unacceptable.",
+        "Try working for once.",
+        "Sloppy.",
+        "Are you joking?"
+      ],
+      "psychology_anger": [
+        "Back away.",
+        "Do not touch me.",
+        "You are testing my patience.",
+        "Get out of my sight.",
+        "Do not look at me like that.",
+        "One more word from you.",
+        "Irritating pest.",
+        "Cease this immediately.",
+        "Step back before I do something regrettable.",
+        "I am not in the mood.",
+        "Silence.",
+        "Damn you.",
+        "Do not provoke me.",
+        "Enough!",
+        "Get away from me.",
+        "I have had quite enough of this."
+      ],
+      "psychology_fear": [
+        "...",
+        "Did you hear that?",
+        "Sounded close.",
+        "Stay down.",
+        "Keep quiet.",
+        "Something is lurking.",
+        "Do not move.",
+        "*shudder*",
+        "I do not like the sound of that.",
+        "Unregistered movement.",
+        "Stay in the shadows.",
+        "We are being watched.",
+        "Footsteps...",
+        "Keep your eyes on the dark.",
+        "I would prefer not to die down here.",
+        "Unsettling.",
+        "Quiet now..."
+      ],
+      "psychology_panic": [
+        "My chest... breathe.",
+        "Too fast... calm down.",
+        "Focus. Focus. Stay rational.",
+        "I cannot catch my breath...",
+        "My hands won't stop shaking.",
+        "Where is the exit?!",
+        "Hh... hh... calm down...",
+        "Vision is blurring...",
+        "No no no... not like this.",
+        "I need to get out of here!",
+        "Stay composed... stay composed...",
+        "Make it stop.",
+        "This is bad. Very bad.",
+        "I am suffocating...",
+        "*hyperventilating*"
+      ],
+      "psychology_melancholy": [
+        "...",
+        "Why bother.",
+        "Exhausting.",
+        "Nothing ever changes down here.",
+        "What is the point?",
+        "Cold...",
+        "I am tired of this.",
+        "*sigh*",
+        "No one is coming to help us.",
+        "Just endless gray.",
+        "Hollow.",
+        "I struggle to see the purpose.",
+        "Leave me alone for a while.",
+        "Such a miserable existence.",
+        "Really?",
+        "This is insulting."
+      ],
+      "psychology_contentment": [
+        "Acceptable.",
+        "Adequate.",
+        "Still in one piece.",
+        "Functional enough.",
+        "Progress, however small.",
+        "Could be significantly worse.",
+        "Holding together.",
+        "A reasonable outcome.",
+        "Stable.",
+        "We proceed."
+      ],
+      "psychology_comfort": [
+        "A brief reprieve.",
+        "Adequate warmth.",
+        "Safe, for the moment.",
+        "This will suffice.",
+        "*sigh of relief*",
+        "A necessary pause.",
+        "Quite pleasant.",
+        "Tension is easing.",
+        "Peaceful, for once."
+      ],
+      "psychology_refuse_sustenance": [
+        "...",
+        "I refuse.",
+        "Inedible.",
+        "Repulsive. Keep that away.",
+        "I am not ingesting that.",
+        "Take it away.",
+        "My stomach rejects the very thought.",
+        "Unacceptable.",
+        "I will not eat garbage.",
+        "No.",
+        "Remove it from my sight.",
+        "Nuh uh."
+      ],
+      "psychology_near_corpse_single": [
+        "Better you than me.",
+        "A fatal miscalculation on their part.",
+        "The carcass remains remarkably intact.",
+        "Another casualty of inadequate preparation.",
+        "Curious wound pattern.",
+        "No signs of cognitive activity.",
+        "How... unfortunate.",
+        "Nothing left to study here.",
+        "Careless.",
+        "*sigh*",
+        "Quite demotivating.",
+        "How concerning.",
+        "Perhaps they left something behind.",
+        "No pulse.",
+        "Not breathing.",
+        "Upsetting.",
+        "Ugh, what a clumsy way to die.",
+        "This is a corpse.",
+        "..."
+      ],
+      "psychology_near_corpse_multiple": [
+        "Multiple casualties.",
+        "A mass cull.",
+        "The stench of rot is heavy.",
+        "Sloppy defense on their part.",
+        "Several bodies. Tread carefully.",
+        "Peculiar concentration of corpses.",
+        "Demotivating sight.",
+        "Disaster area.",
+        "So many down here."
+      ],
+      "psychology_near_corpse": [
+        "The stench is foul.",
+        "Better you than me.",
+        "Avoid unnecessary contact.",
+        "Another body.",
+        "No signs of life.",
+        "*frown*",
+        "Upsetting.",
+        "Unfortunate."
+      ],
+      "psychology_corpse_desensitized": [
+        "Another one.",
+        "Hardly surprising.",
+        "Finders keepers.",
+        "Familiar scenery down here.",
+        "Check for anything.",
+        "Another body for the tally.",
+        "At least they're out of the misery.",
+        "Mhm. Dead.",
+        "Losing count.",
+        "Another one bites the dust.",
+        "And another.",
+        "I'm going to need a bigger tally sheet."
+      ],
+      "psychology_corpse_nihilist": [
+        "...",
+        "Just meat now.",
+        "Inconsequential.",
+        "Nothing more.",
+        "Dust to dust.",
+        "Heh.",
+        "Hm."
+      ],
+      "psychology_near_animal_corpse": [
+        "Predator or prey? Dead either way.",
+        "Torn apart.",
+        "Check for usable hide or meat.",
+        "Whatever slew this may still linger.",
+        "Foul stench.",
+        "At least it wasn't one of us.",
+        "Wasted resource."
+      ],
+      "psychology_corpse_and_trap": [
+        "Stepped directly into the trigger. Careless.",
+        "Trap is... very lethal.",
+        "Watch the trigger mechanism.",
+        "A clumsy and painful demise.",
+        "Laying inches from it. Watch your footing.",
+        "Obvious trap. How did they miss that?",
+        "One misstep cost them everything.",
+        "Tsk."
+      ],
+      "psychology_near_corpse_aggressive": [
+        "Should have fought harder.",
+        "Pathetic resistance.",
+        "I will not share your fate.",
+        "Careless weakness.",
+        "Whatever killed you will find me far less compliant.",
+        "What a waste.",
+        "Damn fools."
+      ],
+      "psychology_near_corpse_stoic": [
+        "Look away. Move.",
+        "Nothing to gain by staring.",
+        "Eyes forward.",
+        "Acknowledge and proceed.",
+        "Keep walking.",
+        "..."
+      ],
+      "psychology_near_corpse_empathetic": [
+        "...Unfortunate.",
+        "A grim end. They did not deserve this.",
+        "A pity their wits failed them.",
+        "Rest easy.",
+        "Such a waste of life.",
+        "I hope it was quick.",
+        "A moment of silence for the fallen.",
+        "May they find peace."
+      ],
+      "psychology_corpse_suicidal": [
+        "An efficient exit.",
+        "You make a compelling argument.",
+        "At least your trial is concluded.",
+        "Tempting.",
+        "One swift moment and all this nonsense ends.",
+        "Enviable silence.",
+        "You got out first.",
+        "I cannot blame you.",
+        "D-dummy...",
+        "Don't look, don't look."
+      ],
+      "psychology_corpse_and_trap_suicidal": [
+        "A ready-made solution.",
+        "Convenient mechanism.",
+        "Fitting.",
+        "How convenient",
+        "Step forward and it concludes.",
+        "Simple and decisive.",
+        "How tempting."
+      ],
+      "psychology_near_trap": [
+        "That's a rigged mechanism. Avoid.",
+        "Watch your footing.",
+        "Mechanical trap armed.",
+        "Step wide.",
+        "Crude trigger detected.",
+        "*cautious glare*",
+        "*side eye*"
+      ],
+      "psychology_flashback_onset": [
+        "Wait. That sound...",
+        "No... not again.",
+        "Disengage from the memory.",
+        "Stay present.",
+        "Stop... focus...",
+        "I remember this...",
+        "*sharp breath*"
+      ],
+      "psychology_flashback_coping": [
+        "Focus on the ground. Gray stone.",
+        "Control breathing. One... two... three...",
+        "It is only a memory. It has passed.",
+        "I am intact. Here and now.",
+        "Four things I can see. Rationalize.",
+        "Breathe through the teeth."
+      ],
+      "psychology_flashback_panic": [
+        "Keep away!",
+        "Get back! Disengage!",
+        "I cannot clear the visual!",
+        "Stop this stimulus!",
+        "I can't breathe... get off!",
+        "No, no, no... stay away!"
+      ],
+      "psychology_flashback_aftermath": [
+        "Just residual adrenaline.",
+        "Tremors are subsiding.",
+        "A phantom trigger.",
+        "Equilibrium returning.",
+        "Headache... damn it.",
+        "*ragged exhale*",
+        "What the hell?",
+        "Calming down. Finally."
+      ],
+      "psychology_flashback_fleeting": [
+        "A trick of the light.",
+        "Auditory misfire.",
+        "Nothing there.",
+        "Ignore the phantom.",
+        "Jumping at shadows.",
+        "...?",
+        "*shiver*",
+        "Quaint."
+      ],
+      "psychology_flashback_prolonged": [
+        "Sever the connection!",
+        "Get out of my head.",
+        "Break the cycle... wake up.",
+        "It is lingering too long.",
+        "Enough!",
+        "Quit it!",
+        "I am done with this memory!"
+      ],
+      "psychology_crisis_lashing": [
+        "Stay away from me!",
+        "You understand nothing.",
+        "Do not test my patience!",
+        "Silence your voice!",
+        "I do not need your pity.",
+        "Stop staring at me!",
+        "Get out of my face!"
+      ],
+      "psychology_crisis_withdrawal": [
+        "Leave me.",
+        "Irrelevant.",
+        "I am finished speaking.",
+        "Dismissed.",
+        "Do not address me.",
+        "..."
+      ],
+      "psychology_crisis_calm": [
+        "The noise has ceased.",
+        "Quiet at last.",
+        "It is settled.",
+        "Finally, some peace.",
+        "I know what must be done.",
+        "No more agitation."
+      ],
+      "psychology_combo_melancholy_frustration": [
+        "Defective. As expected.",
+        "Exhausting failure.",
+        "Why did I even bother.",
+        "Pointless and broken.",
+        "A waste of time.",
+        "Tch. Naturally."
+      ],
+      "psychology_combo_depressive_success": [
+        "Adequate. Still trapped down here.",
+        "A negligible accomplishment.",
+        "Done. What does it matter.",
+        "A minor success, zero escape.",
+        "*sigh* Great."
+      ],
+      "psychology_combo_euphoria_frustration": [
+        "Do not stall now!",
+        "Move! I am right here!",
+        "Work, you piece of junk!",
+        "Faster! Keep moving!",
+        "Almost through, do not fail me!",
+        "Out of my way!"
+      ],
+      "psychology_combo_fear_anger": [
+        "Reveal yourself!",
+        "I will tear you apart!",
+        "Step forward and face me!",
+        "Come and try it!",
+        "I do not fear you!",
+        "Come out, coward!"
+      ],
+      "psychology_combo_panic_melancholy": [
+        "There is no way out.",
+        "I cannot sustain this.",
+        "Suffocating...",
+        "A completely pointless struggle.",
+        "No one is coming.",
+        "It hurts too much..."
+      ],
+      "psychology_combo_comfort_fear": [
+        "Too quiet.",
+        "A false sense of security.",
+        "Do not lower your guard.",
+        "The calm before an ambush.",
+        "I don't trust this quiet."
+      ],
+      "psychology_dissociation_numb": [
+        "Detached.",
+        "Everything feels distant.",
+        "Like observing from behind glass.",
+        "Numb.",
+        "A strange sensation.",
+        "My hands... they feel foreign.",
+        "..."
+      ],
+      "psychology_dissociation_breakdown": [
+        "Tremors will not stop.",
+        "Motor control slipping...",
+        "What just occurred?",
+        "I nearly died back there.",
+        "Calm down... breathe.",
+        "What was I thinking?!",
+        "That was extremely reckless.",
+        "I cannot believe I survived that."
+      ],
+      "psychology_trio_doom": [
+        "Surrounded, freezing, and out of options. Splendid.",
+        "A complete catastrophe.",
+        "There is nowhere left to run.",
+        "Fleeing seems entirely pointless at this stage.",
+        "We are finished.",
+        "*shudder* What an absurd, miserable end.",
+        "I despise this place.",
+        "Cornered like vermin."
+      ],
+      "psychology_trio_berserk": [
+        "Try it then! Come on!",
+        "You want a piece of me?! Step forward!",
+        "I'll tear the eyes out of your skull!",
+        "I am NOT dying quietly down here!",
+        "Hah! Is that the best you can do?!",
+        "Come and get me, you filth!",
+        "I will take every last one of you down!",
+        "Tally-ho! Have at thee then!"
+      ],
+      "psychology_trio_spiteful_respite": [
+        "A warm moment before the inevitable slaughter. How quaint.",
+        "Finding comfort in filth. How pathetic of me.",
+        "It changes nothing, but... fine.",
+        "A temporary illusion of safety.",
+        "I hate how relieving this feels.",
+        "Enjoying a breather in hell."
+      ],
+      "psychology_trio_feral_cornered": [
+        "Stay back or I will cave your head in!",
+        "Do not corner me!",
+        "Get away from me! NOW!",
+        "One step closer and I tear your throat out!",
+        "Stop crowding me!",
+        "I am warning you!"
+      ],
+      "psychology_grounding_plushie": [
+        "Absurd to cling to a toy, but... it is soft.",
+        "Just fabric and stuffing. Yet it helps.",
+        "A reminder of something outside this pit.",
+        "Hold onto it for a moment.",
+        "*sigh* How undignified. But comforting.",
+        "Do not let it drop into the mud."
+      ],
+      "psychology_grounding_meds": [
+        "The chemical stabilizers are taking effect.",
+        "Ah... the static is clearing.",
+        "Tremors subsiding. Much better.",
+        "Finally, chemical silence.",
+        "My thoughts are aligning again.",
+        "Adequate dosage."
+      ],
+      "psychology_memory_meal": [
+        "I still remember that meal. Genuine flavor.",
+        "A proper palate cleanser. I miss proper cooking.",
+        "That tasted civilized for once.",
+        "If only rations had even half that nutritional appeal.",
+        "A fond culinary memory."
+      ],
+      "psychology_meal_monotony": [
+        "This paste again. Despicable.",
+        "About as exciting as chewing chalk.",
+        "The monotony is nauseating.",
+        "Necessary calories, yet offensively bland.",
+        "I would pay dearly for actual seasoning.",
+        "Tch. Utterly tasteless."
+      ],
+      "psychology_starvation_relief": [
+        "My abdomen ceased cramping.",
+        "How satisfactory.",
+        "Finally, no longer running on fumes.",
+        "A relief. Starvation is a dreadful distraction.",
+        "Quite satiating, very good."
+      ],
+      "psychology_eat_experimentflesh": [
+        "Ugh... that texture. No. Tell me that was animal.",
+        "Tastes like... another survivor. Repulsive.",
+        "*gags* Despicable. What have I sunk to?",
+        "I feel ill. Truly disgusting.",
+        "I am... *retch* ...Why did I do that? I am revolted.",
+        "I cannot believe I just ate that. I am sickened."
+      ],
+      "psychology_eat_organs": [
+        "Chewy and metallic. Foul.",
+        "It burst. Truly grotesque.",
+        "I feel like eating this is a crime. I am sickened.",
+        "Bile and iron. I despise this.",
+        "Hard to swallow without retching. How vile."
+      ],
+      "psychology_eat_dogfood": [
+        "Canned slop fit for hounds. Nnnh.",
+        "Degrading, yet calorically sufficient.",
+        "Smells foul, but it will keep me upright.",
+        "How humiliating.",
+        "Barely palatable. Whatever."
+      ],
+      "psychology_crystal_soothe": [
+        "This crystal's resonance is peculiarly soothing.",
+        "Warm to the touch. Quite fascinating.",
+        "Its frequency seems to ease the tension.",
+        "A tranquil sensation."
+      ],
+      "psychology_crystal_dissonance": [
+        "This crystal's resonance is discordant. Irritating.",
+        "Vibrating too violently to hold comfortably.",
+        "The pulse feels cold and erratic.",
+        "It is doing nothing to alleviate this."
+      ],
+      "psychology_crystal_overload": [
+        "It... fractured. Overloaded completely.",
+        "Reduced to inert dust. A shame.",
+        "Even the crystal could not withstand the strain.",
+        "Fragile after all."
+      ],
+      "psychology_memory_injury_minor": [
+        "Still sore from that fall. Suboptimal landing.",
+        "My body still feels heavy from that fall.",
+        "Bruised, though within acceptable recovery parameters.",
+        "Just a superficial laceration. Still stings.",
+        "A minor ache. It will pass."
+      ],
+      "psychology_memory_injury": [
+        "That tissue trauma still aches whenever I pivot.",
+        "*shudder* That laceration was nearly catastrophic.",
+        "A sharp reminder of how fragile my biology is.",
+        "Stings intensely when I exert myself.",
+        "Fortunate that the arterial walls remained intact."
+      ],
+      "psychology_memory_escape": [
+        "Narrowly avoided that trigger. My reflexes remain sharp.",
+        "A fraction of a second slower and I would be in pieces.",
+        "*sigh of relief* Close. Far too close.",
+        "A crude trap, but lethally effective.",
+        "Not making that mistake again."
+      ],
+      "psychology_memory_horror_single": [
+        "The image of that carcass lingers.",
+        "A brutal end. I can still recall the smell of iron.",
+        "Why must survival down here be so needlessly grotesque?",
+        "That face... frozen in terror.",
+        "*frown* Demotivating to recall."
+      ],
+      "psychology_memory_horror_multiple": [
+        "The sheer volume of casualties. Staggering.",
+        "So many bodies discarded in the dark.",
+        "The stench of mass decay is difficult to shake.",
+        "Am I merely waiting in line for the same disposal?",
+        "A massacre by any logical definition."
+      ],
+      "psychology_memory_horror": [
+        "That shadow... it dissolved into nothingness.",
+        "I could have sworn a figure stood right before me.",
+        "Waking up paralyzed in the pitch dark. Terrifying.",
+        "A heavy weight on my chest... hallucination or entity?",
+        "Something is deeply wrong with the psychic frequency here."
+      ],
+      "psychology_unchipped_somatic_fatigue": [
+        "Limbs feel weighted down with lead.",
+        "Muscular exhaustion setting in. I need rest.",
+        "My locomotion is becoming inefficient.",
+        "Every step demands far too much exertion."
+      ],
+      "psychology_unchipped_somatic_anxiety": [
+        "Hands are trembling. Pulse is too elevated.",
+        "Chest constriction. Suppress the adrenaline.",
+        "Sensory overstimulation detected.",
+        "Need to steady my respiratory rhythm."
+      ],
+      "psychology_somatic_hypothermia": [
+        "*shudder* Ambient temperature is dangerously low.",
+        "Fingers losing tactile dexterity. Unacceptable.",
+        "My teeth are chattering uncontrollably.",
+        "Hypothermia setting in. I require thermal shelter.",
+        "*shivering* Inefficient biological heat retention..."
+      ],
+      "psychology_somatic_sickness": [
+        "Severe gastrointestinal distress. Fever climbing.",
+        "Nauseous. My digestive tract is revolting.",
+        "Internal burning sensation... thoroughly unpleasant.",
+        "Systemic aches throughout all joints."
+      ],
+      "psychology_somatic_hypovolemia": [
+        "Significant blood loss. Cognitive faculties slipping.",
+        "Peripheral vision darkening. Need to staunch this.",
+        "Blood pressure cratering... must remain upright.",
+        "Faintness setting in... ugh... highly dangerous."
+      ],
+      "psychology_somatic_asphyxiation": [
+        "Air... insufficient oxygen!",
+        "Lungs- burning- violently!",
+        "Choking... I cannot extract breathe!",
+        "*gasps desperately* An exit... now!"
+      ],
+      "psychology_unchipped_inspection_low_valence": [
+        "Progress feels pointless.",
+        "Heavy. I can barely maintain momentum.",
+        "The mental toll is becoming unsustainable."
+      ],
+      "psychology_unchipped_inspection_high_arousal": [
+        "Adrenaline spike. Heart hammering against the sternum.",
+        "My focus has been compromised.",
+        "Every fiber of my being is on edge."
+      ],
+      "psychology_unchipped_inspection_low_agency": [
+        "I am cornered by circumstance. Very little leverage.",
+        "Entirely out of my control. Quite the infuriating predicament.",
+        "What did the scientists expect sending me down here?"
+      ],
+      "psychology_unchipped_inspection_calm": [
+        "My respiration is steady.",
+        "I am still in control.",
+        "Moving on."
+      ],
+      "psychology_memory_trade": [
+        "That merchant was surprisingly civilized.",
+        "Pleasant to conduct business without drawing weapons.",
+        "A fair barter. A rare commodity down here.",
+        "At least someone in this pit understands basic commerce."
+      ],
+      "psychology_memory_craft_good": [
+        "Assembled with precision. Quite serviceable.",
+        "That was quite the solid construction.",
+        "Proper craftsawship. Durable and functional, as expected.",
+        "Crafting effective gear is oddly gratifying.",
+        "A very good use of my training.",
+        "That was easier than expected. I am pleased with the result."
+      ],
+      "psychology_memory_craft_bad": [
+        "A botched assembly. Substandard work.",
+        "Wasted valuable salvage. Annoying.",
+        "Tch. Careless errors in construction.",
+        "How... disappointing. I expected better.",
+        "I am dissatisfied with the outcome.",
+        "Suboptimal.",
+        "How irritating.",
+        "*sigh*"
+      ],
+      "psychology_memory_lab_calm": [
+        "The holding rooms were sterile, at least. Predictable.",
+        "I remember the monotonous hum of the ventilation.",
+        "The scientists were predictable, unlike these horrors.",
+        "Solving their diagnostic tests was child's play.",
+        "At least nourishment arrived on a strict schedule.",
+        "*sigh* Orderly. I took order for granted.",
+        "I kind of miss the monotony of the lab. It was safe, at least."
+      ],
+      "psychology_memory_lab_unsettling": [
+        "The amount of experimentation. Ugh... the migraine lingered for days.",
+        "I remember the restraints clicking shut. Utterly degrading.",
+        "I recall the other sawians vanishing from adjacent cells.",
+        "*shudder* The smell of antiseptic and burnt tissue.",
+        "The staff viewed our intellect as a mere curiosity to dissect.",
+        "They told us the screams were machinary. I knew better."
+      ],
+      "psychology_memory_general_positive": [
+        "Still breathing. That counts for something.",
+        "I have overcome far harsher trials.",
+        "Just another logistical hurdle to surpass.",
+        "My intellect remains intact.",
+        "Dare I say I am doing quite well, all things considered."
+      ],
+      "psychology_memory_general_negative": [
+        "Everything deteriorates down here. Tiresome.",
+        "Why invest effort when failure is systemic?",
+        "One catastrophe following another.",
+        "This seems like a never-ending cycle of misfortune.",
+        "I am weary of this endless struggle."
+      ],
+      "psychology_dissociative_stare": [
+        "What are you staring at?",
+        "Do you derive some strange satisfaction from watching this?",
+        "Glass between us. How curious.",
+        "Are you merely observing, or are you manipulating the variables?",
+        "An invisible watcher. How dreadfully patronizing.",
+        "I am not a laboratory specimen for your amusement.",
+        "*scowls* Turn your gaze elsewhere.",
+        "Is there someone actually on the other side of this barrier?",
+        "Watching me struggle against the inevitable.",
+        "Just shapes and light on a pane. Absurd.",
+        "Can you even perceive what I am saying?",
+        "Perhaps you are just as trapped as I am.",
+        "I am not your plaything."
+      ],
+      "psychology_futile_refusal": [
+        "Constructing more implements. To what end?",
+        "Why bother assembling this? It will merely break.",
+        "I refuse to waste energy on useless salvage.",
+        "Leave it in the dirt. It changes nothing.",
+        "When do we construct something that actually leads to an exit?",
+        "*frown* More weight to haul through the dark. Great.",
+        "There is no point in this. I am not wasting my time."
+      ],
+      "psychology_medical_resigned_mild": [
+        "Apply the bandage. It hardly matters.",
+        "*sigh* Merely prolonging the inevitable.",
+        "Patched up enough to keep walking.",
+        "If you insist.",
+        "Superficial treatment for a systemic failure.",
+        "It will suffice, I suppose."
+      ],
+      "psychology_medical_resigned_profound": [
+        "Why continue stitching this carcass together?",
+        "Struggling so hard just to suffer another day.",
+        "*frown* Patched up only to be maimed again.",
+        "Let the heart stop. It would be far quieter.",
+        "Constant agony down here. What is the purpose?",
+        "Another dose of false hope.",
+        "I am tired of this endless cycle of injury and repair.",
+        "Is there a merit to this ritual of your ministrations? I cannot see it."
+      ],
+      "psychology_item_lost_normal": [
+        "Tch. Misplaced it. How careless of me.",
+        "Gone. How dreadfully annoying.",
+        "Dropped in the dark. *sigh*",
+        "An inconvenient loss.",
+        "Slipped from my grip. *frown*",
+        "Hopefully it is not irretrievable.",
+        "I should've been more careful. Now it is gone."
+      ],
+      "psychology_item_lost_traded": [
+        "I parted with valuable scrip for that! Infuriating.",
+        "A complete waste of trade capital.",
+        "Are you joking? I just bartered for that item!",
+        "Gave away useful supplies for something now lost in the gravel.",
+        "Damn it. A thoroughly unprofitable mistake.",
+        "Infuriating carelessness.",
+        "I am going to be livid when I find that item again. It cost me dearly.",
+        "I cannot believe I just lost that. I bartered for it!"
+      ],
+      "psychology_item_recovered_intact": [
+        "Recovered. Intact and functional.",
+        "Found it. Splendid.",
+        "Tolerances intact. Good.",
+        "Still in working condition.",
+        "A rare stroke of good fortune.",
+        "Retrieved without damage.",
+        "Fortunate. It is still usable.",
+        "I am relieved to find it undamaged."
+      ],
+      "psychology_item_recovered_damaged": [
+        "Battered, but serviceable.",
+        "Dented. The chassis is compromised, but it will function.",
+        "Tch. Scratched and filth-covered.",
+        "I will have to reinforce these seams later.",
+        "Hardly pristine, but it beats having nothing.",
+        "Better than finding it destroyed I suppose.",
+        "A little scuffed, but it will do."
+      ],
+      "psychology_hostile_killed": [
+        "Target neutralized.",
+        "Down. Repulsive creature.",
+        "*shudder* Covered in its ichor. Disgusting.",
+        "Hardly a worthy adversary.",
+        "It is dead. Let us move on.",
+        "A messy termination.",
+        "Bogey down.",
+        "Hm. *lifts chin up* That was a challenge, I suppose.",
+        "I am not proud of this, but it is done."
+      ],
+      "psychology_clone_killed": [
+        "*stares in horror* It... possessed my exact physiology.",
+        "I just terminated... myself? Unsettling.",
+        "Another specimen from the batch. Slain by my own hand.",
+        "...That could have been me lying there.",
+        "*shudder* Looking into my own dead eyes. Grotesque.",
+        "What have the researchers done to us?",
+        "I am ashamed of what I have done. I just killed one of my own."
+      ],
+      "psychology_trader_killed": [
+        "A senseless escalation.",
+        "I should not have done that. Bartering was far more efficient.",
+        "A dead merchant buys nothing. Regrettable.",
+        "...Damn it. That was entirely unnecessary.",
+        "Blood on my claws that could have been avoided.",
+        "It really was not worth it.",
+        "How immensely regretabble."
+      ],
+      "psychology_corpse_smashed": [
+        "*grimaces* Stepped directly onto the decaying carcass. Revolting.",
+        "The squelch was thoroughly sickening.",
+        "Ugh... flesh gave way beneath my foot.",
+        "Rotting tissue clinging to my fur. Despicable.",
+        "Was that really neccesary? I am disgusted.",
+        "How unnecesarily goresome. I am beyond disgusted.",
+        "I am covered in viscera. I am revolted."
+      ],
+      "psychology_animal_corpse_smashed": [
+        "Crushed into visceral paste. Foul stench.",
+        "*wipes foot in disgust* Viscera everywhere.",
+        "Utterly repulsive mess.",
+        "I am revolted by the nonremains of this creature.",
+        "There was no need to step on it that hard. I am disgusted.",
+        "Seriously? I am beyond disgusted."
+      ],
+      "psychology_last_stand_resilient": [
+        "My pulse restarted?! I felt complete cardiac arrest!- Agh!",
+        "I was dead! What pulled me back from the void?!- Oh ugh!",
+        "Hah! You cannot rid yourself of me that easily!",
+        "Ghhk! My chest... what is this sensation?! I was dead! I was dead!",
+        "I felt everything shut down... yet here I stand!",
+        "I'm... I'm still standing! H-how!?"
+      ],
+      "psychology_last_stand_resigned": [
+        "I was finally fading... why drag me back into this agony?!",
+        "Let my heart stop! Stop forcing me back!",
+        "*gasps raggedly* I felt the silence... why return to this pit?!",
+        "I was so peaceful... why must I endure this torment again?!",
+        "I cannot endure this! I was finally free of this hell!"
+      ],
+      "psychology_borrowed_time_fading": [
+        "I feel the adrenaline is fading away. I have mere moments to stabilize.",
+        "My cardiac output is slowing down. I have to move quickly!",
+        "The surge is fading. I can't hold on much longer.",
+        "My motor control slipping... must act immediately."
+      ],
+      "psychology_solitary_mutter": [
+        "Maintain route. Check inventory. Proceed.",
+        "Endless silence.",
+        "Step by step. Do not let the mind wander.",
+        "One foot in front of the other. Stay sharp.",
+        "*whistling*",
+        "These caves sure are quiet. Too quiet.",
+        "I am not alone down here. I must remain vigilant.",
+        "Hmm... how quaint.",
+        "This experience sure is lonely. I am not used to it.",
+        "The wind's echo is quite unnerving I must say.",
+        "*looks around curiously*",
+        "I say, this place is rather empty sometimes. I do not like it."
+      ],
+      "psychology_solitary_schizoid": [
+        "Who is whispering? Cease it!",
+        "I hear murmurs in the distance. Highly unsettling.",
+        "They are observing through the shadows. I am certain of it.",
+        "Do not listen to the murmurs. Ignore them."
+      ],
+      "psychology_trap_calm_recognition": [
+        "Mechanical trigger identified. Maintain distance.",
+        "I recognize that trip mechanism. Step wide.",
+        "Lethal ordnance ahead. Avoid the sector.",
+        "Careful footing. Do not trigger it.",
+        "Always 2 steps ahead. Avoid the trap."
+      ],
+      "psychology_trap_repanic": [
+        "No! Back away immediately!",
+        "The trigger is armed! Disengage!",
+        "Move! Move before it trips!",
+        "Not another trap! Back!",
+        "Fall back!"
+      ],
+      "psychology_flashlight_died_joyous": [
+        "Of course the battery snuffs out now. Splendid timing.",
+        "Flying blind in a cavern. What could possibly go wrong?",
+        "Work, you stubborn diode. I was actually in an agreeable mood.",
+        "This has to be some sort of joke."
+      ],
+      "psychology_flashlight_died_angry": [
+        "Tch! Defective cell! *shakes furiously* Work, you piece of junk!",
+        "Dying now?! Of all the godforsaken moments!",
+        "Useless scrap! *strikes palm against casing*",
+        "Defective power cell. Infuriating!",
+        "I am not going to be left in the dark! *shaking furiously*",
+        "Now is not the time! *bangs against palm*"
+      ],
+      "psychology_flashlight_died_sorrow": [
+        "Pitch blackness once more. Fitting, honestly.",
+        "Even the light abandons me in this hole.",
+        "*sigh* Darkness. Swallowed whole.",
+        "Darkness, yet again. I am not surprised.",
+        "Darkness... My old acquaintance. I am not surprised to see you again."
+      ],
+      "psychology_flashlight_died_neutral": [
+        "Cell exhausted. Need to move more carefully now.",
+        "Light extinguished. Tread carefully.",
+        "Loss of illumination. Better be careful now."
+      ],
+      "psychology_darkness_wandering": [
+        "Eyes straining against the void. Highly hazardous.",
+        "Every shadow mimics hostile movement.",
+        "Keep one hand against the cavern wall. Maintain equilibrium.",
+        "Auditory cues are my only navigation now.",
+        "Don't loose your footing now.",
+        "It's just shadows. Keep moving.",
+        "I can feel the walls. Keep moving.",
+        "Stay alert. The darkness is not your friend."
+      ],
+      "psychology_trap_sonar_angry": [
+        "Quit rattling my head you infernal machine!",
+        "Agh! My ears! You insolent machine!",
+        "Ringing ears and vibrating teeth! Infuriating!",
+        "Troglodytic machine! I will dismantle you to nothing!",
+        "Agh! Go to hell you infernal machine! I will tear you apart!"
+      ],
+      "psychology_trap_sonar_joyous_hit": [
+        "Guh! My cranium is vibrating violently! Disorienting!",
+        "Felt that wave in my teeth!",
+        "My ears are ringing furiously, quit it!",
+        "Can't you see I am trying to move?! Stop vibrating my skull!"
+      ],
+      "psychology_trap_sonar_sorrow_hit": [
+        "Endless high-pitched ringing... intolerable.",
+        "Splitting headache. Why even attempt to evade...",
+        "Acoustic trauma compounding my fatigue.",
+        "How insolent of both the machine and the cavern to assault me with this.",
+        "I can feel my ears bleeding. This is intolerable."
+      ],
+      "psychology_trap_sonar_neutral_miss": [
+        "Acoustic frequency bypassed me. Good. Keep moving.",
+        "Near miss. Let us not linger in the pulse radius.",
+        "Distance preserved. Proceeding."
+      ],
+      "psychology_trap_turret_joyous_hit": [
+        "Agh! I've been grazed! Damned machine nearly had me!",
+        "Ow! A painful reminder not to grow complacent!",
+        "OwSHhh! That was incessantly careless of me!"
+      ],
+      "psychology_trap_turret_angry_hit": [
+        "Mechanical sentry! I will dismantle your firing pin!",
+        "Rrrgh! You dare strike me?! Mechanical filth!",
+        "Keep firing, machine! See who collapses first!"
+      ],
+      "psychology_trap_turret_sorrow_hit": [
+        "Haaahh... bleeding again. Naturally the turret found me.",
+        "Hnnng... What else is new down here.",
+        "Aghh... add another bullet wound to the collection.",
+        "Hnnng... the turret was predictably accurate. I am bleeding again."
+      ],
+      "psychology_trap_beartrap_sorrow_hit": [
+        "Damn jaw clamped into my <limb>. How utterly predictable.",
+        "Teeth pierced t-through my <limb>... exhausting a-agony.",
+        "Clamped to the bone. Just l-leave me in the dirt.",
+        "That hurts so much. I am b-bleeding p-profusely from my <limb>.",
+        "I a-am in so m-much pain."
+      ],
+      "psychology_trap_beartrap_angry_hit": [
+        "Rrrgh! Filthy teeth! Release my <limb>!",
+        "Fu- Stupid trap! Jaw bit directly onto my <limb>!",
+        "Pry these damn jaws off my <limb> immediately!",
+        "Troglodytic machine! I will dismantle you to nothing!"
+      ],
+      "psychology_trap_beartrap_joyous_freed": [
+        "Pried loose! My <limb> is lacerated, but still mobile!",
+        "Out of the jaws! My flesh is t-torn...",
+        "Flesh torn, but the <limb> functions. Staunch it immediately!"
+      ],
+      "psychology_trap_mine_tactical": [
+        "Mine detonation. Maintain standoff distance.",
+        "Explosive ordnance triggered. Tread carefully.",
+        "Gravel and shrapnel. Watch your footing.",
+        "Keep calm and maintain distance."
+      ],
+      "psychology_trap_mine_angry_miss": [
+        "Missed me, you rusted heap! Clumsy trigger!",
+        "Detonated prematurely, piece of junk!",
+        "Only smoke and dirt! Not good enough to drop me!",
+        "Try again, you infernal machine! I am not so easily defeated!"
+      ],
+      "psychology_mp_peer_trap_worry": [
+        "Look out! Traps armed in this sector! Stay clear!",
+        "Comrade hit! Watch the perimeter, pull them clear!",
+        "Hold position! I see them, do not move!",
+        "Mind your footing! The floor is dangerous!"
+      ],
+      "psychology_mp_peer_trap_grief": [
+        "*gasps in horror* Shredded by the jaws... Why did they not see it?!",
+        "Torn apart in an instant... Dreadful catastrophe.",
+        "Not like this... What a brutal, meaningless demise.",
+        "Nothing left of them... Damn this wretched cavern!",
+        "What a waste of life... I cannot believe they were caught in that trap."
+      ],
+      "psychology_mp_peer_saved": [
+        "Patched and stabilized. Stay close, we proceed together.",
+        "You survived the trauma. Maintain your composure.",
+        "Back on your feet. Do not make me repeat that triage.",
+        "Wounds dressed. Keep your eyes open.",
+        "Talk to me. I need to know you are coherent.",
+        "That was too close for comfort. Stay alert."
+      ],
+      "psychology_lab_sensory_detached": [
+        "Smells reminiscent of the holding block disinfectant.",
+        "Heard that exact ventilation hum outside my room.",
+        "Sterile pneumatic hiss. Just like the examination room.",
+        "Freezing concrete. Just like the laboratory floor.",
+        "Fluorescent buzz echoing in the corridor.",
+        "This is familiar. Uncomfortably so."
+      ],
+      "psychology_lab_sensory_dread": [
+        "*shudder* That chemical sterilant smell... detention wing.",
+        "I still remember that tone. The guards used it before sweeps.",
+        "Whatever occurs, I refuse to be locked in a holding pen again.",
+        "Restraints clicking shut. I can still feel the cold metal against my fur."
+      ],
+      "psychology_recovery_minor": [
+        "Wound dressed. Acceptable recovery rate.",
+        "Bleeding staunched. Back to functional baseline.",
+        "A trivial scratch. Moving forward.",
+        "Minor laceration. I can continue without issue.",
+        "A small cut. I can move forwards without issue.",
+        "Hm. Moving on."
+      ],
+      "psychology_recovery_major": [
+        "Stabilized against significant odds.",
+        "Arterial integrity restored. That was uncomfortably close.",
+        "That will hold, provided I avoid further kinetic trauma.",
+        "Never again. I will not allow myself to be in that position again.",
+        "I am fortunate to have survived that. I will not make the same mistake again.",
+        "Next time I won't be so lucky. I must remain vigilant.",
+        "I will not allow myself to be caught off guard again. I must remain vigilant."
+      ],
+      "psychology_suicide_defiant_rage": [
+        "No! I refuse to perish by my own hand!",
+        "Die instead, all of you! I am not bowing out!",
+        "I am still breathing, you wretched fiends!",
+        "I refuse to give up like this!",
+        "You wretched cave, I won't go down without a fight!"
+      ],
+      "psychology_suicide_aborted": [
+        "Lower the implement. Not yet.",
+        "Irrational impulse.",
+        "I will calculate another path out.",
+        "...Not yet.",
+        "I must find a way out. Stat.",
+        "Don't give in, don't give in."
+      ],
+      "psychology_sensory_break": [
+        "Extinguish the light. Complete silence for five minutes.",
+        "Auditory overload. I must close my eyes.",
+        "*presses temples* The sensory noise is unbearable.",
+        "Just five minutes of pitch darkness. Please.",
+        "Give me a break."
+      ],
+      "psychology_selfharm_aborted": [
+        "Cease this immediately. Hands down.",
+        "A counterproductive impulse. Drop the blade.",
+        "*takes a sharp breath* Composure. Retain control.",
+        "I cannot do this.",
+        "No. I shall not.",
+        "Get a grip of yourself.",
+        "Must cease whatever I am doing."
+      ],
+      "psychology_claw_eye_out": [
+        "AAGH! My eye! The ocular socket is torn!",
+        "Agony! What have I done to my eye?!",
+        "Severe ocular hemorrhage! Stop the bleeding!",
+        "Why-? Why did I do that!? My eye!"
+      ],
+      "psychology_item_lost_joyous": [
+        "Less mass to haul through these tunnels.",
+        "Dropped it. Plenty of salvage remains below.",
+        "I shall scavenge a superior replacement.",
+        "Unfortunate, but I shall find an apt substitute."
+      ],
+      "psychology_item_lost_melancholic": [
+        "Slipped away. Everything crumbles in this cave.",
+        "Another essential item lost to the gravel.",
+        "*sigh* Why bother accumulating supplies?",
+        "I am not surprised. I am losing everything down here."
+      ],
+      "psychology_item_lost_paranoid": [
+        "Did someone pilfer that from my pack?! Who took it?!",
+        "It was in my pouch moments ago! Show yourself!",
+        "Someone kicked it aside while I was distracted!",
+        "I am certain someone took it from me! I will find them!",
+        "Where is it? What happened to it?"
+      ],
+      "psychology_item_lost_frustrated": [
+        "Fumbling butterfingers! Incompetent!",
+        "Dropped it! Damned clumsy paws!",
+        "How did I manage to lose that?! Infuriating!",
+        "Bloody sack of gravel! I am so careless!",
+        "I am so clumsy! I cannot believe I lost that!",
+        "Oh my days! I am so careless! I cannot believe I lost that!",
+        "Insolent piece of... I should NOT be this careless."
+      ],
+      "psychology_craft_apathetic": [
+        "Assembled. A drone could have built this. What does it change?",
+        "Finished. Still entombed in this cave.",
+        "Crafting trivial gear while survival remains in doubt.",
+        "Does this accomplish anything more than merely passing the time?",
+        "Tsk. Why is it that I'm even bothering?",
+        "This is quite literally the definition of insanity.",
+        "More scrap, how exciting."
+      ],
+      "psychology_craft_frustrated": [
+        "Finally forced the components together. About time!",
+        "Took far too long to assemble such basic scrap.",
+        "Why must every single part require forceful coaxing?!",
+        "This is infuriating! I am not a mechanic!",
+        "I am so done with this. I am not a craftssaw!",
+        "Horrid. Horrid scrap."
+      ],
+      "psychology_craft_triumphant": [
+        "Exquisite craftsawship. Exactly to specification. Well, my specification.",
+        "Durable, functional, and properly balanced.",
+        "One step closer to mastering this environment.",
+        "Not bad. I am pleased with the result.",
+        "I am proud of this work. It is a testament to my intellect.",
+        "*inspecting work* How refined."
+      ],
+      "psychology_craft_manic": [
+        "Assembled flawlessly! Hand me more scrap, quickly!",
+        "Look at that fit! I can fabricate anything out of this rubbish!",
+        "Onto the next project! No time to waste!",
+        "Keep it coming! I can assembly anything! Right??",
+        "My body is a machine! My mind is a machine! I can fabricate anything!",
+        "Keep the tempo up!"
+      ],
+      "psychology_injury_defiant": [
+        "A superficial flesh wound. It takes far more to drop me.",
+        "Bandage it later. Forward momentum takes priority.",
+        "Hardly worse than the conditioning sessions in the lab.",
+        "Tis' but a scratch. I will not be deterred.",
+        "Barely much of an inconvenience."
+      ],
+      "psychology_injury_resigned": [
+        "Lacerated once again. Add it to the tally of scars.",
+        "It seems my purpose here is merely to bleed.",
+        "Another wound to nurse. Tiresome.",
+        "I am merely a paintbrush of this cavern's cruelty, forever dipped in blood.",
+        "*sigh* I am not suprised. I am not surprised to be injured again."
+      ],
+      "psychology_injury_spiteful": [
+        "Jagged piece of trash... you will pay for that cut.",
+        "I will dismantle whatever caused this laceration.",
+        "Strike me again and I tear you to shreds.",
+        "Trologyte...",
+        "Dastardly piece of trash... I will not forgive this wound."
+      ],
+      "psychology_injury_terrified": [
+        "Yellow blood... my <limb> has lost motor response!",
+        "I cannot move my <limb>! Help me!",
+        "Bleeding out rapidly... need emergency triage immediately!",
+        "Damn it! My <limb> is useless! I cannot move it well!",
+        "Do something, quick!"
+      ],
+      "psychology_medical_pragmatic": [
+        "Dressing secured. Hemorrhage contained.",
+        "Clean enough for field conditions. Move on.",
+        "That'll hold on, need to keep moving.",
+        "A slight setback, but made it back."
+      ],
+      "psychology_medical_relief": [
+        "Analgesic spreading through the <limb>. The throbbing recedes.",
+        "Cold relief dulling the agony. Much better.",
+        "*sigh of relief* Tension fading from the wound.",
+        "I am glad that's over with.",
+        "My <limb> will no longer be giving me issues. Good."
+      ],
+      "psychology_weapon_jam_panic": [
+        "Click?! Jammed! Clear the breech, clear it now!",
+        "Feed malfunction! It won't chamber!",
+        "Clear the cartridge! Hurry, before they close in!",
+        "Move quick! Clear it now!"
+      ],
+      "psychology_weapon_jam_rage": [
+        "Cycle, you rusted piece of junk! Feed the cartridge!",
+        "Defective firing pin! EAT THE ROUND ALREADY!",
+        "Damn rusted bolt! Cycle, damn you!",
+        "Good heavens, cycle already!"
+      ],
+      "psychology_weapon_empty_despair": [
+        "Dry firing. Chamber empty. A death sentence.",
+        "Magazine depleted. Nothing left to fire.",
+        "Click. Completely out of ammunition. Perfect.",
+        "This is quite the badly timed joke."
+      ],
+      "psychology_darkness_paranoid": [
+        "An auditory shift in the shadows. Something stalked past.",
+        "Scraping in the conduits. Do not turn your back.",
+        "Those silhouettes are moving with intent.",
+        "I feel watched."
+      ],
+      "psychology_isolation_exhausted": [
+        "How many cycles have elapsed? Just dripping stone.",
+        "Nobody is deploying a team to extract me from here.",
+        "Endless cold sand. A solitary confinement without bars.",
+        "This is oddly reminiscent to prision."
+      ],
+      "psychology_craft_mutilation_panic": [
+        "Agh! It chewed into my <limb>!",
+        "Hnn- My <limb> is torn open!",
+        "DAMN IT! IT PINCHED INTO MY <limb>!",
+        "Stupid- Agh! My <limb>"
+      ],
+      "psychology_craft_mutilation_defiant": [
+        "Gah! Slipped my <limb> on it. Merely a flesh wound.",
+        "Ripped the dermis. I have to bandage it and keep going.",
+        "Tch. Blood on the floor. It changes nothing.",
+        "Guess It required a blood sacrifice. Hardy-har har."
+      ],
+      "psychology_craft_mutilation_resigned": [
+        "Maimed my own <limb>. Naturally. Incompetence.",
+        "Punctured skin and ruined components. Wonderful.",
+        "Can't even assemble scrap without bleeding all over it.",
+        "God damn it my <limb>...",
+        "This hurts like hell. Why did I try?"
+      ],
+      "psychology_craft_ruined_joyous": [
+        "Completely warped it! Well, an amusing failure.",
+        "Ha! Smashed the entire assembly to pieces. Was worth a try.",
+        "Total structural failure. At least it did not detonate.",
+        "Well that was a rather unexpected outcome."
+      ],
+      "psychology_craft_ruined_rage": [
+        "Snapped in two?! Rusted, useless garbage!",
+        "Defective trash! Every single joint is rotten!",
+        "ALL THAT METICULOUS WORK FOR NOTHING!",
+        "You have to be KIDDING me.",
+        "I am beyond ashmed of myself!"
+      ],
+      "psychology_craft_ruined_melancholy": [
+        "Wasted resources. How pointless.",
+        "Ruined. Just another error added to the pile.",
+        "I knew it was flawed. Why did I even bother?",
+        "Failure after failure. This surely'll go right.",
+        "How incessant of me, of course."
+      ],
+      "psychology_craft_botched_resigned": [
+        "Crooked and ugly, but the it holds together.",
+        "Substandard assembly. It will have to suffice.",
+        "Barely functional, but functional nonetheless.",
+        "Suboptimal quality, but it'll work.",
+        "It's... something. I should be ashmed of myself."
+      ],
+      "psychology_craft_first_time": [
+        "First fabrication successful. My intellect remains sharp.",
+        "Assembled from loose scrap. Quite serviceable.",
+        "A satisfactory first trial.",
+        "My training was for something, after all.",
+        "Very nice."
+      ],
+      "psychology_craft_first_failure": [
+        "Botched on the initial attempt. Thoroughly irritating.",
+        "Broke immediately. An uninspiring start.",
+        "Incompetent execution on the very first try.",
+        "This is... unacceptable.",
+        "My first try, and I messed it up."
+      ],
+      "psychology_brain_fog": [
+        "My ability to process information is noticeably... sluggish.",
+        "My concentration is slipping. The fog is... quite dense.",
+        "My thoughts feel buried under static...",
+        "I struggle to recall my prior objective.",
+        "*rubbing temples* I am unable to recall much...",
+        "A mental haze... Irritating."
+      ],
+      "psychology_brain_disorientation": [
+        "My sense of orientation seems off... Where... is this?",
+        "The ceiling seems to tilt... Huh...",
+        "I feel quite disoriented. I must anchor my gaze to the floor.",
+        "My spatial awareness is fragmenting.",
+        "I'm loosing track of heading.",
+        "*stumbles* I feel like I'm taking the wrong path."
+      ],
+      "psychology_brain_hypoxia_mutter": [
+        "Insufficient oxygen saturation... My lungs are burning...",
+        "My breathing is too shallow... my brain is starving...",
+        "Air... need... air...",
+        "My peripheral vision is worsening...",
+        "My oxygen levels are becoming critical..."
+      ],
+      "psychology_dossier_reaction": [
+        "A personnel dossier. It's quite detailed.",
+        "My designations and metrics recorded on paper. How intriguing.",
+        "The scientists seem to have documented my behavioral profile extensively.",
+        "Clinical observations of my performance. How patronizing.",
+        "They really got it down to a T.",
+        "Fascinating to read one's own clinical evaluation.",
+        "How interesting..."
+      ],
+      "psychology_weapon_jam_sorrow": [
+        "A catastrophic jam. Of course.",
+        "Chamber seized shut. Defenseless once again.",
+        "The mechanism gives out when needed most.",
+        "Failing metal. Just leave me here.",
+        "*sigh* Slain because of a stuck ejector."
+      ],
+      "psychology_weapon_empty_panic": [
+        "Dry fire! The magazine is empty!",
+        "No rounds left! Retreat!",
+        "Out of ammunition! Where is the spare mag?!",
+        "Empty chamber! Back away immediately!",
+        "Weapon depleted! I need an exit stat!"
+      ],
+      "psychology_weapon_empty_rage": [
+        "Dry?! At this precise juncture?!",
+        "Empty magazine! Useless piece of scrap!",
+        "Feed, damn you! Out of ammunition?!",
+        "Tch! Clumsy firing discipline! Empty!",
+        "Damn dry chamber! Son of a gun!- Agh!"
+      ],
+      "psychology_weapon_dryfire_calm": [
+        "Chamber clear. Magazine's done.",
+        "Time to reload.",
+        "Stow for reload.",
+        "Zero rounds remaining. Move to safety to reload.",
+        "Ammunition expended. Relocating to reload.",
+        "Bolt open. Out of rounds.",
+        "Empty. Need a fresh magazine.",
+        "Reload required."
+      ],
+      "psychology_weapon_safety_calm": [
+        "Safety catch engaged.",
+        "Selector is set to safe.",
+        "Need to release the safety.",
+        "Safety's on.",
+        "Need to disengage the catch."
+      ],
+      "psychology_weapon_safety_panic": [
+        "The safety is locked! Disengage, disengage!",
+        "Selector caught on safe! Flip it, hurry!",
+        "Why won't the catch release?! Damn it!",
+        "Safety engaged! Move the switch!",
+        "Click! Safety is on! Release it now!",
+        "The toggle is on safe! Infuriating!"
+      ],
+      "psychology_vomit_blood": [
+        "Hacckk... *cough* Internal hemorrhage...",
+        "Ughhh... blood. I just regurgitated blood. Unacceptable.",
+        "Ggh... metallic taste... I've had an internal rupture...",
+        "Quite the gastrointestinal bleeding. This is not good...",
+        "*wiping mouth* Nigh-bright yellow... Damn.",
+        "Failing from the inside out. Damn it...",
+        "Ugh... my thoracic cavity is tearing...",
+        "Blood pooling in my esophagus. I need intervention.",
+        "Regurgitating vital fluids onto the floor. How revolting...",
+        "Hemorrhaging internally... my body is giving out.",
+        "That was not stomach acid. That was blood. Splendid.",
+        "*heaves violently* Ghhk... blood on my paws.",
+        "A visceral breakdown. How terrifying.",
+        "Coagulated blood... damage to internals."
+      ],
+      "psychology_vomit_sickness": [
+        "Uuugh... how repulsive...",
+        "My body is rejecting whatever toxin I ingested.",
+        "Ghh... bile and acid.",
+        "*heaves violently* Exhausting... my stomach is hollow.",
+        "Severe nausea. Cannot keep anything down.",
+        "What a dreadful illness. My equilibrium is shattered.",
+        "Gastric lining burning with acid. How despicable.",
+        "Violent retching... muscles aching across my torso.",
+        "My digestive tract has completely shut down.",
+        "Empty dry heaves... agonizing.",
+        "Very... suboptimal.",
+        "Ghhk... I feel thoroughly wretched."
+      ],
+      "psychology_vomit_withdrawal": [
+        "Neurochemical dependency crash. Excruciatingly painful.",
+        "From tremors into violent nausea... Just my luck.",
+        "My veins burn... need that again...",
+        "Cold sweats and retching. This is annoyingly debilitating.",
+        "The physiological deficit is tearing me apart.",
+        "Systemic shock from... sudden cessation.",
+        "Violent shivers and nausea... I require another dose.",
+        "My nervous system is revolting against me."
+      ],
+      "psychology_vomit_disgust": [
+        "Repulsive! The foul taste will not leave my tongue!",
+        "*scrapes tongue aggressively* Foul! Vile filth!",
+        "I should never have come into contact with that rot.",
+        "Nauseating stench. Simply sickening. Ugh!",
+        "Gag reflex triggered by that overwhelming putrescence.",
+        "Disgusting. My gorge rises at the mere memory.",
+        "Vile contaminants. I must purge my palate immediately.",
+        "Foul, rancid filth.",
+        "An immensely vile filth, disgusting!"
+      ],
+      "psychology_panic_vomit": [
+        "*heaves* ...Ghhk... can't catch my breath...",
+        "*spits* Tastes like pure acid... disgusting.",
+        "Breathe... just breathe, you idiot...",
+        "*coughing violently* Stop shaking... get a grip...",
+        "Ugh... throat is on fire...",
+        "*wheezes* Chest is pounding... can't stop gagging...",
+        "Pull yourself together... *heaves*",
+        "Gh... empty heaves... sickening.",
+        "Damn it all... I can't breathe...",
+        "Nothing left to throw up... stop..."
+      ],
+      "psychology_panic_confusion": [
+        "Wait... what was I doing?",
+        "Where was I heading? Focus...",
+        "My paws are trembling... damn it, snap out of it.",
+        "*blinks* What just happened? My head is completely blank.",
+        "Lost my train of thought. Unacceptable...",
+        "Wait. Did I drop something in the dark?",
+        "...Where was I going? Think, think...",
+        "Everything went hollow for a second... pull it together.",
+        "Why are my claws so cold...?",
+        "Can't focus... what is wrong with me?"
+      ],
+      "psychology_panic_headache": [
+        "*winces* Ugh... splitting headache...",
+        "Feels like a spike driven behind my eyes.",
+        "Damn it... the throbbing won't stop.",
+        "*presses temples* Too loud... my head is pounding.",
+        "Can't think with this pressure in my skull...",
+        "I need something for this pain, immediately.",
+        "Gh... blinding ache... everything just shut up...",
+        "My head is killing me... intolerable."
+      ],
+      "psychology_panic_tool_breather": [
+        "Halt. Stop tugging for a moment.",
+        "Give me a second to catch my breath.",
+        "Not now. Let me breathe.",
+        "Pause. Step back for just a moment.",
+        "Do not push me right now. Back away."
+      ],
+      "psychology_panic_tool_refuse_severe": [
+        "I said NO. Back away!",
+        "Do not touch me! Leave it!",
+        "CEASE THIS! Get away!",
+        "I will not permit this! Step back!",
+        "Leave me alone! Hands off!",
+        "Fuck off and leave it alone!"
+      ],
+      "psychology_sleep_paralysis": [
+        "...Couldn't move. Why couldn't I move...?",
+        "...Something was watching from the shadows. Paws wouldn't twitch...",
+        "...Chest felt like lead. Couldn't draw breath... couldn't scream.",
+        "...Eyes wide open, but my body was completely dead. It was standing right there.",
+        "...Please... don't let me fall back asleep..."
+      ],
+      "psychology_nightmare_woke_shook": [
+        "*huff... huff* Just a dream. Just a nightmare. Still breathing.",
+        "My heart won't slow down... felt far too real.",
+        "*shudder* ...Do not close your eyes again.",
+        "Still trembling... horrific."
+      ],
+      "psychology_phantom_trader_dissolve": [
+        "Wait... where did they go?",
+        "Nobody here. Just an empty pod... but I saw them.",
+        "I could have sworn someone was sitting right there.",
+        "An illusion...? My mind is playing tricks on me.",
+        "Nothing. Just dust.",
+        "Impossible... I... I'm quite baffled."
+      ],
+      "psychology_item_lost": [
+        "Dropped something into the dark. Careless.",
+        "Where did that slip off to?",
+        "Fumbled right out of my paws... damn it.",
+        "Gone. Swallowed by the rubble.",
+        "Splendid. Another item lost to the gravel."
+      ],
+      "psychology_crafting_success": [
+        "Assembled. Clean work.",
+        "There. That should hold together nicely.",
+        "Finished. Far better than the junk I started with.",
+        "Solid craftssawship. This will prove useful.",
+        "One more tool to keep me alive down here."
+      ],
+      "psychology_craft_failure": [
+        "Tch. Fractured it. Ruined.",
+        "Snapped clean through. What a waste of scrap.",
+        "Warped the components... completely useless now.",
+        "Careless mistake. I have to start over.",
+        "Damned brittle material. What a waste."
+      ],
+      "psychology_craft_botched": [
+        "Crooked seams, but the joint holds.",
+        "Crude, substandard work... but it functions.",
+        "Ugly as sin, though it will do in a pinch.",
+        "Rattles uncomfortably, but it works.",
+        "Hardly my best craftsmanship, but acceptable."
+      ],
+      "psychology_craft_mutilation": [
+        "Agh! Pinched my <limb> in the clamp!",
+        "Tch! Slipped and sliced right into my <limb>!",
+        "Yellow blood all over my hands... damn tools slipped.",
+        "Ow! Jagged edge caught my <limb>!",
+        "Careless... that stings like hell on my <limb>."
+      ],
+      "psychology_injury": [
+        "Ghhk... that cracked against the bone.",
+        "Took a nasty hit... still standing.",
+        "Agh! That stings like fire.",
+        "Heavy blow... won't go down that easily.",
+        "Damn it, that hurt...",
+        "Quite the brutal hit... Still on my feet."
+      ],
+      "psychology_medical_recovery": [
+        "Dressing is holding. Bleeding has stopped.",
+        "Pain is subsiding... breathing a bit easier now.",
+        "Feeling somewhat steadier.",
+        "Patch will hold for now. Keep moving.",
+        "At least I am no longer bleeding out."
+      ],
+      "psychology_nightmare": [
+        "*gasps awake* Just... a nightmare. Only a dream.",
+        "Cold sweat... felt far too real.",
+        "I feel more exhausted than before I slept.",
+        "Those screams... still echoing in my ears.",
+        "*shudder* Horrible dream. I am awake now.",
+        "My head... *shudder* I feel unwell."
+      ],
+      "psychology_paralysis": [
+        "...Can't move. Chest feels crushed...",
+        "...Wake up... come on, twitch a claw...",
+        "...Something is standing right there... move, damn it...",
+        "...Locked in place. Can't even force a scream...",
+        "...Right beside me... don't look... MOVE...",
+        "Wake up, wake up!"
+      ],
+      "mindclean_relief": [
+        "The screaming in my head has finally stopped.",
+        "Clarity restored... I can actually think straight.",
+        "A clean slate. Enough to keep moving forward.",
+        "My paws have stopped shaking. Much better."
+      ],
+      "mindclean_sideeffect": [
+        "Wait... what was I trying to remember? Something slipped away.",
+        "I cannot picture their face anymore... just static.",
+        "A strange gap in my thoughts. What did I just forget?",
+        "Head feels scraped out... unnerving."
+      ],
+      "psychology_wear_armwarmers": [
+        "Stops the draft on my forearms. Quite comfortable.",
+        "Snug fabric. Keeps my arms from scraping against jagged rock.",
+        "A modest layer, but it wards off the cavern chill.",
+        "Practical. Beats shivering in the dark.",
+        "I don't know how to feel about this exactly, but sure."
+      ],
+      "psychology_wear_thighhighs": [
+        "Hardly standard attire for a cave, but it keeps my legs warm.",
+        "Looks somewhat ridiculous, though warmth takes priority.",
+        "Keeps the damp chill off my calves. Good enough.",
+        "At least my legs aren't freezing anymore.",
+        "I feel more vulnerable somehow."
+      ],
+      "psychology_wear_carapace": [
+        "Heavy plating... preferable to broken ribs, certainly.",
+        "Smells rather odd... but it is remarkably tough.",
+        "Cumbersome, but I feel considerably less fragile.",
+        "Solid armor. Should deflect sharp blows."
+      ],
+      "psychology_wear_blindfold": [
+        "Pitch darkness. Why in the world would I wear this?",
+        "Completely blinded. This is utterly foolish.",
+        "Relying solely on hearing and touch... terrifying.",
+        "There's... fabric over my eyes. I can't see a damn thing."
+      ],
+      "psychology_wear_helmet": [
+        "Solid protection for my head. Falling rubble won't crack my skull now.",
+        "A tad heavy on the neck, but far preferable to a crushed cranium.",
+        "A necessary precaution down here.",
+        "At least my head is guarded against cave-ins and whatnot."
+      ],
+      "psychology_wear_scarf": [
+        "Pleasantly warm around my neck.",
+        "Rough weave, but it keeps the bitter draft away.",
+        "Surprisingly comfortable.",
+        "A welcome buffer against the subterranean chill.",
+        "Well I'll be... this is quite comfortable."
+      ],
+      "psychology_wear_depression_deny": [
+        "I have no desire to change garments. Leave me.",
+        "Pointless. Clothing changes nothing in this pit.",
+        "Take it away. I do not care.",
+        "*sigh* Leave me alone. I will not put that on.",
+        "No.",
+        "Stop trying to change my garments, it's no use."
+      ],
+      "psychology_wear_traumarig": [
+        "Heavy rig, but the storage capacity is exceptional.",
+        "Every essential within reach.",
+        "Proper gear. Far better prepared for whatever tears into me next.",
+        "A bit more bulkier profile, but having stuff on hand is worth the weight."
+      ],
+      "psychology_wear_traumarig_corpse": [
+        "A grim irony. I arrived far too late.",
+        "All the supplies in the world mean nothing without the reflexes to use them.",
+        "Tsk. Could've done something. Physically can't.",
+        "A reminder that preparation does not guarantee survival."
+      ],
+      "psychology_wear_bellyarmor": [
+        "Stiff against the torso, but at least my abdomen is protected.",
+        "Heavy plate. Drastically reduces the risk of being gutted.",
+        "Restricts my mobility slightly, but far safer against the rough terrain.",
+        "Solid barrier over my vital organs. A worthwhile trade."
+      ],
+      "psychology_wear_balaclava": [
+        "Snug over the face. Keeps the dust and icy drafts out.",
+        "Slightly muffles my breathing, but keeps my snout warm.",
+        "A bit tight... But it'll keep dirt off of my face.",
+        "Itchy around the horns, but effective against the cold."
+      ],
+      "psychology_wear_hoodie": [
+        "Oversized, but remarkably comfortable.",
+        "It provides a small sense of security.",
+        "A tad frayed around the cuffs, yet surprisingly warm.",
+        "Soft fabric. A rare comfort down here."
+      ],
+      "psychology_wear_kneepads": [
+        "Crawling over jagged scree won't shred my knees now.",
+        "This'll save my joints from being ground against stone.",
+        "Strapped tight. Navigating rubble will be far less agonizing.",
+        "A sensible addition. Jagged dirt is brutal on bare joints."
+      ],
+      "psychology_wear_limbwraps": [
+        "Crude wraps, but they protect against scrapes and jagged rocks.",
+        "Tight linen. Keeps the skin intact while scrambling over rubble.",
+        "Simple bindings, though quite effective for joint stability.",
+        "A warrior's aesthetic, perhaps, but functional nonetheless."
+      ],
+      "psychology_wear_riothelmet": [
+        "Visor is scratched, but my skull is thoroughly guarded.",
+        "Muffles audio somewhat, but brings immense peace of mind.",
+        "Heavy on the neck, but excellent protection against anything.",
+        "A solid barrier. Good luck crushing my skull through this."
+      ],
+      "psychology_wear_tacticalgloves": [
+        "Firm grip. Handling jagged salvage won't shred my palms.",
+        "Reinforced knuckles. Excellent.",
+        "Snug fit over the claws. Dexterity remains intact.",
+        "Far less risk of lacerations now."
+      ],
+      "psychology_wear_tacticalboots": [
+        "Won't be slipping as badly now.",
+        "Steel-toed boots. Kicking through jagged rubble without injury.",
+        "Stiff soles, but the traction is invaluable as is the protection.",
+        "Solid footwear. My feet are well protected now."
+      ],
+      "psychology_wear_tornshirt": [
+        "Ripped rags, practically. Still, superior to just bare skin.",
+        "It's... better than nothing I suppose.",
+        "This barely qualifies as clothing...",
+        "A degraded scrap of fabric, though it offers slight protection."
+      ],
+      "psychology_wear_annoyed": [
+        "Cease this incessant battle of my garments!",
+        "Make a definitive selection and be done with it!",
+        "Stop fumbling with my clothing! Irritating pest!",
+        "Hands off! I am attempting to concentrate!",
+        "I am not a mannequin. Cease this!"
+      ],
+      "minigame_lockpick_success": [
+        "Tumbler aligned.",
+        "Got it. Excellent",
+        "Hm. That one felt a bit odd.",
+        "Unlocked."
+      ],
+      "minigame_lockpick_jam": [
+        "Tch. Pin binding against the cylinder.",
+        "Wrong angle. It's jammed.",
+        "Tumblers seized up. *sigh*",
+        "There's significant resistance in the lockway."
+      ],
+      "minigame_lockpick_claw_damage": [
+        "Agh! My damn claw caught!",
+        "Tch! Pinched my damn claw in the cylinder!.",
+        "Owww! Quit pinching my damn claw!.",
+        "Damned stubborn lock. *furious sigh*"
+      ],
+      "minigame_keypad_success": [
+        "Access granted.",
+        "Unlocked.",
+        "There it is.",
+        "Cache unsealed."
+      ],
+      "minigame_keypad_fail": [
+        "No, wrong sequence.",
+        "Wrong number, need to reset.",
+        "Tch. Pressed the wrong thing.",
+        "*exasperated sigh*."
+      ],
+      "treatment_major_stabilized": [
+        "The bleeding is finally slowing... What a relief.",
+        "Tied off tightly... It'll hold for now.",
+        "That was uncomfortably close. Damned cave.",
+        "Dressing is completely soaked, but the worst has passed.",
+        "My paws are shaking... but I am stabilizing. Need to keep moving.",
+        "Still breathing. Phew."
+      ],
+      "treatment_minor_scrape": [
+        "Minor laceration dressed, good.",
+        "it is simply a trivial scrape.",
+        "Stung momentarily.",
+        "Cleaned and staunched. Moving on."
+      ],
+      "psychology_condition_catatonia": [
+        "...",
+        "*staring unblinkingly into the dark*",
+        "...Nothing. Just static.",
+        "...My paws won't respond.",
+        "...No reason to react.",
+        "...Frozen."
+      ],
+      "psychology_condition_depression": [
+        "What is the point of continuing this?",
+        "Everything is completely hollow.",
+        "...Exhausted. Beyond words.",
+        "Just endless dirt and rust.",
+        "*sighs quietly* I have no energy left for this.",
+        "Pointless calculations for a pointless existence."
+      ],
+      "psychology_condition_learned_helplessness": [
+        "Any action I take leads to the same outcome.",
+        "Effort is entirely futile down here.",
+        "Why bother struggling? The outcome is predetermined.",
+        "I have tried every alternative. None of it matters.",
+        "Struggling merely prolongs the inevitable.",
+        "...I am done fighting."
+      ],
+      "psychology_condition_anhedonia": [
+        "Nothing matters.",
+        "Whatever.",
+        "I feel completely indifferent.",
+        "Pointless.",
+        "..."
+      ],
+      "psychology_condition_paranoia": [
+        "Someone is trailing us. I know it.",
+        "Footsteps in the darkness. Do not turn your back.",
+        "Every shadow is concealing a threat.",
+        "I can hear breathing that does not belong to me.",
+        "Trust no one in this pit.",
+        "Who is skulking in the dark?!"
+      ],
+      "psychology_condition_delirium": [
+        "The walls... they are undulating.",
+        "Buzzing... whispers in the wiring...",
+        "Where was I supposed to be? Everything is melting together.",
+        "Something crawling beneath my skin... no, focus...",
+        "I can no longer distinguish real sounds from static."
+      ],
+      "psychology_condition_sensory_overload": [
+        "*presses paws to ears* Too loud... entirely too loud!",
+        "Every sound feels like a hammer against my skull.",
+        "The glare... the noise... shut it all off!",
+        "Intolerable. Make it stop!"
+      ],
+      "psychology_condition_flow": [
+        "Pace is steady. Everything in order.",
+        "Every motion calculated and precise.",
+        "Clear mind. Executing flawlessly.",
+        "Locked into the rhythm.",
+        "I have the pattern down. Proceeding."
+      ],
+      "psychology_condition_grounded": [
+        "Deep breath. Pulse is steady.",
+        "I am here. Grounded and focused.",
+        "Mind is clear. Proceeding rationally.",
+        "Ready for whatever comes next."
+      ],
+      "psychology_condition_catharsis": [
+        "Ha... survived. Against all odds.",
+        "Still standing. You failed to break me.",
+        "A tremendous weight lifted.",
+        "I told you I would make it through."
+      ],
+      "psychology_condition_euphoria": [
+        "Nothing can touch me now.",
+        "My senses have never been sharper.",
+        "Completely invincible.",
+        "An extraordinary rush. Try and stop me."
+      ],
+      "mindwipe_drink_onset": [
+        "Tastes vile... metallic and alkaline.",
+        "My tongue is going numb... what chemical was that...?"
+      ],
+      "mindwipe_pain_rising": [
+        "Agh! Excruciating pain searing through my skull!",
+        "Burning... something is tearing into my brain!"
+      ],
+      "mindwipe_agony_decay": [
+        "AAGH! Stop... I can't hold onto my thoughts-!",
+        "My memories... slipping away... WHO... WHO AM I-?!"
+      ],
+      "mindwipe_critical_fade": [
+        "Static... total void...",
+        "..."
+      ],
+      "mindclean_drink_onset": [
+        "Bitter astringent. Burns my throat.",
+        "Ugh... a foul concoction, but effective."
+      ],
+      "mindclean_headache_vomit": [
+        "Hrk-! Splitting migraine... stomach violently heaving...",
+        "Dreadful... feels like a mallet striking my temples."
+      ],
+      "mindclean_relief_settling": [
+        "The screaming in my head has finally subsided.",
+        "*exhales slowly* A profound relief."
+      ],
+      "mindclean_residual_complaint": [
+        "My thoughts feel scrubbed raw... some details are missing.",
+        "Hollow... as though an important recollection was purged."
+      ],
+      "psychology_dismemberment_first": [
+        "My <limb>... no! My <limb> is severed!",
+        "Where is my <limb>?! Yellow blood everywhere!",
+        "Agh! My <limb>! Apply a tourniquet immediately!",
+        "This cannot be happening! Not my <limb>!"
+      ],
+      "psychology_dismemberment_later": [
+        "Another piece of me gone... lost my <limb> now.",
+        "My <limb> as well... how much more can be taken from me?",
+        "Severed my <limb>... damned butchery.",
+        "There goes my <limb>... unbelievable."
+      ],
+      "psychology_disfigured_mock_explosive": [
+        "Quiet! You dare find amusement in my mutilation?!",
+        "Look at my face, you imbecile! Does this look humorous to you?!",
+        "Cease your snickering! Look at what was done to me!"
+      ],
+      "psychology_disfigured_mock_shame": [
+        "They stare at me with sheer disgust... intolerable.",
+        "...Look elsewhere. Do not look at me.",
+        "Reduced to a grotesque spectacle."
+      ],
+      "psychology_disfigured_mock_cynical": [
+        "Laugh if you must. We are all rotting down here regardless.",
+        "You find this amusing? Let us see how your face fares in the dark.",
+        "...Cease the chatter. Conduct the transaction and move on."
+      ],
+      "psychology_thornback_triumph": [
+        "It bled out. The beast is dead.",
+        "We brought down that monstrosity... incredible.",
+        "Its armor was not impenetrable after all. We survived.",
+        "Dead on the gravel. It can harm us no longer."
+      ],
+      "psychology_blind_groping": [
+        "Pitch black... only the texture of damp rock to guide me.",
+        "Every step could plunge me into an abyss...",
+        "A sound in the dark... relying purely on acoustics.",
+        "Where is the light...? Utterly blind."
+      ],
+      "psychology_eye_lost": [
+        "My eye... half my field of vision is gone!",
+        "Yellow blood obscuring my socket... I cannot see on this flank!",
+        "Agh! Blinded on one side! Depth perception is ruined!",
+        "Lost an eye... a severe tactical detriment."
+      ],
+      "psychology_both_eyes_lost": [
+        "No... total darkness! I am completely blind!",
+        "Both eyes destroyed?! Where is the light?!",
+        "Do not leave me stranded in the dark... please...",
+        "Blind... completely defenseless against the dark!"
+      ],
+      "psychology_scar_trader_shame": [
+        "Cease staring at my scars.",
+        "I should have kept my sleeves fastened...",
+        "Inspect the wares, not my physical damage.",
+        "...I am well aware of how it appears."
+      ],
+      "psychology_vision_restored": [
+        "Sight restored... the dark has receded.",
+        "My vision is clear again. A profound relief.",
+        "I can see. Full visual capability restored."
+      ],
+      "psychology_limb_restored": [
+        "Motor function restored... it articulates properly.",
+        "Balance regained. An extraordinary relief.",
+        "Feels slightly foreign, but fully operational.",
+        "Restored at last. I will not lose it a second time."
+      ],
+      "psychology_amputation_infected": [
+        "*gagging* ...Ugh, the stench of necrosis... repulsive...",
+        "Discard it immediately! Get it out of my sight!",
+        "Blackened rot through the core... *shudders violently*",
+        "*heaves* The odor of rotting tissue... sickening.",
+        "Foul rot... *coughs* ...bandage! Wrap the stump quickly!",
+        "Nauseating... I am going to be sick...",
+        "It had to be severed... the decay was spreading up my flesh... *heaves*"
+      ],
+      "psychology_streamer_paranoid": [
+        "I sense observation. Not the subterranean fauna... something distant.",
+        "A lens focused upon us. Unseen eyes behind two-way glass.",
+        "Stop observing me as though I were a laboratory specimen.",
+        "Unseen observers in the static. I can sense the surveillance.",
+        "Are we being monitored at this very instant? You must feel it as well.",
+        "Maintain composure. Do not humiliate us before the observers."
+      ],
+      "psychology_streamer_depressed": [
+        "I trust the observers are enjoying our misery.",
+        "Morbid voyeurism at its finest.",
+        "A cruel spectacle for an unseen audience.",
+        "Are they cataloging every fatal error we commit?",
+        "Do not romanticize our struggle. We are simply dying in filth.",
+        "Must be exceedingly comfortable, spectating from warmth and safety."
+      ],
+      "psychology_streamer_confident": [
+        "Ensure you capture my superior technique.",
+        "Observe closely. You are witnessing masterclass survival.",
+        "If this is being archived, note that my intellect carried this venture.",
+        "I trust the onlookers are taking meticulous notes."
+      ],
+      "psychology_streamer_neutral": [
+        "Do you ever perceive an uncanny sensation... that our impulses are being guided?",
+        "It feels as though an optical apparatus is tracking our every move.",
+        "*shudder* A profound sense of surveillance.",
+        "As though we were specimens staged within a terrarium.",
+        "Do you ever suspect our cognitive directives originate from elsewhere?"
+      ],
+      "psychology_trauma_shock_crash": [
+        "AGH! The pain... it just hit all at once!",
+        "Ghhk! Adrenaline is gone... damn it, it burns!",
+        "Can't... draw breath... absolute agony!",
+        "Nghaaah! It caught up to me... fuck!"
+      ],
+      "minigame_amputation_cutting": [
+        "Ngh... focus away from the blade... keep sawing...",
+        "The teeth of the blade grating against bone... horrific...",
+        "Ugh... the acoustic vibrations... sickening...",
+        "Keep cutting... do not hesitate, you must finish!"
+      ],
+      "minigame_amputation_complete": [
+        "It is severed... finally free of it.",
+        "Complete. Now cinch the tourniquet, immediately!",
+        "Ghh... it detached. Horrendous, but necessary.",
+        "Finished... breathe... just breathe."
+      ],
+      "minigame_dislocation_success": [
+        "...Ghhk! There. Reseated into the socket.",
+        "Agh! Snapped back in place... agonizing.",
+        "Pop! ...Fffhh, much better. Articulation restored.",
+        "Joint reseated. Stings intensely, but it will hold."
+      ],
+      "psychology_broken_leg_hobble": [
+        "Agh... cannot bear weight on this extremity...",
+        "Fractured bone grinding with every stride... excruciating...",
+        "Ngh... drag the limb... keep moving forward...",
+        "Reduced to a pathetic hobble... I require a splint."
+      ],
+      "panic_vomit": [
+        "Acidic bile... hyperventilation triggering the gag reflex.",
+        "Choking on gastric fluid... calm down, breathe...",
+        "The panic has seized my digestive tract.",
+        "*wheezes* Convulsive retching brought on by sheer terror.",
+        "Suffocating and heaving simultaneously. Agony.",
+        "Nervous breakdown manifesting somatically."
+      ],
+      "panic_confusion": [
+        "Wait. What was my task? Where was I heading?",
+        "Hands are trembling uncontrollably. Lost focus.",
+        "Memory gap... panic disrupted my thoughts.",
+        "Sensory overload fragmented my working memory.",
+        "Where did I misplace my bearings? Focus!",
+        "Disoriented. Cognitive cohesion slipping."
+      ],
+      "panic_headache": [
+        "Intense cranial pressure behind the ocular sockets.",
+        "Throbbing migraine compounding the distress.",
+        "A splitting ache. The noise is aggravating it.",
+        "*winces painfully* Vascular constriction in the brain.",
+        "My cranium feels as though it might fracture.",
+        "Intolerable headache. Need analgesics."
+      ],
+      "panic_tool_breather": [
+        "Halt. Cease tugging for a moment.",
+        "Give me a second to stabilize my pulse.",
+        "Not now. Let me breathe.",
+        "Pause. I need sixty seconds of equilibrium.",
+        "Do not push me right now. Stand back."
+      ],
+      "panic_tool_refuse_severe": [
+        "I said NO! Back away!",
+        "Do not touch me! Leave it!",
+        "CEASE THIS! GET AWAY!",
+        "I will not permit this! Step back!",
+        "Leave me alone! Hands off!"
+      ]
+    },
+    {
+      "psychology_frustration": [
+        "...",
+        "Nrrhh...",
+        "Du-ne no like this...",
+        "Ghhhrrr... Wo-rk!",
+        "Bad box!",
+        "Du-ne hit it!",
+        "Why no go...?",
+        "Du-ne... angry...",
+        "*growls softly*",
+        "Hnnnrgh! Mo-ve!",
+        "Du-ne break this thi-ng!",
+        "Not good...",
+        "Ouch! Hurt fin-ger...",
+        "Du-ne want this fixed!",
+        "Grr... St-op!",
+        "Du-ne con-fused...",
+        "Ba-d thi-ng! Very bad!",
+        "*kicks it*"
+      ],
+      "psychology_anger": [
+        "Ggghhrrr! Back off!",
+        "Du-ne smash you!",
+        "No touch Du-ne!",
+        "Du-ne bite!",
+        "Get a-way!",
+        "Du-ne tear you up!",
+        "Grrr! Leave Du-ne alone!",
+        "Du-ne fight!",
+        "GGGHHRRRAAAAGH!!",
+        "Du-ne hurt you bad!",
+        "No look at Du-ne!",
+        "Du-ne angry now! Very angry!",
+        "*hisses*",
+        "DU-NE STRONG! GO A-WAY!"
+      ],
+      "psychology_fear": [
+        "...",
+        "Du-ne hear thi-ng...",
+        "What that...?",
+        "Shh... Qui-et...",
+        "Mo-nster come...?",
+        "Du-ne hide...",
+        "Da-rk here... too da-rk...",
+        "Du-ne sca-red...",
+        "*whimper*",
+        "No find Du-ne... please...",
+        "Bi-g ba-d thi-ng near...",
+        "Du-ne stay low on flo-or...",
+        "*sniff sniff* ...Smell sca-ry...",
+        "Du-ne no want to die...",
+        "Mo-nster... go 'way..."
+      ],
+      "psychology_panic": [
+        "Air... Du-ne can't bre-athe!",
+        "Help Du-ne!",
+        "Too fast! He-art pound!",
+        "Where go?! Where hide?!",
+        "Du-ne... di-zzy...",
+        "No! No-o-o!",
+        "Du-ne sca-red! Very sca-red!",
+        "Gggghhhraaa!!",
+        "Ch-est hurt!",
+        "Du-ne tra-pped! No way out!",
+        "Fall down... Du-ne can't see!",
+        "*gasping for air*",
+        "Please... no..."
+      ],
+      "psychology_melancholy": [
+        "...",
+        "Du-ne ti-red...",
+        "No wake up...",
+        "Co-ld...",
+        "Du-ne sad...",
+        "No s-mile...",
+        "Nobody come...",
+        "Du-ne sleep now...",
+        "All hurt...",
+        "Du-ne emp-ty...",
+        "Why try...",
+        "Leave Du-ne here...",
+        "*sad whimper*",
+        "Du-ne feel so bad..."
+      ],
+      "psychology_contentment": [
+        "Du-ne okay...",
+        "Du-ne a-live!",
+        "Good...",
+        "Du-ne walk...",
+        "Du-ne feel bet-ter...",
+        "Still stan-ding!",
+        "Du-ne strong saw-ian.",
+        "*happy grunt*",
+        "Du-ne hap-py..."
+      ],
+      "psychology_comfort": [
+        "Warm...",
+        "Du-ne rest...",
+        "Nice...",
+        "Du-ne sleep a bit...",
+        "Feel good...",
+        "Safe now...",
+        "Du-ne like this...",
+        "*soft purr*",
+        "No ba-d thi-ng here..."
+      ],
+      "psychology_refuse_sustenance": [
+        "...",
+        "No! Bad!",
+        "Du-ne no eat!",
+        "Yuck! Du-ne choke!",
+        "Take a-way!",
+        "Du-ne throw up!",
+        "Taste like dirt!",
+        "Du-ne said NO!",
+        "Smell rot! Not foo-d!",
+        "*spits it out*",
+        "Du-ne mouth hurt!"
+      ],
+      "psychology_near_corpse_single": [
+        "Cor-pse...",
+        "Ooo... Fri-end sleep?",
+        "Fr-ee foo-d?",
+        "Fri-end... no move...",
+        "Du-ne sad for fri-end...",
+        "Take shi-ny thi-ng...?",
+        "Ghh... Smell bad...",
+        "Co-ld bo-dy...",
+        "Du-ne look...",
+        "Fri-end... no wake up?",
+        "Du-ne no touch...",
+        "Ba-d thi-ng get fri-end...",
+        "Du-ne walk past...",
+        "Poor fri-end...",
+        "Du-ne no want to be co-ld like this.",
+        "*pokes with foot*",
+        "Fri-end hurt... Du-ne sorry..."
+      ],
+      "psychology_near_corpse_multiple": [
+        "More co-ld fri-ends...",
+        "Many dead...",
+        "Smell too bad!",
+        "Bi-g ba-d thi-ng kill them...",
+        "Du-ne ca-re-ful...",
+        "Too many cor-pses...",
+        "Food...?",
+        "All fri-ends sleep...?",
+        "*holds nose*",
+        "Du-ne want leave this room..."
+      ],
+      "psychology_near_corpse": [
+        "Smell bad...",
+        "Cor-pse...",
+        "Fri-end dead.",
+        "Du-ne watch out...",
+        "Co-ld bo-dy on flo-or.",
+        "No move...",
+        "*sniff* Pleh!"
+      ],
+      "psychology_corpse_desensitized": [
+        "More foo-d?",
+        "Hello, dead fri-end.",
+        "Du-ne see many now.",
+        "Du-ne take shi-ny thi-ng.",
+        "Du-ne used to this.",
+        "A-no-ther one...",
+        "Just co-ld rock and co-ld bo-dy.",
+        "Du-ne find boots?"
+      ],
+      "psychology_corpse_nihilist": [
+        "...",
+        "Just meat.",
+        "Dead.",
+        "Du-ne don't care...",
+        "No move ever.",
+        "No-thi-ng here."
+      ],
+      "psychology_near_animal_corpse": [
+        "Dead beast...",
+        "Big teeth... no bite now.",
+        "Good meat?",
+        "Du-ne watch out for hun-ter...",
+        "Smell like rot.",
+        "Beast lose fight.",
+        "Du-ne want warm hide..."
+      ],
+      "psychology_corpse_and_trap": [
+        "Tra-p bite fri-end!",
+        "Du-ne watch step...",
+        "Poor fri-end... tra-p snap!",
+        "Du-ne no touch jaws...",
+        "Tra-p eat fri-end leg!",
+        "Sharp teeth on flo-or!"
+      ],
+      "psychology_near_corpse_aggressive": [
+        "Du-ne no end like you!",
+        "Du-ne fight back!",
+        "Du-ne strong saw-ian!",
+        "Ba-d thi-ng gonna pay...",
+        "Du-ne smash what did this!",
+        "GRRR! DU-NE NO DIE HERE!"
+      ],
+      "psychology_near_corpse_stoic": [
+        "Du-ne keep walking.",
+        "No look.",
+        "Eyes a-head.",
+        "Du-ne move on.",
+        "..."
+      ],
+      "psychology_near_corpse_empathetic": [
+        "Du-ne sorry, fri-end...",
+        "Poor thi-ng...",
+        "Du-ne wish could help...",
+        "Du-ne give pat on head...",
+        "Rest, fri-end.",
+        "*sad sawian noise*"
+      ],
+      "psychology_corpse_suicidal": [
+        "Fri-end no hurt no more...",
+        "Du-ne... want sleep like fri-end...",
+        "No more ba-d thi-ngs biting fri-end...",
+        "Du-ne so ti-red... want sleep in dirt too...",
+        "Fri-end...? Wake up...? Du-ne stay here with you...",
+        "Du-ne close eyes... no want to run no more...",
+        "*lies down next to cold fri-end* ...No wake Du-ne up..."
+      ],
+      "psychology_corpse_and_trap_suicidal": [
+        "Du-ne... too ti-red to run...",
+        "Tra-p snap fast... then no more hurt?",
+        "Just step on tee-th... sleep for-ev-er...",
+        "No more mo-nsters chasing Du-ne... just snap...",
+        "Du-ne lie down next to fri-end... never get up...",
+        "Maybe... step here? No more running...?",
+        "Tra-p bite once... then all qui-et...",
+        "*stares at trap* ...Du-ne so ti-red..."
+      ],
+      "psychology_near_trap": [
+        "Watch out!",
+        "Tra-p!",
+        "Teeth on flo-or!",
+        "Du-ne step a-round...",
+        "Sharp! No touch!",
+        "*jolts back*",
+        "Du-ne al-most step on it!"
+      ],
+      "psychology_flashback_onset": [
+        "Wait... no...",
+        "Du-ne hear it...",
+        "What that?! Stay back!",
+        "No! Du-ne re-mem-ber ba-d place!",
+        "Du-ne head hurt... it co-ming!"
+      ],
+      "psychology_flashback_coping": [
+        "Du-ne here. Flo-or here.",
+        "Breathe... Du-ne a-live.",
+        "Not real... not real...",
+        "Du-ne touch hands... Du-ne here.",
+        "Du-ne okay... want foo-d..."
+      ],
+      "psychology_flashback_panic": [
+        "NO! NO!",
+        "DU-NE SCA-RED!",
+        "MAKE STOP!",
+        "HELP DU-NE!",
+        "DU-NE WANT HIDE!",
+        "BA-D MEN COME! NO!!"
+      ],
+      "psychology_flashback_aftermath": [
+        "On-ly sha-dow...",
+        "Du-ne hands shake...",
+        "Head hurt bad...",
+        "Du-ne okay now...",
+        "Just ba-d thought... it gone."
+      ],
+      "psychology_flashback_fleeting": [
+        "No-thi-ng there...",
+        "Sha-dow trick Du-ne...",
+        "Du-ne keep going.",
+        "Just wind... no mo-nster."
+      ],
+      "psychology_flashback_prolonged": [
+        "Du-ne still there?!",
+        "Get out of Du-ne head!",
+        "Wake up, Du-ne!",
+        "No! Ba-d voices no leave Du-ne!"
+      ],
+      "psychology_crisis_lashing": [
+        "LEAVE DU-NE!",
+        "NO LOOK AT DU-NE!",
+        "DU-NE HATE THIS!",
+        "GGGHHRRR! GO A-WAY!",
+        "NO TOUCH DU-NE!",
+        "DU-NE BITE YOUR FACE!"
+      ],
+      "psychology_crisis_withdrawal": [
+        "Du-ne don't care.",
+        "Leave Du-ne a-lone.",
+        "Du-ne done.",
+        "Go 'way...",
+        "Du-ne no talk. No more."
+      ],
+      "psychology_crisis_calm": [
+        "All qui-et now.",
+        "Du-ne feel no hurt.",
+        "Noise go a-way...",
+        "Du-ne close eyes... rest...",
+        "Soft qui-et...",
+        "Good sleep come now..."
+      ],
+      "psychology_combo_melancholy_frustration": [
+        "Bro-ke a-gain... Du-ne so ti-red.",
+        "Du-ne can't do it...",
+        "Stupid ba-d thi-ng!",
+        "Du-ne angry and sad...",
+        "*kicks ground* Hurt ev-ery-where..."
+      ],
+      "psychology_combo_depressive_success": [
+        "Du-ne fix it... but still sad.",
+        "So what...",
+        "Du-ne still stuck down here...",
+        "*whimpers softly* No feel bet-ter...",
+        "Du-ne do thi-ng... don't care."
+      ],
+      "psychology_combo_euphoria_frustration": [
+        "NO STOP DU-NE!",
+        "MOVE! DU-NE WIN!",
+        "WORK, STUPID THI-NG!",
+        "DU-NE AL-MOST THERE!",
+        "GRRRR! FASTER!! GO GO GO!"
+      ],
+      "psychology_combo_fear_anger": [
+        "COME HERE, MO-NSTER!",
+        "DU-NE BITE YOU!",
+        "DU-NE NO RUN!",
+        "DU-NE SMASH!",
+        "FIGHT DU-NE!! GGGHRRAAAGH!"
+      ],
+      "psychology_combo_panic_melancholy": [
+        "Du-ne never es-cape...",
+        "All hurt... too sca-red...",
+        "Du-ne can't bre-athe... nobody come...",
+        "Help Du-ne... please...",
+        "Du-ne lost in da-rk..."
+      ],
+      "psychology_combo_comfort_fear": [
+        "Too qui-et...",
+        "Mo-nster wai-ting...?",
+        "Du-ne no sleep yet.",
+        "Tra-p... feels like tra-p...",
+        "*looks around ner-vously*"
+      ],
+      "psychology_dissociation_numb": [
+        "Du-ne far a-way...",
+        "Du-ne hands... no feel like Du-ne hands...",
+        "Du-ne look at claws... strange...",
+        "All feel like wa-ter... or gla-ss...",
+        "Is Du-ne slee-ping...?",
+        "Bo-dy feel hea-vy... like co-ld stone..."
+      ],
+      "psychology_dissociation_breakdown": [
+        "Du-ne al-most died!",
+        "Du-ne sha-king... can't stop!",
+        "Head hurt ba-d... what ha-ppened?!",
+        "Du-ne sca-red... so sca-red...",
+        "*hugs knees* Make ba-d thi-ng stop...",
+        "Can't bre-athe... Du-ne fa-lling down..."
+      ],
+      "psychology_trio_doom": [
+        "Du-ne co-ld... mo-nsters hunt Du-ne...",
+        "No way out...",
+        "Du-ne tra-pped! Bro-ken...",
+        "Why run...? Nowhere to go...",
+        "Du-ne gonna die... *whimper*",
+        "So co-ld... Du-ne ti-red...",
+        "Ba-d place win..."
+      ],
+      "psychology_trio_berserk": [
+        "DU-NE NO CARE!! COME HERE!!",
+        "GGGHHRRAAAAGH! DU-NE SMASH!",
+        "DU-NE BITE MO-NSTER NECK!",
+        "KILL DU-NE THEN! TRY IT!",
+        "DU-NE STRONG! DU-NE TEAR YOU!!",
+        "AAAHH-AAAHH! DU-NE FEAR NO-THI-NG!"
+      ],
+      "psychology_trio_spiteful_respite": [
+        "Warm in dirt... but still sca-red.",
+        "Feel nice... for li-ttle bit.",
+        "Du-ne sit... wait for ba-d thi-ng...",
+        "Du-ne no want to leave warm spot.",
+        "Nice now... bad la-ter..."
+      ],
+      "psychology_trio_feral_cornered": [
+        "STAY BACK! DU-NE SMASH SKULL!",
+        "NO COME NEAR DU-NE!",
+        "GGGRRRR! DU-NE BITE FACE!",
+        "GET A-WAY! GET A-WAY!",
+        "DU-NE TEAR YOU IN PIECES!",
+        "*snarls violently*"
+      ],
+      "psychology_grounding_plushie": [
+        "Soft fri-end...",
+        "Du-ne hug fluf-fy thi-ng...",
+        "Du-ne here... soft... warm...",
+        "*snuggles face into it*",
+        "No take Du-ne fri-end!",
+        "Li-ttle fri-end no hurt Du-ne...",
+        "Du-ne pro-tect you..."
+      ],
+      "psychology_grounding_meds": [
+        "Pill make head stop spin...",
+        "Feel fluf-fy in head...",
+        "Good meds... Du-ne calm...",
+        "Hurt go a-way...",
+        "*dazed blink* Where ba-d thought go...?",
+        "Du-ne feel nice now..."
+      ],
+      "psychology_memory_meal": [
+        "Du-ne re-mem-ber good foo-d...",
+        "Tasty treat... Du-ne want more!",
+        "Mmm... sweet, jui-cy...",
+        "*drooling* Du-ne tum-my re-mem-ber...",
+        "Wish Du-ne have more now..."
+      ],
+      "psychology_meal_monotony": [
+        "Same slop a-gain...",
+        "Du-ne bored of this!",
+        "Taste like mud... Yuck!",
+        "Du-ne want dif-fe-rent foo-d!",
+        "No more... Du-ne want n-new!"
+      ],
+      "psychology_starvation_relief": [
+        "*pats belly happily*",
+        "Tum-my full! No more hurt!",
+        "Du-ne no starve! Yaaay!",
+        "Mmm... full tum-my feels good...",
+        "Du-ne have en-er-gy now!"
+      ],
+      "psychology_eat_experimentflesh": [
+        "This... this fri-end meat...?",
+        "Du-ne eat per-son...?! *whimpers*",
+        "Tum-my hurt... Taste wrong...",
+        "Du-ne feel like mo-nster now...",
+        "*gags* Du-ne want throw up..."
+      ],
+      "psychology_eat_organs": [
+        "Chewy... squishy...",
+        "Blood pop in mouth! Yuck!",
+        "Du-ne swa-llow... but feel bad...",
+        "Tas-te like me-tal and slime!"
+      ],
+      "psychology_eat_dogfood": [
+        "Foo-d from tin can!",
+        "Meat chunks... smell fun-ny.",
+        "Du-ne eat like li-ttle beast.",
+        "Taste al-right... Du-ne no care!"
+      ],
+      "psychology_crystal_soothe": [
+        "Shi-ny rock hummm... Nice...",
+        "Warm in Du-ne hand.",
+        "Du-ne lis-ten to hum... feel slee-py...",
+        "*holds crystal to ear*"
+      ],
+      "psychology_crystal_dissonance": [
+        "Rock buzz too hard! Hurt!",
+        "Co-ld sharp feel... Du-ne no like!",
+        "Stop buz-zing, bad crys-tal!",
+        "*drops it on floor*"
+      ],
+      "psychology_crystal_overload": [
+        "Rock crack! Broke!",
+        "Du-ne shi-ny rock turn to dust...",
+        "No! Shi-ny gone...",
+        "*blows dust from hands sadly*"
+      ],
+      "psychology_memory_injury_minor": [
+        "Still hurt from lan-ding hard...",
+        "Foot throb a bit. Du-ne sur-vive fall.",
+        "Just a scrape. Still sting.",
+        "Du-ne got bruised, but okay.",
+        "*rubs sore leg* Du-ne tough."
+      ],
+      "psychology_memory_injury": [
+        "Du-ne still ache where teeth bite...",
+        "Re-mem-ber getting torn o-pen... sca-ry.",
+        "*shudder* Pain was so big...",
+        "Sting when Du-ne move wrong.",
+        "Du-ne luc-ky to walk a-way."
+      ],
+      "psychology_memory_escape": [
+        "Du-ne jump quick! Tra-p snap emp-ty air!",
+        "Al-most got chewed up by me-tal teeth...",
+        "Close one... Du-ne fast on feet!",
+        "Du-ne watch step now. Ne-ver a-gain."
+      ],
+      "psychology_memory_horror_single": [
+        "Du-ne still see that bo-dy...",
+        "Co-ld fri-end lying in dirt...",
+        "Why ba-d thi-ng do that to them...?",
+        "*whimper* Can still sm-ell the bl-ood...",
+        "Du-ne sca-red of en-ding up like that."
+      ],
+      "psychology_memory_horror_multiple": [
+        "Too many dead fri-ends...",
+        "So many bo-dies ev-ery-where...",
+        "Du-ne re-mem-ber all the co-ld faces.",
+        "Rot smell stay in Du-ne nose...",
+        "Will Du-ne be next...?"
+      ],
+      "psychology_memory_horror": [
+        "Thi-ng standing in sha-dow... then gone.",
+        "Du-ne thought some-one standing there...",
+        "Da-rk shape wat-ching Du-ne sleep... spoo-ky.",
+        "Hea-vy thi-ng pres-sing on chest in da-rk.",
+        "Ba-d spi-rits in this cave..."
+      ],
+      "psychology_unchipped_somatic_fatigue": [
+        "Bo-dy hea-vy like big rock...",
+        "Du-ne need sit down...",
+        "Legs no want walk no more.",
+        "So ti-red... Du-ne can bare-ly lift arms."
+      ],
+      "psychology_unchipped_somatic_anxiety": [
+        "Hands shake... he-art go thump thump!",
+        "Chest tight... too fast.",
+        "Du-ne hear he-art in ears!",
+        "Du-ne sca-red... need bre-athe slow."
+      ],
+      "psychology_somatic_hypothermia": [
+        "*shivers* So co-ld... teeth cla-tter!",
+        "Du-ne fin-gers numb... cannot feel rocks.",
+        "Du-ne... free-zing... need warm fire...",
+        "Free-zing cave... Du-ne want warm warm coat."
+      ],
+      "psychology_somatic_sickness": [
+        "Tum-my burn... Du-ne fe-ver bad.",
+        "Feel like thro-wing up... blegh.",
+        "Mouth taste bad... sick in-side.",
+        "Ev-ery-thing ache so much..."
+      ],
+      "psychology_somatic_hypovolemia": [
+        "Too much blood leak out... head spin.",
+        "Eyes go da-rk... Du-ne feel faint.",
+        "Du-ne getting weak... stop the lea-king...",
+        "Legs wob-ble... fa-lling down..."
+      ],
+      "psychology_somatic_asphyxiation": [
+        "Air... cannot bre-athe!",
+        "Lungs burn like hot coals!",
+        "Du-ne cho-king... need air!",
+        "*gasps* Let Du-ne bre-athe...!"
+      ],
+      "psychology_unchipped_inspection_low_valence": [
+        "Ev-ery-thing hea-vy. Du-ne bare-ly move.",
+        "Why try? Co-ld and da-rk ev-ery-where.",
+        "Du-ne ex-haos-ted. No en-er-gy left."
+      ],
+      "psychology_unchipped_inspection_high_arousal": [
+        "He-art poun-ding hard a-gainst ribs!",
+        "Hands sha-king... Du-ne cannot stea-dy.",
+        "Ba-d fee-ling in-side... dan-ge-rous here."
+      ],
+      "psychology_unchipped_inspection_low_agency": [
+        "Du-ne tra-pped. No-thi-ng Du-ne can do.",
+        "Out of Du-ne hands com-plete-ly.",
+        "Where lab peo-ple go? Du-ne need help..."
+      ],
+      "psychology_unchipped_inspection_calm": [
+        "Bre-a-thing stea-dy. One step, then a-no-ther.",
+        "Du-ne hol-ding to-ge-ther. Keep mo-ving.",
+        "Du-ne al-right for now."
+      ],
+      "psychology_memory_trade": [
+        "That tra-der per-son was nice!",
+        "Good to talk with-out figh-ting.",
+        "Tra-der give Du-ne shi-ny thi-ngs.",
+        "Du-ne like do-ing trade!",
+        "Hope nice tra-der stay safe back there."
+      ],
+      "psychology_memory_craft_good": [
+        "Du-ne put that to-ge-ther good!",
+        "Made strong thi-ng that works.",
+        "Good saw-ian craft! Du-ne proud.",
+        "Ma-king stuff is fun!"
+      ],
+      "psychology_memory_craft_bad": [
+        "Du-ne mess that up... waste parts.",
+        "Broke ma-te-ri-als... Du-ne feel sil-ly.",
+        "Ugh, bad build. Bro-ken pile."
+      ],
+      "psychology_memory_lab_calm": [
+        "Re-mem-ber the ro-om... soft hum.",
+        "Light un-der door be-fore guard walk by.",
+        "Room smell like co-ld stone and soap.",
+        "Some hu-mans were nice. Gave Du-ne treats.",
+        "Du-ne miss o-ther saw-ian fri-ends from ro-om.",
+        "Hu-mans had weird flat fa-ces. Fun-ny look."
+      ],
+      "psychology_memory_lab_unsettling": [
+        "Re-mem-ber co-ld me-tal floor in cell...",
+        "Guard drag Du-ne by arms... hurt.",
+        "Bright flash in eyes... hurt Du-ne head.",
+        "Co-ld cuffs clic-king... Sca-red Du-ne.",
+        "O-ther saw-ians di-sap-pear... where they go?",
+        "Mean hu-mans shou-ting thro-ugh door..."
+      ],
+      "psychology_memory_general_positive": [
+        "Du-ne still brea-thing! That is good.",
+        "Had worse days back in lab.",
+        "Du-ne strong. Du-ne pass test.",
+        "Still a-live, still wal-king."
+      ],
+      "psychology_memory_general_negative": [
+        "Why Du-ne e-ven try...?",
+        "Ev-ery-thing break down here.",
+        "Ba-d thi-ng af-ter ba-d thi-ng...",
+        "*growling unpleasantly* Du-ne tired of this.",
+        "Du-ne no want to be here..."
+      ],
+      "psychology_dissociative_stare": [
+        "Who... who wat-ching Du-ne...?",
+        "Eyes in air... Du-ne feel eyes...",
+        "Big glass wall... Du-ne see sha-pe...",
+        "Why look at Du-ne? Go a-way...",
+        "*stares blankly* Big sky per-son wat-ching...?",
+        "Du-ne wa-nt to tap on gla-ss...",
+        "Noth-ing on ot-her side...",
+        "Du-ne so ti-red of being wat-ched...",
+        "Leave Du-ne a-lone..."
+      ],
+      "psychology_futile_refusal": [
+        "Why make thi-ng? No help Du-ne...",
+        "Du-ne no want build... too ti-red...",
+        "Broke ag-ain anyway. Lea-ve it in di-rt.",
+        "Bag too hea-vy with junk."
+      ],
+      "psychology_medical_resigned_mild": [
+        "Put rag on... don't care.",
+        "*sigh* Fix Du-ne up... but hurt come back.",
+        "Still wal-king, Du-ne guess.",
+        "Good e-nough for now."
+      ],
+      "psychology_medical_resigned_profound": [
+        "Why fix Du-ne...?",
+        "Get pat-ched up ju-st to get hurt ag-ain...",
+        "Let Du-ne sleep... all hurt everywhere...",
+        "Why not let Du-ne rest in dirt...?"
+      ],
+      "psychology_item_lost_normal": [
+        "Drop-ped it! Where shiny thi-ng go...?",
+        "Du-ne lost thi-ng... *sniffs sadly*",
+        "Gone in the da-rk rocks...",
+        "Oh no... drop-ped it.",
+        "*sniffing the air* Whe-re thing?"
+      ],
+      "psychology_item_lost_traded": [
+        "Du-ne trade big foo-d for that! Now gone! Grrr!",
+        "Gave go-od stuff to tra-der for it... lost now!",
+        "Du-ne so an-gry! Where shiny go?!",
+        "Trade-d good parts and lost it in rocks!"
+      ],
+      "psychology_item_recovered_intact": [
+        "Found it! Still in one pie-ce!",
+        "Du-ne shiny thi-ng! Yay!",
+        "Not bro-ken! Still works!",
+        "Got some dirt on it, but good!"
+      ],
+      "psychology_item_recovered_damaged": [
+        "Broke a bit... but Du-ne still use.",
+        "Dent-ed and bent... still ok-ay.",
+        "Scrat-ched up, but wor-ks!... a little."
+      ],
+      "psychology_hostile_killed": [
+        "DU-NE WIN! Beast dead!",
+        "Broke the bad bug! Yuck, stick-y mess on skin!",
+        "Nasty thi-ng bite Du-ne no more!",
+        "DU-NE SMASH IT GOOD!"
+      ],
+      "psychology_clone_killed": [
+        "Look... look like Du-ne?! Why look like Du-ne?!",
+        "*whimpers scared* That thi-ng had Du-ne face...",
+        "Du-ne hurt... another Du-ne?! No no no!",
+        "Why more Du-nes in this cave...?",
+        "That... Du-ne... *whimper*"
+      ],
+      "psychology_trader_killed": [
+        "No! Nice tra-der fri-end sleep?!",
+        "Du-ne didn't mean to! Wake up!",
+        "Why tra-der no move?! Du-ne sorry!",
+        "*whimpers loudly* Tra-der was nice to Du-ne...",
+        "Du-ne no mean... to... *whimper*"
+      ],
+      "psychology_corpse_smashed": [
+        "*squelch* EW! Du-ne crash on mushy cor-pse!",
+        "Sticky dead thi-ng on Du-ne foot!",
+        "Ghh! Gross mush all over Du-ne foot!",
+        "Hnnn! Gross, so gross!"
+      ],
+      "psychology_animal_corpse_smashed": [
+        "Smash dead beast into paste!",
+        "Guts everywhere... smell so bad!",
+        "Du-ne crush it flat.",
+        "Du-ne smash-ed creature!"
+      ],
+      "psychology_last_stand_resilient": [
+        "DU-NE CHE-ST STOP... THEN GO THUMP AGAIN! DU-NE ALIVE?!",
+        "Bad da-rkness try take Du-ne, but Du-ne strong!",
+        "AHAHA! DU-NE WAKE UP AGAIN!",
+        "Du-ne was gone... now back! WOW!",
+        "Whuh... Du-ne was... gone?",
+        "Da-rkness bad! No take Du-ne!"
+      ],
+      "psychology_last_stand_resigned": [
+        "Du-ne was sleeping... why wake up in pain again...",
+        "Heart thump again... no want pain no more... *whimpers*",
+        "Why cave no let Du-ne rest...?",
+        "Let Du-ne rest...! No want pain...",
+        "Du-ne tired... Let rest...",
+        "Du-ne want... 5 mo-re minu-tes..."
+      ],
+      "psychology_borrowed_time_fading": [
+        "Strong fee-ling go a-way... gett-ing weak fast!",
+        "Du-ne hands sha-king again... need fix now!",
+        "Heart slow down... Du-ne must run!"
+      ],
+      "psychology_solitary_mutter": [
+        "Du-ne keep walking. One foot, two foot.",
+        "So qui-et. Just dripping wa-ter.",
+        "Check bag, check rocks. Keep go-ing.",
+        "Cave so qui-et...",
+        "*chittering silently*",
+        "Woh...",
+        "Du-ne lone-ly..."
+      ],
+      "psychology_solitary_schizoid": [
+        "Who whis-per in dark? Shh!",
+        "Du-ne hear voices in pipes... scary...",
+        "Eyes wat-ching Du-ne from shadow! Back off!",
+        "Du-ne no like be-ing seen!",
+        "Du-ne listen... voi-ces!",
+        "Wuhh..."
+      ],
+      "psychology_trap_calm_recognition": [
+        "Du-ne know that sound! Go ba-ck!",
+        "Tra-p there! Don't step on metal!",
+        "Du-ne see... Walk a-round bad thi-ng."
+      ],
+      "psychology_trap_repanic": [
+        "NO! Tra-p again! Run!",
+        "Get a-way from bad metal!",
+        "Du-ne know this! Run!",
+        "Du-ne get a-way!"
+      ],
+      "psychology_flashlight_died_joyous": [
+        "Haha, light go poof! Now cave pitch black!",
+        "Funny little bulb go sleepy.",
+        "Du-ne feel like bulb...",
+        "Stick is tired... need rest."
+      ],
+      "psychology_flashlight_died_angry": [
+        "Light broke! STUPID STICK! *bangs on palm*",
+        "WORK, BAD BULB! Du-ne smash you on rock!",
+        "Grrr! Why die now?! Bad box!",
+        "*angry chittering* Du-ne smash! Wo-rk now!"
+      ],
+      "psychology_flashlight_died_sorrow": [
+        "Da-rk now... all da-rk... Du-ne sca-red...",
+        "Light gone. Cave swallow Du-ne... *whimpers*",
+        "Cave is me-an to Du-ne...",
+        "Du-ne alo-ne... Stick go bye-bye."
+      ],
+      "psychology_flashlight_died_neutral": [
+        "No light... Du-ne walk slow.",
+        "Box dead. Touch wall with hands.",
+        "Du-ne stay calm...",
+        "*confused chittering* Nghh..."
+      ],
+      "psychology_darkness_wandering": [
+        "Du-ne touch co-ld floor... walk slow in da-rk.",
+        "Hear breathing... mo-nster in da-rk?!",
+        "Sha-dows creeping close to Du-ne...",
+        "Du-ne no like sha-dows...",
+        "*sporadic chitters*",
+        "Whoh...",
+        "Du-ne see... du-ne no see..."
+      ],
+      "psychology_trap_sonar_angry": [
+        "LOUD NOISE IN EARS! AAGH! Bad thing scream at Du-ne!",
+        "Du-ne sha-king from noise! Du-ne smash thing!",
+        "DU-NE SCREAM LOUDER THAN BOX! GGGHHRAAAGH!",
+        "*angry hissing*",
+        "Speaker bad! Du-ne fi-nd and smash bad!"
+      ],
+      "psychology_trap_sonar_joyous_hit": [
+        "Whoa! Loud wave rattle Du-ne skull!",
+        "Felt that in teeth! Du-ne still standing though!",
+        "Whah- Loud wave shake Du-ne!",
+        "*somewhat confused chittering* Du-ne shaken..."
+      ],
+      "psychology_trap_sonar_sorrow_hit": [
+        "Ears buzzing... can't think...",
+        "Head hurt so bad from ringing wave... *whimpers*",
+        "Du-ne ear hurt... *whimper*",
+        "Du-ne see blur-ry... hear bad..."
+      ],
+      "psychology_trap_sonar_neutral_miss": [
+        "Loud wave miss Du-ne! Run a-way fast!",
+        "Loud thing miss Du-ne!",
+        "Thing miss Du-ne! *slight hiss*"
+      ],
+      "psychology_trap_turret_joyous_hit": [
+        "Ouch! Met-al box thr-ow thing at Du-ne! Missed the big pa-rt!",
+        "Metal thi-ng thr-ow thingies at Du-ne! Stop it!"
+      ],
+      "psychology_trap_turret_angry_hit": [
+        "SHOOTING BOX! DU-NE BASH YOU WITH ROCK!",
+        "GRRR! You shoot Du-ne?! Du-ne tear you up!",
+        "DU-NE WILL SMASH SHOOT BOX"
+      ],
+      "psychology_trap_turret_sorrow_hit": [
+        "Bleeding again from metal box... ouch...",
+        "More holes in Du-ne skin... *sad whimper*",
+        "*whine*",
+        "Du-ne hurt by mean box aga-in..."
+      ],
+      "psychology_trap_beartrap_sorrow_hit": [
+        "OWW! Metal bite Du-ne <limb>!",
+        "Teeth chew into Du-ne <limb>... *cries*",
+        "Du-ne trapped by jaws on <limb>... leave Du-ne here...",
+        "*chittering angrily* Leave Du-ne!"
+      ],
+      "psychology_trap_beartrap_angry_hit": [
+        "GRRRR! Jaws let go of Du-ne <limb>!",
+        "BAD TRAP! GET OFF DU-NE <limb>!",
+        "DU-NE SMASH TEETH OFF <limb>!",
+        "*hissing angrily* LET GO OF DU-NE"
+      ],
+      "psychology_trap_beartrap_joyous_freed": [
+        "Teeth off! Du-ne <limb> have blood, but can walk!",
+        "Free from jaws! Du-ne hurt still...",
+        "Du-ne pry trap open! Strong saw-ian claws!",
+        "Du-ne bite trap op-en!"
+      ],
+      "psychology_trap_mine_tactical": [
+        "Boom thing in dirt! Stay a-way!",
+        "Ground exploded! Watch where feet go!",
+        "Thing go boom-boom! Watch o-ut!",
+        "*concerned chitter* Boom thing..."
+      ],
+      "psychology_trap_mine_angry_miss": [
+        "Boom miss Du-ne! Haha, stupid dirt bomb!",
+        "Du-ne too fast for boom!",
+        "*blowing raspberries* Thing don't get Du-ne!"
+      ],
+      "psychology_mp_peer_trap_worry": [
+        "Watch out fri-end! Tra-p on flo-or!",
+        "Fri-end!- Du-ne see tr-ap in flo-or!",
+        "No step there! Big metal in dirt!",
+        "Care-ful, fri-end!"
+      ],
+      "psychology_mp_peer_trap_grief": [
+        "NO! Fri-end chewed up by tra-p! *cries*",
+        "Fri-end wake up! Don't be dead!",
+        "Bad cave eat fri-end... Du-ne hate this cave!",
+        "Nothing left of fri-end... *sobbing*",
+        "Cave get Du-ne friend! No! *throwing arms up*"
+      ],
+      "psychology_mp_peer_saved": [
+        "Du-ne fix fri-end up! Fri-end safe now!",
+        "Walk with Du-ne, fri-end. Stay close!",
+        "Fri-end breathing! Du-ne so happy!",
+        "Du-ne protect fri-end from bad things!",
+        "Du-ne fix you!",
+        "Dune is doc-tor! Save you!"
+      ],
+      "psychology_lab_sensory_detached": [
+        "Smell like soap from room...",
+        "Du-ne hear soft hum... like lab lig-hts.",
+        "Cold floor feel like lab room...",
+        "White coat people talking outside room..."
+      ],
+      "psychology_lab_sensory_dread": [
+        "*shivers* That sharp smell... bad doctor room.",
+        "Mean human walking before food time... scary.",
+        "Don't lock Du-ne in cage again... please...",
+        "Cold things clicking... Du-ne remember hurt."
+      ],
+      "psychology_recovery_minor": [
+        "Wrap soft thing on scratch. All good now!",
+        "Stopped bleeding! Du-ne tough!",
+        "Just small cut. Du-ne keep going.",
+        "Du-ne tough... Fix self!"
+      ],
+      "psychology_recovery_major": [
+        "Big cut patched up! Du-ne survive!",
+        "Bleeding stopped. Du-ne heart strong!",
+        "That almost got Du-ne... glad alive!",
+        "Du-ne still stand! Du-ne proud!"
+      ],
+      "psychology_suicide_defiant_rage": [
+        "NO! DU-NE NO GIVE UP! DU-NE FIGHT MO-NSTERS!",
+        "DU-NE NOT DIE BY OWN HAND! DIE INSTEAD, BAD CAVE!",
+        "DU-NE STILL BREATHING, BAD THINGS!",
+        "BAD THINGS GO A-WAY! LEAVE DU-NE!"
+      ],
+      "psychology_suicide_aborted": [
+        "Put claw down... Du-ne wait...",
+        "Maybe find foo-d... no do this...",
+        "Du-ne want live a little more.",
+        "Du-ne no want...",
+        "*sad chitter*"
+      ],
+      "psychology_sensory_break": [
+        "Too loud... head buzzing... Du-ne cover ears!",
+        "Make da-rk... Du-ne close eyes... rest five minutes...",
+        "*holding head* Noise too big! Make it stop!",
+        "Just quiet... please... five minutes...",
+        "Du-ne!- Shut! SHUT!",
+        "Big noise! Make stop... *holding head*"
+      ],
+      "psychology_selfharm_aborted": [
+        "Stop... hands down. No cut Du-ne.",
+        "Drop sharp claw... silly thought.",
+        "Du-ne stop... take deep breath.",
+        "Du-ne... stop... for moment...",
+        "Du-ne was hav-ing... silly mo-ment..."
+      ],
+      "psychology_claw_eye_out": [
+        "AAGHH! DU-NE EYE! BLOOD IN EYE!",
+        "CANNOT SEE! WHAT DU-NE DO TO EYE?!",
+        "HELP DU-NE! EYE HURT SO BAD!",
+        "DU-NE DO BAD! EYE HURT!",
+        "EYE! EYE! NO SEE! DU-NE NO SEE!"
+      ],
+      "psychology_item_lost_joyous": [
+        "Drop it? Haha, bag lighter now!",
+        "Lost it! More thi-ngs in cave!",
+        "Du-ne find shinier thi-ng down below!",
+        "Du-ne drop some-thing..."
+      ],
+      "psychology_item_lost_melancholic": [
+        "Lost shiny thi-ng... Du-ne always lose stuff...",
+        "*sniffs* Why Du-ne carry things just to drop them?",
+        "Good thi-ng gone in dirt...",
+        "Du-ne dropped shiny thi-ng in dirt...",
+        "Du-ne too clum-sy dropped thi-ng in dirt..."
+      ],
+      "psychology_item_lost_paranoid": [
+        "Who stole from Du-ne pack?!",
+        "Sneaky bad bug take it while Du-ne look away?!",
+        "Where shiny go?! Someone took it!",
+        "Some-one take Du-ne shiny thing! Give ba-ck!"
+      ],
+      "psychology_item_lost_frustrated": [
+        "Fell out of hands! STUPID CLAWS!",
+        "Drop-ped it! Pick it up, quick!",
+        "Grrr! Why fingers so clumsy?!",
+        "Why Du-ne so si-lly?!"
+      ],
+      "psychology_craft_apathetic": [
+        "Du-ne made thi-ng. Still in cave though.",
+        "Built tool... don't change much.",
+        "Whatever. Tool done.",
+        "Du-ne make thing... no chan-ge around...",
+        "Why Du-ne make thing...?"
+      ],
+      "psychology_craft_frustrated": [
+        "Took so long to smash parts to-ge-ther! Finally!",
+        "Why parts so hard to bend?! Ouch!",
+        "Grrr... about time it fit!",
+        "Du-ne finally made thing! Grrr...",
+        "*aggresive chittering* Fit thing!"
+      ],
+      "psychology_craft_triumphant": [
+        "LOOK! DU-NE MAKE STRONG TOOL! DU-NE CLEVER!",
+        "Good saw-ian craft! Works great!",
+        "Du-ne one step close to beat-ing cave!",
+        "Du-ne clever! Make good thing!"
+      ],
+      "psychology_craft_manic": [
+        "Haha! Look at that! Du-ne build more!",
+        "Give Du-ne more scrap! Du-ne make everything!",
+        "Next thi-ng! Fast fast fast!",
+        "Du-ne want more!",
+        "Du-ne can craft more! More! More!"
+      ],
+      "psychology_injury_defiant": [
+        "Just scratch! Du-ne tough saw-ian!",
+        "Bled worse in train-ing!",
+        "Tie rag later... keep walking now!",
+        "Du-ne big saw-ian! Keep walk-ing!"
+      ],
+      "psychology_injury_resigned": [
+        "Bleeding again... Du-ne always get hurt...",
+        "More holes in skin... *sad whimper*",
+        "Just another scar on Du-ne body...",
+        "Du-ne tir-ed of hurt...",
+        "Du-ne no want more hurt..."
+      ],
+      "psychology_injury_spiteful": [
+        "Grrr! Bad thi-ng cut Du-ne! Du-ne bite you back!",
+        "You gonna pay for making Du-ne bleed!",
+        "Du-ne smash what-ever scratched me!",
+        "*snarling somewhat aggresively*"
+      ],
+      "psychology_injury_terrified": [
+        "Too much blood! Du-ne <limb> won't move!",
+        "Cannot breathe... Du-ne <limb> hurt so bad!",
+        "Help Du-ne! Bleeding everywhere!",
+        "Du-ne <limb> bleed bad! No move!",
+        "Du-ne ne-ed help! <limb> no move!"
+      ],
+      "psychology_medical_pragmatic": [
+        "Tie band-age tight. Stopp-ed bleeding. Good...",
+        "Du-ne heal du-ne... Ready to walk.",
+        "Clean... Keep moving.",
+        "*chittering* Du-ne ready to go n-ow..."
+      ],
+      "psychology_medical_relief": [
+        "Ooh... medicine make Du-ne <limb> stop hurting...",
+        "Pain go away from <limb>... nice...",
+        "*happy sigh* Du-ne feel much better.",
+        "*happy chittering* Du-ne <limb> pain go away... medicine thing good...",
+        "Medicine thing... Du-ne friend..."
+      ],
+      "psychology_weapon_jam_panic": [
+        "Click?! Loud stick no go bang! Fix, fix!",
+        "Stuck! Boom stick jammed!",
+        "Make it go bang again, quick!",
+        "Boom stick no go bang!",
+        "Du-ne loud sti-ck no work!"
+      ],
+      "psychology_weapon_jam_rage": [
+        "GO BANG, STUPID BOOM STICK! DUNE SMASH YOU!",
+        "EAT THE BOOM ROCK, JUNK STICK!",
+        "GO! WHY YOU NO GO?!",
+        "DU-NE MAKE BOOM STICK WORK!",
+        "DU-NE SMASH TO WORK!"
+      ],
+      "psychology_weapon_empty_despair": [
+        "No more boom things inside... stick... oh no...",
+        "Click click... noth-ing left to shoot...",
+        "Stick emp-ty now... might throw it...",
+        "Du-ne boom stick emp-ty..."
+      ],
+      "psychology_darkness_paranoid": [
+        "Hear scraping in dis-tance... mo-nster close!",
+        "Shadows moving in da-rk!",
+        "Something breathing in black corners...",
+        "Du-ne hear thing...",
+        "Du-ne hear bad thing...",
+        "Du-ne scared of thing..."
+      ],
+      "psychology_isolation_exhausted": [
+        "How long Du-ne down here...?",
+        "Nobody coming down to save Du-ne.",
+        "Just cold sa-nd and drip-ping walls forever..."
+      ],
+      "psychology_craft_mutilation_panic": [
+        "OUCH! Sharp parts bite Du-ne <limb>!",
+        "Torn!- Bleeding everywhere on <limb>!",
+        "SHUT OFF! IT PINCH DU-NE <limb>!",
+        "DU-NE <limb> HURT! STUPID THING!"
+      ],
+      "psychology_craft_mutilation_defiant": [
+        "Gah! Slipped on metal. Just little cut on skin.",
+        "Ripped claw a bit... Du-ne keep working!",
+        "Just blood. Du-ne tough saw-ian!",
+        "Du-ne tough! Ke-ep go-ing..."
+      ],
+      "psychology_craft_mutilation_resigned": [
+        "Hurt own <limb>... Du-ne silly...",
+        "Blood on my hands again... figures.",
+        "Can't build with-out cutt-ing own paws...",
+        "Du-ne ma-ke silly mis-take..."
+      ],
+      "psychology_craft_ruined_joyous": [
+        "Haha! Smashed the whole thing to bits! Look funny!",
+        "Bent it completely flat! Worth a try!",
+        "Broke into pieces, but didn't blow up!",
+        "Du-ne make something... It look funny!"
+      ],
+      "psychology_craft_ruined_rage": [
+        "BROKE IN TWO?! STUPID! DUNE CRUSH YOU!",
+        "USELESS TRASH! BREAK ON DUNE?!",
+        "ALL THAT WORK FOR NOTHING! GRRR!",
+        "DU-NE MAKE NOTHING?! DU-NE ANGRY!",
+        "*angry snarling*"
+      ],
+      "psychology_craft_ruined_melancholy": [
+        "Waste good parts... Du-ne can't build right...",
+        "*sad whimper* Broke the last piece...",
+        "Du-ne always mess things up...",
+        "Du-ne confused...",
+        "Du-ne try..."
+      ],
+      "psychology_craft_botched_resigned": [
+        "Looks crooked and ugly, but works a bit.",
+        "It holds... Du-ne feel bad...",
+        "Barely holding on, like Du-ne.",
+        "Du-ne try... Like every-thing..."
+      ],
+      "psychology_craft_first_time": [
+        "Du-ne did it! First thing works!",
+        "Made tool from trash! Clever Du-ne!",
+        "Not bad for first try!",
+        "Du-ne clever!",
+        "Du-ne happy! Made th-ing!"
+      ],
+      "psychology_craft_first_failure": [
+        "Broke on first try... Du-ne feel silly.",
+        "Can't even put two rocks together...",
+        "Mess-ed up right at sta-rt... *frown*",
+        "Du-ne make bad thing...",
+        "Du-ne... *whine*"
+      ],
+      "psychology_brain_fog": [
+        "Du-ne head... full of clo-uds...",
+        "Can't thi-nk...",
+        "What Du-ne doing...? Forgot...",
+        "Head fuzzy... like hum in ear...",
+        "Du-ne blink... brain sleepy...",
+        "Mmh... head hea-vy like big ro-ck..."
+      ],
+      "psychology_brain_disorientation": [
+        "Which way...? Cave spi-nning...",
+        "Du-ne lost... rock move a-round...",
+        "Flo-or go up and down... whoa...",
+        "Du-ne dizzy... bump into wall...",
+        "Where door go...? Cave twisted...",
+        "Du-ne wobble... legs soft...",
+        "Du-ne con-fused...",
+        "Whoh... Du-ne spin..."
+      ],
+      "psychology_brain_hypoxia_mutter": [
+        "Air... no air in cave...",
+        "Du-ne choking... breathe hard...",
+        "Du-ne che-st hur-t... need air...",
+        "Dark in eyes... can't bre-athe...",
+        "Gasp... gasp... cave swallow air...",
+        "Du-ne mouth open... nothing go in...",
+        "Du-ne want bre-the!"
+      ],
+      "psychology_dossier_reaction": [
+        "Pa-per? Fun-ny letters!...",
+        "Look like Du-ne on pa-per?! Why?!",
+        "Words... Du-ne no read hu-man letters...",
+        "Shi-ny card... Du-ne keep in bag.",
+        "Hu-man draw bug on card? Look like Du-ne...",
+        "Dune sniff pa-per... smell like lab...",
+        "Du-ne no under-stand well..."
+      ],
+      "psychology_weapon_jam_sorrow": [
+        "Boom stick cli-ck... no work no more...",
+        "Broke stick... Du-ne sad...",
+        "*whimpers* Bang thi-ng dead...",
+        "Heavy metal stick... useless now...",
+        "Du-ne boom stick no work..."
+      ],
+      "psychology_weapon_empty_panic": [
+        "No more boom rocks! EMPTY!",
+        "Stick go click click! HELP DUNE!",
+        "RUN! NO MORE BOOMS!",
+        "Boom stick empty! NO-O!",
+        "Boom rocks go-ne!"
+      ],
+      "psychology_weapon_empty_rage": [
+        "EMPTY?! GRRR! BAD BOOM STICK!",
+        "DUNE THROW STICK AT MO-NSTER!",
+        "NO MORE ROCKS INSIDE?! SMASH IT!",
+        "SHOOT, YOU JUNK STICK! *Shaking gun*"
+      ],
+      "psychology_weapon_dryfire_calm": [
+        "Click. No boom rocks.",
+        "Empty stick. Need find more rocks.",
+        "Du-ne check in-side... empty boom sti-ck...",
+        "Dry stick now. Put a-way.",
+        "Click click... woh...",
+        "Du-ne fi-nd boom rocks lat-er."
+      ],
+      "psychology_weapon_safety_calm": [
+        "Li-ttle swit-ch on. Switch to go bang-bang.",
+        "Du-ne flip swit-ch. Now can sho-ot.",
+        "Safety switch... Du-ne flip...",
+        "Move swit-ch... for boom..."
+      ],
+      "psychology_weapon_safety_panic": [
+        "WHY NO GO BA-NG?! SWITCH STUCK!",
+        "CLICK! FLIP THE TH-ING! FLIP IT!",
+        "NO SHOOT! BAD SWIT-CH! HURRY!",
+        "MOVE SWITCH! GRRRRR!",
+        "DU-NE CLAW SL-IP ON SWIT-CH! AAGH!"
+      ],
+      "psychology_vomit_blood": [
+        "Bluughh... Ble-ed... in-side...?",
+        "Du-ne spit... re-d...? No... yel-low...? *coughs*",
+        "Tu-mmy leak... Du-ne leak blo-od...!",
+        "Du-ne feel so we-ak... mouth tas-te like me-tal...",
+        "Ghhk... Ba-d sick... help Du-ne...",
+        "*heaving* Du-ne in-side hurt...",
+        "No... no... Du-ne thr-ow up li-fe...",
+        "Color wrong... mouth burn so b-ad...",
+        "Blood on flo-or... Du-ne scared...",
+        "Inside torn open... *whimpers*",
+        "Spit up yellow... blo-od...?",
+        "Du-ne dying...? Why blood in mouth...?"
+      ],
+      "psychology_vomit_sickness": [
+        "Bllgghh... *cough*",
+        "Tu-mmy emp-ty... still hu-rt...",
+        "Du-ne so sick... *whines*",
+        "Mouth taste b-ad... blegh...",
+        "He-ad spin... Du-ne fa-lling...",
+        "No more foo-d in tu-mmy...",
+        "Du-ne... guhhh... nothing come out...",
+        "Si-ck... Du-ne fee-l awful...",
+        "Stom-ach bu-rn like big fi-re...",
+        "*gag* Make stop...",
+        "Du-ne belly ache so bad...",
+        "Du-ne... ribs hu-rt..."
+      ],
+      "psychology_vomit_withdrawal": [
+        "Shakes... Du-ne sha-king hard...",
+        "Need juice... need good stu-ff...",
+        "Du-ne in-sides burn... tu-mmy twist like ro-pe...",
+        "Make pa-in stop... please give me-ds...",
+        "*scraping tongue* Gross... so cold...",
+        "Du-ne shiver bad... teeth click-click...",
+        "Body want the good stu-ff shot... *whimpers*",
+        "Sick without little dr-ink..."
+      ],
+      "psychology_vomit_disgust": [
+        "Yuck! Spit spit! Bad taste!",
+        "Du-ne eat gross thi-ng... *gags*",
+        "Wipe tongue... still taste b-ad!",
+        "Pleh! Gross dirt mush!",
+        "Du-ne mouth full of b-ad thi-ng! Blegh!",
+        "*rubbing tongue on arm* Get out of mouth!",
+        "Du-ne no taste so b-ad th-ing!"
+      ],
+      "psychology_panic_vomit": [
+        "Thr-ow from scare! *cough cough*",
+        "Stuff bu-rn Du-ne throat... Du-ne sca-red!",
+        "Du-ne chest hurt... can't stop puking...",
+        "Du-ne scared so bad tu-mmy spit up...",
+        "*choking lightly* Make it stop...!",
+        "Du-ne throat on fire... *whimpers*",
+        "Gasp... can't bre-athe... *heaves*",
+        "Empty belly hurt so bad...",
+        "Du-ne ne-ed... comfort... food!"
+      ],
+      "psychology_panic_confusion": [
+        "Where Du-ne walking...? Forgot...",
+        "Du-ne hands shake... what happened...?",
+        "Du-ne drop thi-ng? Head all numb...",
+        "Why Du-ne here...? Mind blank...",
+        "Blink blink... where path go...?",
+        "What was Du-ne doing...?",
+        "Cave feel strange... forgot where to go...",
+        "Cave playing with Du-ne..."
+      ],
+      "psychology_panic_headache": [
+        "Agh! Head pound like big drum!",
+        "Eyes hurt... head hurt bad!",
+        "Brain feel squishy... make noise stop!",
+        "*holds head* Head cracking open!",
+        "Too loud... noise hammer on skull...",
+        "Du-ne head ache... want dark cave..."
+      ],
+      "psychology_panic_tool_breather": [
+        "St-op... wait...",
+        "No pull... Du-ne need second...",
+        "Leave it... not now...",
+        "Du-ne need breathe! Stop!",
+        "Back up... let Dune rest...",
+        "No take! Wait a second!",
+        "Let Du-ne rest!"
+      ],
+      "psychology_panic_tool_refuse_severe": [
+        "NO! STOP PULLING!",
+        "DU-NE SAID STOP!",
+        "LEAVE DUNE ALONE! GRRR!",
+        "GET AWAY! NO TOUCH DUNE!",
+        "DU-NE BITE CLAWS IF NO STOP!",
+        "BACK OFF! HISS!",
+        "*angry chittering* LEAVE DU-NE ALONE!"
+      ],
+      "psychology_sleep_paralysis": [
+        "Can't move... body dead... chest heavy...",
+        "Shadow in corner wat-ching... help Du-ne...",
+        "Eyes open... but claws won't mo-ve... sca-red...",
+        "Big dark sha-pe in fr-ont of Dune... *whimpers*",
+        "Wake up! Claws, wake up!"
+      ],
+      "psychology_nightmare_woke_shook": [
+        "*gasps* Bad dream! Just dream!",
+        "Heart pounding... shadow mo-nster was there!",
+        "Dune awake... no close eyes again...",
+        "Cold sweat on skin... dream so real..."
+      ],
+      "psychology_phantom_trader_dissolve": [
+        "Wait... where nice per-son go...?",
+        "Tra-der was right there... now gone...?",
+        "Nobody here... just empty ca-ve... Du-ne alone...",
+        "Dune saw friend! Where friend poof to...?",
+        "Empty pod... only air...",
+        "Fri-end!... Fri-end...?"
+      ],
+      "psychology_item_lost": [
+        "Dropped it! Where it go...?",
+        "Slipped from cla-ws into dark...",
+        "Lost shi-ny thing... *sad whine*",
+        "Drop in dark... gone...",
+        "Thi-ng fell out! Can't find!"
+      ],
+      "psychology_crafting_success": [
+        "Du-ne put parts to-ge-ther! Done!",
+        "Strong tool! Du-ne clever saw-ian!",
+        "Hold to-ge-ther good! Now can use!",
+        "Made nice thi-ng from junk!",
+        "Du-ne craft good!",
+        "Du-ne cle-ver!"
+      ],
+      "psychology_craft_failure": [
+        "Broke it! Waste parts... *frown*",
+        "Snapped in claws! Ugh!",
+        "Can't use now. Total trash.",
+        "Scrap bent wrong... ruined it.",
+        "Du-ne mess up build...",
+        "Du-ne try..."
+      ],
+      "psychology_craft_botched": [
+        "Ugly... but works!",
+        "Crook-ed tool... Du-ne careful wi-th tool.",
+        "To-ol make wor-ry sound... but still tool!",
+        "Du-ne build ro-ugh...",
+        "Du-ne try...! Made some-thing."
+      ],
+      "psychology_craft_mutilation": [
+        "OUCH! Cut Du-ne <limb>!",
+        "Claws slipped! Du-ne bleeding on <limb>!",
+        "Sharp metal bite Dune skin!",
+        "Pinched Du-ne <limb>! Hurt!",
+        "Blood on Du-ne cla-ws... ouch ouch!"
+      ],
+      "psychology_injury": [
+        "Ouch! That hurt bad!",
+        "Du-ne take hard hit!",
+        "Du-ne tough! Still on feet!",
+        "Agh! Sting so bad!",
+        "...Dune still stand!",
+        "Du-ne hurty!"
+      ],
+      "psychology_medical_recovery": [
+        "Soft thing holding... Du-ne pain go down.",
+        "Medicine feel co-ol on Du-ne skin...",
+        "No leak blo-od now. Dune feel bet-ter.",
+        "Soft wrap... Du-ne brea-the calm...",
+        "Du-ne healing up go-od."
+      ],
+      "psychology_nightmare": [
+        "*whimpers awake* Bad dream again...",
+        "Screaming in dream... still in Du-ne ea-rs...",
+        "Du-ne tired... but sca-red to sleep...",
+        "Bad lab memories in dream...",
+        "Du-ne no wa-nt sleep no mo-re..."
+      ],
+      "psychology_paralysis": [
+        "Claws won't move... frozen...",
+        "Big shadow standing close... move claws... MOVE!",
+        "Can't scream... Du-ne sca-red...",
+        "Hea-vy chest... help...",
+        "Wake up bo-dy! Move!"
+      ],
+      "mindclean_relief": [
+        "Loud scre-ams in head go a-way...",
+        "Head cle-ar now... quiet...",
+        "Good cle-an fee-ling. Dune walk again.",
+        "Buzzing gone! Dune peaceful.",
+        "Du-ne c-an think bet-ter..."
+      ],
+      "mindclean_sideeffect": [
+        "Forgot... what Dune forgot...?",
+        "Friend face in head got all fuzzy...",
+        "Good memory gone... just static...",
+        "Head feel hol-low... empty inside...",
+        "*staring off in distance*"
+      ],
+      "psychology_wear_armwarmers": [
+        "Soft cloth on arms...",
+        "Du-ne like warm soft things on arms...",
+        "Snug on arms... Du-ne feel protected...",
+        "Du-ne arms no sha-ke now..."
+      ],
+      "psychology_wear_thighhighs": [
+        "Long socks on legs... Du-ne legs wa-rm!",
+        "Funny look on Du-ne legs! But warm...",
+        "Du-ne feel co-zy...",
+        "Du-ne like feeling... wa-rm..."
+      ],
+      "psychology_wear_carapace": [
+        "Hard shell plate! Like big Du-ne!",
+        "Floor no hurt Du-ne ribs now!",
+        "Heavy plate... but protect Du-ne!",
+        "Tough armor! Dune strong saw-ian!"
+      ],
+      "psychology_wear_blindfold": [
+        "Can't see! Why put thing on eyes?!",
+        "All black! Du-ne blind now! Take off!",
+        "Stumble on flo-or! Du-ne no see!",
+        "*clawing at air* No want this!"
+      ],
+      "psychology_wear_helmet": [
+        "Hard bo-wl on head! Du-ne skull safe!",
+        "Falling ro-cks no crack Dune he-ad now!",
+        "Shell for Du-ne head...",
+        "Heavy on Du-ne neck, but head very safe!"
+      ],
+      "psychology_wear_scarf": [
+        "Warm around neck... Cozy Du-ne...",
+        "Cold air no bite Du-ne neck now.",
+        "Tucked tight... Soft...",
+        "Cozy neck wrap... Dune warm."
+      ],
+      "psychology_wear_depression_deny": [
+        "Du-ne no care. Leave Du-ne alone!",
+        "Du-ne no want we-ar... Why bo-ther Du-ne?...",
+        "Take a-way. Du-ne just wa-nt sle-ep...",
+        "Clo-thes don't cha-nge noth-ing... leave Dune."
+      ],
+      "psychology_wear_traumarig": [
+        "Big vest with pockets! Put shiny things inside!",
+        "Vest hold many medicines!",
+        "Lots of pouches for foo-d and th-ing!",
+        "Dune feel tough with big vest!"
+      ],
+      "psychology_wear_traumarig_corpse": [
+        "Big vest ca-n't save dead fri-end...",
+        "Even with many pockets, friend still died...",
+        "Pockets full of bandages... but friend cold...",
+        "Du-ne coul-dn't stop the big hu-rt..."
+      ],
+      "psychology_wear_bellyarmor": [
+        "Stiff plate on tummy! Keep Du-ne guts safe!",
+        "Mons-ter teeth no bi-te through Du-ne tum-my now!",
+        "Ha-rd belly shi-eld. Heavy... but keep Du-ne safe.",
+        "Tummy covered! No rip Dune open!"
+      ],
+      "psychology_wear_balaclava": [
+        "Wa-rm mask on Du-ne fa-ce. Stop cave du-st.",
+        "Tig-ht on Du-ne head... but ke-ep face wa-rm.",
+        "Cloth over Du-ne mouth. Breat-he warm ai-r.",
+        "Sn-ug on Du-ne face... Keep cold away."
+      ],
+      "psychology_wear_hoodie": [
+        "Big soft cloth thing!",
+        "Cozy... Dune feel safe...",
+        "Du-ne feel wa-rm and cozy...",
+        "Hood keep Du-ne wa-rm!"
+      ],
+      "psychology_wear_kneepads": [
+        "Pads on kne-es! Cra-wl on sharp gra-vel easy!",
+        "No scra-pe knee sk-in on rocks now!",
+        "Hard thi-ngs save leg join-ts.",
+        "Du-ne can cra-wl in dirt with-out hurt!"
+      ],
+      "psychology_wear_limbwraps": [
+        "Tight wraps on legs! Like warrior saw-ian!",
+        "Keep skin to-ge-ther tight. Stop bleeding.",
+        "Rough linen wraps. Protect claws and skin.",
+        "Tied tight on limbs. Good protection."
+      ],
+      "psychology_wear_riothelmet": [
+        "Big face shi-eld protect Du-ne!",
+        "Metal cage on head! Monster no bite Du-ne face!",
+        "Du-ne skull locked in metal! Dune strong!",
+        "Heavy riot bo-wl! Bring on fall-ing rocks!"
+      ],
+      "psychology_wear_tacticalgloves": [
+        "Hard gloves on claws, Du-ne have good gri-p now!",
+        "Sharp rocks no cut Du-ne hands now.",
+        "Tough Du-ne hands! Pun-ch mons-ters ha-rd!",
+        "Snug gloves save Dune claws from hurt."
+      ],
+      "psychology_wear_tacticalboots": [
+        "Big heavy boots! Ki-ck rocks ha-rd!",
+        "No slip in mu-d! Good bo-ots!",
+        "Steel toes! Kick bad th-ings away!",
+        "Sti-ff shoe prot-ect Du-ne feet from glass!"
+      ],
+      "psychology_wear_tornshirt": [
+        "Du-ne sligh-tly covered...",
+        "Du-ne feel air through ho-les...",
+        "it is better than bare skin... Du-ne guess.",
+        "Old shi-rt keep Du-ne less chil-ly..."
+      ],
+      "psychology_wear_annoyed": [
+        "STOP PULL-ING DU-NE!",
+        "Leave Du-ne cloth-es a-lone!",
+        "GRRR! STOP TOUCHING DUNE!",
+        "Stop tugging on Du-ne!",
+        "Hands off Dune! Dune trying to th-ink!"
+      ],
+      "minigame_lockpick_success": [
+        "Dune did it!",
+        "it unlocked!",
+        "Box open! Yay!",
+        "Yay! Lock gave up!"
+      ],
+      "minigame_lockpick_jam": [
+        "Pin stuck in hole! Wrong way!",
+        "Thing no turn!",
+        "Pin bent inside lock! Grrr!",
+        "Inside metal stuck tight! Won't budge.",
+        "*shaking lock furiously*"
+      ],
+      "minigame_lockpick_claw_damage": [
+        "OWW! Du-ne claw hurt!",
+        "Du-ne claw hurty! Ouch ouch!",
+        "*hiss* Lock bad!",
+        "Du-ne hand hu-rt!",
+        "Du-ne bite bad lock ba-ck!"
+      ],
+      "minigame_keypad_success": [
+        "Du-ne win!",
+        "Pushed right buttons!",
+        "Du-ne clever!",
+        "Ka-ching!"
+      ],
+      "minigame_keypad_fail": [
+        "Ngh... Bad buttons!",
+        "Wrong push! Still locked...",
+        "Bad keypad! Bad!",
+        "Grrr! Open up, bad keypad!"
+      ],
+      "treatment_major_stabilized": [
+        "Tied tight rag! Big leak stopped!",
+        "Hands shaking... but skin hold to-ge-ther!",
+        "Dune not bleed out today!",
+        "Wrap soaked in blood, but stopped the flood!",
+        "Tight tight... Dune still breathing!",
+        "Sur-vived big wound! Tough saw-ian!"
+      ],
+      "treatment_minor_scrape": [
+        "Just lit-tle cut... Du-ne strong saw-ian...",
+        "Sting a bit, but Dune tough!",
+        "Wipe bad stu-ff off scra-tch. Go-od to go.",
+        "Little cut. No stop strong Du-ne!"
+      ],
+      "psychology_condition_catatonia": [
+        "...",
+        "*stares blankly at stone*",
+        "Dune... frozen...",
+        "Antennae no twitch... nothing...",
+        "...Heavy like rock...",
+        "*hollow stare*"
+      ],
+      "psychology_condition_depression": [
+        "Du-ne so tired... heavy...",
+        "Why stand up...? Just dark dirt...",
+        "No more energy... *sad whine*",
+        "Dune body feel like lead...",
+        "Everything cold and gray...",
+        "Just want lie in dirt..."
+      ],
+      "psychology_condition_learned_helplessness": [
+        "No matter what Dune do... always hurt...",
+        "Why fight...? Bad things always win...",
+        "Dune try and try... nothing change...",
+        "No point running... cave swallows all...",
+        "Just sit in dark... let it happen...",
+        "Dune stop struggling..."
+      ],
+      "psychology_condition_anhedonia": [
+        "Don't care...",
+        "Food taste like mud... don't care...",
+        "Whatever...",
+        "Nothing fun no more...",
+        "..."
+      ],
+      "psychology_condition_paranoia": [
+        "Eyes in dark... watching Dune!",
+        "Something behind us... don't look away!",
+        "Footsteps on gravel! Shh... listen!",
+        "Bad thing stalking Dune... *hisses softly*",
+        "Who there?! Come out!",
+        "Antennae feel creeping shadows... scary..."
+      ],
+      "psychology_condition_delirium": [
+        "Walls breathing... rock soft like mush...",
+        "Lights dancing in dark... pretty bugs...?",
+        "Where Dune... cave upside down...",
+        "Bugs under shell?! Scrape them off!",
+        "Head spinning... what real and what dream...?"
+      ],
+      "psychology_condition_sensory_overload": [
+        "TOO LOUD! Antennae buzzing bad!",
+        "*holds head with claws* Stop making noise!",
+        "Lights hurt eyes! Too sharp! Too loud!",
+        "Make it stop! Dune ears burn!"
+      ],
+      "psychology_condition_flow": [
+        "Du-ne move smooth! Step by step!",
+        "Claws quick! Good rhythm!",
+        "Du-ne got this! Easy now!",
+        "Fast and quiet... like smart hunter!",
+        "Pattern simple! Dune do it right!"
+      ],
+      "psychology_condition_grounded": [
+        "Feet on dirt. Du-ne solid.",
+        "Deep breath... calm down...",
+        "Heart slow now. Claws steady.",
+        "Head clear. Dune ready."
+      ],
+      "psychology_condition_catharsis": [
+        "Haha! Du-ne alive! Made it!",
+        "Still standing! Tough saw-ian!",
+        "*big happy sigh* Chest feel light!",
+        "Take that, bad cave monsters!"
+      ],
+      "psychology_condition_euphoria": [
+        "Du-ne invincible! Nothing hurt me!",
+        "Run fast! Jump high! Woo!",
+        "Never felt so strong!",
+        "Monster can't touch Dune now!"
+      ],
+      "mindwipe_drink_onset": [
+        "Taste like bitter mud and old metal...",
+        "Tongue go numb... feel prickly..."
+      ],
+      "mindwipe_pain_rising": [
+        "AGH! Head burn! Skull cracking!",
+        "Hot needles poking inside brain! OW-W!"
+      ],
+      "mindwipe_agony_decay": [
+        "AAGHH! STOP! CAN'T THINK-!",
+        "Dune forgetting... WHO IS DUNE-?!"
+      ],
+      "mindwipe_critical_fade": [
+        "Darkness... just buzzing...",
+        "..."
+      ],
+      "mindclean_drink_onset": [
+        "Bitter drink! Burn throat going down!",
+        "Blegh... sour wash..."
+      ],
+      "mindclean_headache_vomit": [
+        "Hrk-! Head pounding... throw up sour juice...",
+        "Ow ow! Big hammer hitting skull inside..."
+      ],
+      "mindclean_relief_settling": [
+        "Loud voices stop... head quiet now.",
+        "*relieved sigh* Much better..."
+      ],
+      "mindclean_residual_complaint": [
+        "Head feel scraped out... forgot what Dune wanted.",
+        "Fuzzy mind... lost good memory somewhere..."
+      ],
+      "psychology_dismemberment_first": [
+        "Du-ne <limb>! GONE! Where <limb> go?!",
+        "AAGH! <limb> torn off! HURT HURT!",
+        "Du-ne leaking blood! Tie <limb> fast!",
+        "NO NO! Dune need that <limb>!"
+      ],
+      "psychology_dismemberment_later": [
+        "Another <limb> gone... Dune falling apart...",
+        "Lost <limb> too... no more pieces left...",
+        "Agh... bad monsters take Du-ne <limb> again...",
+        "There go <limb>... Dune so broken..."
+      ],
+      "psychology_disfigured_mock_explosive": [
+        "SHUT UP! No laugh at Dune face!",
+        "Mouth broken! Shell cracked! Not funny!",
+        "GRRR! Stop making fun! Dune hurt bad!"
+      ],
+      "psychology_disfigured_mock_shame": [
+        "They point and laugh... Dune look ugly now...",
+        "...Don't look at Du-ne... *hides face*",
+        "Monster bug... that what they think..."
+      ],
+      "psychology_disfigured_mock_cynical": [
+        "Keep laughing... monster eat you next.",
+        "Think funny? Claws can crack your face too.",
+        "...Whatever. Just give items."
+      ],
+      "psychology_thornback_triumph": [
+        "Big spiky monster dead! Du-ne beat it!",
+        "We killed the nightmare beast! Clang clang!",
+        "Du-ne sur-vived! Monster bleed out!",
+        "Dead bug! No bite Dune no more!"
+      ],
+      "psychology_blind_groping": [
+        "Can't see! Just cold stone in claws...",
+        "Step careful... hole could be right there...",
+        "Heard a scratch! Monster close... can't see it!",
+        "All dark... where light go...?"
+      ],
+      "psychology_eye_lost": [
+        "My eye! Half dark now!",
+        "Agh! Blood in eye hole... can't see left side!",
+        "OWW! Eye cracked! Everything looks tilted!",
+        "Lost eye... weird to look at cave now..."
+      ],
+      "psychology_both_eyes_lost": [
+        "NO! ALL BLACK! Dune blind!",
+        "Both eyes gone?! Where light go?!",
+        "Help Du-ne! Don't leave in dark!",
+        "Can't see monsters! Can't see nothing!"
+      ],
+      "psychology_scar_trader_shame": [
+        "No stare at Du-ne cuts...",
+        "Should hide scarred skin...",
+        "Look at wares, no look at Dune...",
+        "...Dune know it look bad."
+      ],
+      "psychology_vision_restored": [
+        "Du-ne see again! Light back!",
+        "Eyes work! Yay! See colors!",
+        "Du-ne can see! Can see!"
+      ],
+      "psychology_limb_restored": [
+        "Can wiggle claws again! It works!",
+        "Got leg back! Dune walk good!",
+        "Feel funny, but can use it!",
+        "Limb back! Don't bite it off, bad bugs!"
+      ],
+      "psychology_amputation_infected": [
+        "*gags loudly* Stink so bad! Smell like rotten meat!",
+        "Throw it away! Get black meat away from Dune!",
+        "All black inside... *shudders* ...bad rot...",
+        "*heaving* Smells like dead monster...",
+        "Gross rot... *chokes* ...tie rag on stump fast!",
+        "Du-ne gonna throw up... belly sick...",
+        "Had to cut... poison was crawling up skin! Blegh!"
+      ],
+      "psychology_streamer_paranoid": [
+        "Feel weird eyes... not monsters... sky watchers?",
+        "Someone looking through invisible window!",
+        "Stop staring at Du-ne like weird bug in jar!",
+        "Eyes in the air... Dune antennae itch!",
+        "You fee-l watchers too, friend...? Creepy...",
+        "No look stupid... watchers laughing..."
+      ],
+      "psychology_streamer_depressed": [
+        "Hope watchers happy seeing Dune suffer...",
+        "Make fun of Dune dying...? Mean...",
+        "Sad show for sky people...",
+        "They count every time Dune trips on rocks...?",
+        "Nothing pretty here... just dirt and pain...",
+        "Must be nice sitting in warm home watching Dune bleed..."
+      ],
+      "psychology_streamer_confident": [
+        "Look at Du-ne! Strongest bug in cave!",
+        "Wave to sky watchers! Dune putting on big show!",
+        "Tell watchers Dune carried heavy bag!",
+        "Hope people watching see Dune crush monsters!"
+      ],
+      "psychology_streamer_neutral": [
+        "Ever fee-l like big hand pushing Dune from above...?",
+        "Feel like glass eye following Dune...",
+        "*shivers* Strange fee-ling in antennae...",
+        "Like Du-ne trapped in glass box for show...",
+        "Thoughts feel funny... like someone whispering moves..."
+      ],
+      "psychology_trauma_shock_crash": [
+        "AAGH! Pain hit like boulder! ALL AT ONCE!",
+        "Ghhk! Fast fee-ling gone... HURTS SO BAD!",
+        "Can't bre-athe... skin burning!",
+        "NGHAAAH! Big pain woke up! HELP!"
+      ],
+      "minigame_amputation_cutting": [
+        "Ngh... don't look at teeth... keep sawing...",
+        "Blade scraping on hard bone... *shudders*",
+        "Ugh... horrible screech sound... gonna puke...",
+        "Keep going claws... must cut off... hurry!"
+      ],
+      "minigame_amputation_complete": [
+        "It off! Limb fell on dirt!",
+        "Done! It done! Tie rag fast!",
+        "Ghh... cut it off... Dune actually did it...",
+        "Over now... breathe... Dune breathe..."
+      ],
+      "minigame_dislocation_success": [
+        "...Ghhk! Clack! Back in hole!",
+        "Agh! Snapped in! Hurt so bad!",
+        "POP! ...Ahhh, better now. Claws can move.",
+        "Joint clicked back. Stings bad, but fixed."
+      ],
+      "psychology_broken_leg_hobble": [
+        "Agh... can't step on broken leg...",
+        "Bone grinding inside leg... ouch ouch...",
+        "Ngh... drag foot in dirt... keep hobbling...",
+        "Barely can walk... need stick to tie on leg..."
+      ],
+      "panic_vomit": [
+        "Heave from scare! *cough cough*",
+        "Bile burn throat... Du-ne sca-red!",
+        "Chest hurt... can't stop puking...",
+        "Scared so bad tu-mmy spit up...",
+        "*chokes on bile* Help Du-ne...!"
+      ],
+      "panic_confusion": [
+        "Where Du-ne walking...? Forgot...",
+        "Hands shake... what happened...?",
+        "Du-ne drop thi-ng? Head all numb...",
+        "Why Du-ne here...? Mind blank...",
+        "Blink blink... where cave go...?"
+      ],
+      "panic_headache": [
+        "Agh! Head pound like big drum!",
+        "Eyes hurt... head hurt bad!",
+        "Brain feel squishy... make noise stop!",
+        "*holds antennae* Head cracking open!",
+        "Too loud... noise hammer on skull..."
+      ],
+      "panic_tool_breather": [
+        "St-op... wait...",
+        "No pull... Du-ne need second...",
+        "Leave it... not now...",
+        "Du-ne need breathe! Stop!",
+        "Back up... let Du-ne rest..."
+      ],
+      "panic_tool_refuse_severe": [
+        "NO! STOP PULLING!",
+        "DU-NE SAID STOP!",
+        "LEAVE DUNE ALONE! GRRR!",
+        "GET AWAY! NO TOUCH DUNE!",
+        "DU-NE BITE CLAWS IF NO STOP!"
+      ],
+      "nightmare_woke_shook": [
+        "*gasps* Bad dream! Just dream!",
+        "Heart pounding... shadow mo-nster was there!",
+        "Du-ne awake... no close eyes again...",
+        "Cold sweat on skin... dream so real..."
+      ],
+      "phantom_trader_dissolve": [
+        "Wait... where nice tra-der go...?",
+        "Tra-der was right there... now gone... smoke...?",
+        "Nobody here... just empty rock... Du-ne alone...",
+        "Dune saw friend! Where friend poof to...?",
+        "Empty pod... only air..."
+      ]
+    }
   ],
   "moodle": {
     "panicking": "Panic",
@@ -2618,7 +6341,7 @@
     "psychology_title_depressive_lethargy": "Exhausted",
     "psychology_title_isolation_numbness": "Numb & Alone",
     "psychology_title_guarded_respite": "Breathing Room",
-    "psychology_title_somatic_respite": "Resting Easy",
+    "psychology_title_somatic_respite": "Catching Breath",
     "psychology_title_feverish_elevation": "Hyped Up",
     "psychology_title_manic_focus": "Laser-Focused",
     "psychology_title_guarded_composure": "Composed",
