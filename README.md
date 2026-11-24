@@ -3,7 +3,7 @@
 Public dialogue and translation repository for the *Casualties Unknown* Casualty Psychology mod.
 
 Code and engine patches are kept in a private development repository. This repository accepts community contributions for:
-- Survivor dialogue lines (`character`).
+- Sawian dialogue lines (`character`).
 - Translations (`EN.json`, `ES.json`, `RU.json`, etc.).
 - UI and moodle string corrections (`ui`, `moodle`).
 

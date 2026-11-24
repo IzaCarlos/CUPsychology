@@ -1,0 +1,143 @@
+{
+  "character": [
+    {
+      "cui_drunk_low": [
+        "Ooh... head's buzzing a bit.",
+        "Chest is warm. Nice.",
+        "Feeling a little looser...",
+        "Heh... that's taking the edge off.",
+        "Head feels light and relaxed."
+      ],
+      "cui_drunk_slurred": [
+        "W-wait... floor is swaying under my feet.",
+        "Why're there two of everything..?",
+        "Hic! ...Whoa, hold on a second.",
+        "Legs are like rubber... can't walk straight.",
+        "Everything's tilted... heh."
+      ],
+      "cui_drunk_wasted": [
+        "I am SO fucking plastered...",
+        "Hahaha... can't feel my face at all.",
+        "Floor feels really nice right now...",
+        "Room is SPINNING... whoa.",
+        "Urrgh... drank way too much..."
+      ],
+      "cui_hangover": [
+        "Ughhh... mouth tastes like dry ash.",
+        "My HEAD... holy fuck.",
+        "Never drinking that rotgut again...",
+        "Turn off the light, it BURNS.",
+        "Throbbing... everything throbs..."
+      ],
+      "cui_hangover_headache": [
+        "Pounding in my skull like a jackhammer.",
+        "QUIET... please, just shut up.",
+        "Drilling right behind my eyeballs...",
+        "Brain feels like it's swelling up."
+      ],
+      "cui_hangover_nausea": [
+        "Urp... stomach's doing backflips.",
+        "Bluugh... don't make me move...",
+        "Oh god, bile... *gag*",
+        "I'm gonna puke... hold on..."
+      ]
+    },
+    {
+      "cui_drunk_low": [
+        "Mmh... a subtle cerebral buzz. Not entirely unpleasant.",
+        "A pleasant warmth radiating through my chest.",
+        "Inhibitions slightly mitigated... manageable.",
+        "Heh... that takes the edge off nicely.",
+        "Mind is relaxed. A rare indulgence.",
+        "Appears I've taken a depressant."
+      ],
+      "cui_drunk_slurred": [
+        "W-wait... the cavern floor is listing to starboard.",
+        "Double vision... there are two of you. Peculiar...",
+        "*hic* ...Tch. Uncouth reflex. Pardon me.",
+        "My paws feel remarkably unresponsive... navigating in zig-zags.",
+        "The ceiling is tilted at a twenty-degree angle... heh.",
+        "Mmmm... I feel warmer than usual... *hic*"
+      ],
+      "cui_drunk_wasted": [
+        "I am utterly and thoroughly intoxicated... splendid.",
+        "Hahaha... I cannot feel my snout whatsoever.",
+        "The cold floor makes for an exceptionally comfortable mattress...",
+        "The entire chamber is revolving... fascinating...",
+        "Urrgh... my ethanol intake was grossly miscalculated...",
+        "Four of you... Hah. Overly redundant today.",
+        "...carry the three, add the two... huh...",
+        "Sir Isaac Newton, you damn apple loving bastard."
+      ],
+      "cui_hangover": [
+        "Ughhh... palate tastes like parched ash and sulfur.",
+        "My skull... is in excruciating agony.",
+        "I swear to never consume that wretched brew again...",
+        "Extinguish that light source immediately, it scorches my retinas.",
+        "My head is throbbing... every pulse of my heart is sheer torture.",
+        "I feel beyond sickened from the inside. *groan*"
+      ],
+      "cui_hangover_headache": [
+        "It feels like a pneumatic drill vibrating against my cranium.",
+        "Silence... I demand absolute silence, please.",
+        "There's an excruciating pressure drilling right behind my ocular sockets...",
+        "Feels as though my cerebral tissue is swelling against my skull.",
+        "I feel as if my head is about to detonate... splendid."
+      ],
+      "cui_hangover_nausea": [
+        "Urp... I'm having rather violent contractions in my gut.",
+        "Bluugh... do not force me into motion...",
+        "Ugh... disgusting... *gags*",
+        "I am going to regurgitate...",
+        "Better stand clear... this is unnaceptable..."
+      ]
+    },
+    {
+      "cui_drunk_low": [
+        "Ooh... Du-ne he-ad feel buz-zy like ba-by bug.",
+        "Tummy wa-rm... nice dri-nk.",
+        "Du-ne feel loose... legs si-lly.",
+        "Hehe... took bad feel aw-ay from Du-ne.",
+        "He-ad feel lig-ht like... air!"
+      ],
+      "cui_drunk_slurred": [
+        "W-wait... cave floor rocking like boat!",
+        "Why two rock now...? Blink blink...",
+        "*hic!* ...Whoa, hold on rock!",
+        "Legs soft like jelly... can't walk straight!",
+        "Everything crooked... hehe...",
+        "*Semi-incoherent warbling* Du-ne go weee!"
+      ],
+      "cui_drunk_wasted": [
+        "Du-ne so crazy! Wheeee!",
+        "Hahaha... can't feel face! Numb snout!",
+        "Dirt flo-or so cozy... want sleep on rocks...",
+        "Room spin li-ke big top! Whoa-a!",
+        "Urrgh... drank too much fun-ny water...",
+        "Du-ne feel silly! Silly!"
+      ],
+      "cui_hangover": [
+        "Ughhh... mouth dry like dust...",
+        "Du-ne HEAD... ouch ouch ouch...",
+        "Never drink bad water again... promise...",
+        "Put out light! Light burn Du-ne eyes!",
+        "Hurt... whole head hurty...",
+        "*really long groan*"
+      ],
+      "cui_hangover_headache": [
+        "Big hammer pounding inside Du-ne skull!",
+        "QUIET... please stop talking so loud...",
+        "Sharp th-ing poking behind eyes...",
+        "Brain feel too big for head... ache bad...",
+        "*holding head* Du-ne want re-st..."
+      ],
+      "cui_hangover_nausea": [
+        "Urp... tummy flipping upside down...",
+        "Bluugh... don't push Dune... want lie down...",
+        "Sour juice in mouth... *gags*",
+        "Du-ne throw up...",
+        "*chittering* Du-ne feel VERY emp-ty..."
+      ]
+    }
+  ]
+}

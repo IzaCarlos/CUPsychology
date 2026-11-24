@@ -1,33 +1,35 @@
 # Contribution Guidelines
 
-## 1. Dialogue Style & Tone
+These guidelines are general conventions to help new lines fit naturally into the game rather than strict rules, feel free to play with voice, phrasing, and rhythm.
 
-Casualty Psychology is about desperate underground survival and cognitive collapse.
+## 1. General Voice & Pacing
 
-- **Short & punchy**: In-game speech bubbles display for 2.5-4.5s. Aim for 4 to 12 words per line.
-- **Gritty and restrained**: Speak like an exhausted survivor in a hostile pit. No anime tropes, action-hero quips, or memes.
-- **Punctuation**: Use ellipses (`...`) sparingly for breathing pauses or trailing thoughts. Exclamation marks are for acute agony, weapon jams, or sheer panic.
-- **Automated Pain Stuttering**: Do not manually hardcode stutters (`"H-help..."`, `"T-tight..."`) or excessive hyphens into lines. When average pain is over 70% or emotional valence drops below -50, the mod engine automatically breaks up speech with dynamic hyphenated stutters and trailing gasps.
+- **Readable at a glance**: In-game speech bubbles stay up for roughly 2.5–4.5 seconds. Short-to-medium lines (around 4–14 words) tend to read best, though an occasional longer or single-word reaction works fine when it fits the moment (e.g. pain, frustation tics, etc.).
+- **Grounded tone**: Aim for tired, stressed, or dissociating survivors rather than polished hero quips, memes, or over-the-top melodrama, this is a cave where they'll most likely die.
+- **Punctuation & cadence**: Ellipses (`...`), dashes, and fragments are great for trailing thoughts or caught breath; exclamation marks hit harder when saved for acute pain, panic, or sudden shocks. Try to be spare with exclamation marks (except for Dune) and Question marks (e.g. `"YAYY!!!!!!!"`)
+- **Dynamic stuttering**: You don't need to add stutters (`"H-help..."`) into every distressed line. When average pain goes above 70% or valence drops below -50, the mod automatically injects stutters and trailing gasps, but the occasional manual stutter where it genuinely suits a line is fine (e.g. fear).
 
 ## 2. Dynamic Placeholders
 
-Only one dynamic token exists in dialogue lines:
+Vanilla's `Talker` supports one placeholder in dialogue lines:
 
 | Tag | Replaced With | Example |
 |---|---|---|
 | `<limb>` | Injured body part (`left forearm`, `abdomen`, `jaw`) | `"...Can't put weight on my <limb>..."` |
 
-Vanilla's `Talker` automatically substitutes `<limb>` with the affected limb name. Do not invent other placeholder tags.
+Other custom tags aren't parsed by the engine, so stick to `<limb>` when referencing a specific body part. (e.g.)
 
-## 3. Character Structure
+## 3. File & Character Layout
 
-Dialogue lives in `Assets/CasualtyPsychology/<LANG>.json` under the `character` array:
+Main localization and dialogue live in `Assets/CasualtyPsychology/<LANG>.json`, and optional addon locales live in `Assets/CasualtyPsychology/Addons/<Addon>.locale.json`.
 
-- **`character[0]`**: **Expie** (Default survivor; base lines)
-- **`character[1]`**: **Milky** (WIP - currently blank; defaults to Expie's lines)
-- **`character[2]`**: **Dune** (WIP - currently blank; defaults to Expie's lines)
+Inside `character`:
 
-The other characters (Milky and Dune) are currently Work-In-Progress and will automatically fall back to Expie's lines for any keys that are blank or missing in their dictionary. When writing character-specific lines, place them in that character's dictionary to override the default.
+- **`character[0]`**: **Expie** (fallback for modded characters)
+- **`character[1]`**: **Milky**
+- **`character[2]`**: **Dune**
+
+If a key is missing or empty for Milky or Dune, the mod automatically falls back to Expie's pool for that key. Place character-specific lines in that character's object to override or expand their voice.
 
 ```json
 {
@@ -35,18 +37,19 @@ The other characters (Milky and Dune) are currently Work-In-Progress and will au
   "description": "Mod description",
   "character": [
     {
-      "psychology_injury": [
-        "...Took a hit.",
-        "...Shit, that hurts.",
-        "...Gnh... won't go down easy."
+      "psychology_frustation": [
+        "...",
+        "Why...",
+        "Tch.",
+        "Come on..."
       ]
     },
     {},
     {}
   ],
   "moodle": {
-    "panicking": "Acute Panic",
-    "panickingdsc": "Autonomic shock response."
+    "panicking": "Panic",
+    "panickingdsc": "Heart racing and breath catching. Shaking too hard to stay steady."
   },
   "ui": {
     "psychology_dossier_item_name": "Clinical Intake Dossier"
@@ -54,17 +57,16 @@ The other characters (Milky and Dune) are currently Work-In-Progress and will au
 }
 ```
 
-## 4. PR Checklist
+## 4. Before Opening a PR
 
-1. Valid JSON (no trailing commas, escaped quotes `\"`).
-2. Existing trigger keys only (do not invent new key names without mod engine support).
-3. At least 4 variations per dialogue key to keep survivor speech varied.
-4. Keep PRs focused on one language or theme so review stays quick.
-
-To quickly validate a Json you can use Python's `Json.tool` in the following way:
-```python
-python -m json.tool path/to/the.json
-```
+1. **Valid JSON**: Ensure UTF-8 encoding, no trailing commas, and properly escaped quotes (`\"`). You can check locally with:
+   ```bash
+   python -m json.tool path/to/file.json > /dev/null
+   ```
+2. **Existing keys**: Stick to existing trigger keys unless engine support is being added alongside them.
+3. **Variety**: Having at least a few variations per dialogue key helps keep repeated triggers from feeling stale.
+4. **Focused PRs**: Grouping changes by language, character, or addon makes review much easier.
+5. **No added keys**: Unless suggested, do not add new keys to the JSON.
 
 ## 5. Useful resources
 

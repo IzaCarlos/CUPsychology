@@ -1,0 +1,226 @@
+{
+  "character": [
+    {
+      "subex_smoke_cravings": [
+        "Fuck, I need a cigarette.",
+        "Hands won't stop twitching... need a drag.",
+        "I'd kill for a smoke right now.",
+        "Fingers shaking... need nicotine.",
+        "Got a light? God, I need a puff."
+      ],
+      "subex_smoke_calm": [
+        "Puff... nerves settling right down.",
+        "Warm ember... much better.",
+        "Hands are steady again.",
+        "Quiet for a minute... nice drag.",
+        "Smoke in my lungs... clears the head."
+      ],
+      "subex_trip_wonder": [
+        "Whoa... look at the rust breathing...",
+        "Colors... everywhere in the dark.",
+        "The pipes are humming a song... hear it?",
+        "Everything is glowing so bright...",
+        "Floor looks like water ripples."
+      ],
+      "subex_trip_dissociation": [
+        "Can't feel my hands... are they mine?",
+        "Watching myself walk from the ceiling...",
+        "Floating... numb all over.",
+        "Where... where did my body go..?",
+        "Nothing feels real right now."
+      ],
+      "subex_dmt_breakthrough": [
+        "The walls... they just dissolved.",
+        "No more bunker... just pure light.",
+        "I'm out of the hole... finally.",
+        "Everything's connected... so still...",
+        "Blinding light... no more pain."
+      ],
+      "subex_mdma_rolling": [
+        "Chest is so warm... tingling all over.",
+        "Clenching my jaw... feels intense.",
+        "Everything is so SOFT...",
+        "The freeze is completely gone.",
+        "Mmm... whole body's buzzing."
+      ],
+      "subex_cannabinoid_chill": [
+        "Pain's dulling down... nice.",
+        "Head feels like a balloon.",
+        "Moving so slow... don't care.",
+        "Holy shit, I am STARVING.",
+        "Breathing nice and easy for once."
+      ],
+      "subex_sedated_heavy": [
+        "Eyelids like lead... so heavy...",
+        "Can't lift my boots off the floor.",
+        "Head's full of cotton...",
+        "Drifting off... too tired...",
+        "Just... need to lay down..."
+      ],
+      "subex_benzo_withdrawal": [
+        "Sh-shaking all over... can't stop!",
+        "Heart is pounding out of my CHEST!",
+        "Cold sweat... please, where are the pills?!",
+        "Nerves feel like live wires!",
+        "Losing my mind... NEED the meds!"
+      ],
+      "subex_steroid_rage": [
+        "Get the FUCK out of my way!",
+        "Blood pounding in my ears!",
+        "I'll rip right through this damn door!",
+        "Tense... ready to break someone's neck!",
+        "Feel like I could tear steel in half!"
+      ]
+    },
+    {
+      "subex_smoke_cravings": [
+        "Damn it all, I need a cigarette.",
+        "My paws refuse to cease trembling... I require a drag.",
+        "I would commit atrocities for some tobacco at this moment.",
+        "My claws twitching... nicotine deficit is irritatingly noticeable.",
+        "Do you possess an ignition source? I require a puff immediately."
+      ],
+      "subex_smoke_calm": [
+        "*exhales* Ah... neural agitation subsiding. Relaxing.",
+        "A glowing ember... significantly improved.",
+        "My paws are steady once more.",
+        "A fleeting moment of tranquility... what an exquisite drag.",
+        "Warm smoke filling my lungs... at least it clears my cognitive dissonance."
+      ],
+      "subex_trip_wonder": [
+        "Fascinating... the patterns in this cave feel... complex yet deliberate...",
+        "Prismatic fractals... cascading through the pitch dark. Beautiful.",
+        "The wind is whistling by in quite the harmonic pitch... extraordinary.",
+        "Bioluminescence radiating from every surface. I feel enlightened.",
+        "The gravel behaves like ripples upon a liquid surface. How intricate."
+      ],
+      "subex_trip_dissociation": [
+        "I cannot perceive my paws... are these limbs truly mine or a fiction of my mind?",
+        "I can observe my own locomotion from an elevated perspective above...",
+        "Suspended in space, floating off...",
+        "Where... where did my physical form dissolve to...?",
+        "Consensual reality has decoupled entirely it seems.",
+        "Deprived of all sensorial input, yet in my own machinations."
+      ],
+      "subex_dmt_breakthrough": [
+        "The physical barriers have completely dissolved into pure intangible geometry.",
+        "No more caverns... an infinite nexus of brilliant light and infinite expanse.",
+        "Liberated from the cave... transcendent throught.",
+        "All threads of the cosmos interwoven... profound stillness...",
+        "Blinding luminescence... the suffering has ceased.",
+        "A mere abstraction of reality, collapsed within finite geometry."
+      ],
+      "subex_mdma_rolling": [
+        "An overwhelming surge of warmth radiating through my chest.",
+        "Bruxism... clenching my mandibles with incredible intensity... ow.",
+        "Every surface is astonishingly soft to the touch...",
+        "The damp cold has vanished completely.",
+        "Mmm... electric vibrations coursing across my entire form.",
+        "My entire being is overwhelmed..."
+      ],
+      "subex_cannabinoid_chill": [
+        "The physical aches are dulling into distant background noise... pleasant.",
+        "My cranium feels buoyant as a balloon.",
+        "My locomotion has been drastically reduced... yet I find to not care.",
+        "An insatiable appetite has gripped me. I require sustenance immediately... Well, later.",
+        "Respiration is remarkably smooth and tranquil for once.",
+        "About time I relax."
+      ],
+      "subex_sedated_heavy": [
+        "Eyelids weighted like lead slabs... drowsy...",
+        "Cannot compel my paws to lift off.",
+        "My thoughts feel engulfed in cotton...",
+        "Drifting into unconsciousness... an insurmountable fatigue...",
+        "Must... collapse onto the floor..."
+      ],
+      "subex_benzo_withdrawal": [
+        "Tremors convulsing through every fiber... I cannot halt it!",
+        "My heart is thrashing violently against my ribcage! Agh!",
+        "Drenched in cold perspiration... where are the capsules?!",
+        "My nerve endings are profoundly searing!",
+        "My cognition is severely degrading... I require the medication immediately!"
+      ],
+      "subex_steroid_rage": [
+        "Get the FUCK out of my path!",
+        "it feels like a damn torrent of blood in my ears!",
+        "I will rip whoever defies me into pieces!",
+        "My muscles locked in violent tension. Like a pair of springs waiting to snap.",
+        "I possess enough brute force to tear wrought iron asunder!"
+      ]
+    },
+    {
+      "subex_smoke_cravings": [
+        "Need smoky stick... want smoke!",
+        "Du-ne claws twit-ching hard... ne-ed puff...",
+        "Du-ne trade shiny rocks for smo-ke right now...",
+        "Fingers sha-ke... want warm smo-ke...",
+        "Got fire spark? Dune ne-ed little puff..."
+      ],
+      "subex_smoke_calm": [
+        "Puff... ahh... shakes go a-way.",
+        "Warm gl-ow stick... much bet-ter...",
+        "Claws steady now.",
+        "Quiet ca-ve... nice smoky tas-te.",
+        "Warm smo-ke in chest... he-ad feel good."
+      ],
+      "subex_trip_wonder": [
+        "Whoa... ca-ve breath-ing like sleep-ing bug...",
+        "Pretty colors dancing in dark! Shiny!",
+        "Wind sing-ing mu-sic! Hear it, friend?",
+        "Everything glow-ing like shiny beet-les...",
+        "Floor look like water waves!"
+      ],
+      "subex_trip_dissociation": [
+        "Can't fee-l claws... are these Du-ne claws?",
+        "Du-ne seeing self wa-lk from high up in cave!...",
+        "Float-ing in air... nu-mb all ov-er...",
+        "Where bug body go...? Du-ne ghost...?",
+        "Nothing re-al right now... all dre-am... heh..."
+      ],
+      "subex_dmt_breakthrough": [
+        "Walls mel-ted away... gone!",
+        "No more da-rk cave... just big bright light!",
+        "Du-ne out of deep pit... finally free...",
+        "All bugs, all ro-cks, all one thing... so quiet...",
+        "Bri-ght wa-rm light... no more hurt..."
+      ],
+      "subex_mdma_rolling": [
+        "Chest so wa-rm! Tingles every-where!",
+        "Teeth clack-ing! Clen-ch jaw hard!",
+        "Everything so SOFT... rock feel like pill-ow...",
+        "No more shiv-ering... warm li-ke fire!",
+        "Mmm... whole body buzzing happy...",
+        "*happy chittering*"
+      ],
+      "subex_cannabinoid_chill": [
+        "Hurts went sleepy... nice...",
+        "Head float like balloon...",
+        "Walk slow slow... don't care at all...",
+        "DUNE SO HUNGRY! Oughhh...",
+        "Breathing nice and slow... happy bug...",
+        "Du-ne feel go-od..."
+      ],
+      "subex_sedated_heavy": [
+        "Du-ne eyes hea-vy like ro-cks... so sleepy...",
+        "Du-ne no hold hea-vy stu-ff...",
+        "Head stuff-ed with big met-al...",
+        "Drift-ing off... sleep com-ing...",
+        "Du-ne... must li-e down in di-rt..."
+      ],
+      "subex_benzo_withdrawal": [
+        "Du-ne shak-ing all over! Can't stop sha-kes!",
+        "Heart hammering on ribs! BOOM BOOM BOOM!",
+        "Du-ne sweat-ing... where little pills?!",
+        "Du-ne fe-el like ticks bit-ing inside!",
+        "Los-ing mind! DUNE NE-ED MEDI-CINE!"
+      ],
+      "subex_steroid_rage": [
+        "GET OUT OF DUNE WAY! GRRRR!",
+        "*extremely angry hissing*",
+        "Dune sma-sh through with big cla-ws!",
+        "Du-ne will rip he-ad off!",
+        "Du-ne tear any-thing in half!"
+      ]
+    }
+  ]
+}

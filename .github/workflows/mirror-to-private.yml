@@ -1,17 +1,21 @@
 ﻿name: Mirror to Private Repo
 
 on:
-  push:
+  pull_request_target:
+    types: [closed]
     branches: [ main ]
     paths:
       - 'Assets/CasualtyPsychology/**'
 
 jobs:
   mirror:
+    if: github.event.pull_request.merged == true
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Public Repo
         uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.base.ref }}
 
       - name: Checkout Private Repo
         uses: actions/checkout@v4
